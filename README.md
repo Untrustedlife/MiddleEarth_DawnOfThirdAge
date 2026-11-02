@@ -1,6 +1,6 @@
 #Middle-earth
 
-This download contains the latest prepared Middle-earth world for Pilgrimage, complete with a pre-generated history inspired by Tolkien's legendarium.
+This Repo contains the latest prepared Middle-earth world for Pilgrimage, complete with a pre-generated history inspired by Tolkien's legendarium.
 
 This world starts at the dawn of the Third Age, a period that isn't explored all that much in Tolkien's stories, 
 leaving plenty of room for the simulation to take things in interesting directions. 
