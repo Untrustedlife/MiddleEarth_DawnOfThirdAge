@@ -601,7 +601,10 @@
           ],
           "temperature": 8.0,
           "size": 9.0,
-          "type": 2
+          "type": 2,
+          "extraFunFacts": [
+            "The loremasters of Imladris use the chill of the Bruinen as the zero point of their own local temperature scale."
+          ]
         },
         {
           "id": "imladris_falls",
@@ -779,7 +782,8 @@
           "size": 4,
           "type": 1,
           "extraFunFacts": [
-            "The nameless depths beneath nearby Khazad-dûm are home to Balrogs of flame and shadow. Durin’s Bane is one such individual; the deep places may hold others."
+            "The nameless depths beneath nearby Khazad-dûm are home to Balrogs of flame and shadow. Durin’s Bane is one such individual; the deep places may hold others.",
+            "Dwarven Delvings offer one measure for the mountains around Mirrormere; older, darker stories speak of the far greater Balrog Reach."
           ]
         },
         {
@@ -1146,7 +1150,10 @@
           ],
           "temperature": 9.0,
           "size": 14,
-          "type": 2
+          "type": 2,
+          "extraFunFacts": [
+            "In the vales of Anduin, the small folk's Hobbit Ramble is a cheerful, supper-minded measure of how much land one might wander."
+          ]
         },
         {
           "id": "dale_stream",
@@ -1424,7 +1431,10 @@
           ],
           "temperature": 10.0,
           "size": 3,
-          "type": 1
+          "type": 1,
+          "extraFunFacts": [
+            "Gardeners of Lórinand may describe a woodland clearing in Mallorn Canopies instead of the less lyrical kilojeremites."
+          ]
         }
       ]
     },
@@ -1819,7 +1829,10 @@
           ],
           "temperature": 24.0,
           "size": 26,
-          "type": 1
+          "type": 1,
+          "extraFunFacts": [
+            "The hot winds around Núrnen gave local herbalists their unpleasant Ashwind temperature scale."
+          ]
         },
         {
           "id": "nurnen_inlet",
@@ -2368,7 +2381,10 @@
           ],
           "temperature": -4.0,
           "size": 75,
-          "type": 0
+          "type": 0,
+          "extraFunFacts": [
+            "Around the Icebay, the freezing water used by northern shore-watchers defines the zero of the Icebay Chill scale."
+          ]
         },
         {
           "id": "andras_coast",
@@ -24426,8 +24442,11 @@
       "maxHealth": 3,
       "maxHunger": 5,
       "oldSoul": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "HR",
       "extraFunFacts": [
-        "A small, nimble folk fond of gardens, meals, and quiet places."
+        "A small, nimble folk fond of gardens, meals, and quiet places.",
+        "Among the small folk of the Anduin vales, a Hobbit Ramble (HR) is the area a Hobbit might wander while still finding time for supper. The measure is older than the Shire and considerably less precise than its users insist."
       ],
       "DefaultSkills": {
         "Sneaking": 3,
@@ -24486,8 +24505,13 @@
       "maxHealth": 11,
       "maxHunger": 5,
       "oldSoul": false,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "extraFunFacts": [
-        "One of the High Elves, learned, enduring, and haunted by elder histories."
+        "One of the High Elves, learned, enduring, and haunted by elder histories.",
+        "The loremasters of Imladris devised the Imladris Degree (°ID) from the chill of the Bruinen's water: 0°ID is 8°C, and each degree represents 1.25°C. Their thermometers are rather more elegant than most."
       ],
       "DefaultSkills": {
         "Learning": 4,
@@ -24672,8 +24696,11 @@
       "maxHealth": 9,
       "maxHunger": 5,
       "oldSoul": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "DD",
       "extraFunFacts": [
-        "A sturdy child of Aulë, tenacious in stonework and battle."
+        "A sturdy child of Aulë, tenacious in stonework and battle.",
+        "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -24733,9 +24760,12 @@
       "maxHealth": 25,
       "maxHunger": 5,
       "oldSoul": true,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "EM",
       "extraFunFacts": [
         "A giant shepherd of trees whose thoughts are as slow and deep as roots.",
-        "Ents draw sustenance from water and their tree-like nature; EatsPlants is a coarse gameplay approximation, not literal grazing."
+        "Ents draw sustenance from water and their tree-like nature; EatsPlants is a coarse gameplay approximation, not literal grazing.",
+        "Tree-shepherds sometimes speak of an Entmarch (EM): the woodlands an Ent might tend across its wandering life. When asked how long measuring one should take, the Ents become even less hurried."
       ],
       "DefaultSkills": {
         "Fighting": 8,
@@ -25284,10 +25314,13 @@
       "maxHealth": 55,
       "maxHunger": 5,
       "oldSoul": true,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "BR",
       "extraFunFacts": [
         "An ancient spirit of flame and shadow dwelling in fearful depths.",
         "An incorporeal or supernatural being has no ordinary dietary requirement; Pilgrimage currently lacks a separate metabolism-free diet flag.",
-        "Balrogs are exceedingly rare ancient fire-spirits of the deep places. Other Balrogs may stir beneath Khazad-dum even while Durin’s Bane walks its halls."
+        "Balrogs are exceedingly rare ancient fire-spirits of the deep places. Other Balrogs may stir beneath Khazad-dum even while Durin’s Bane walks its halls.",
+        "A Balrog Reach (BR) is the fearsome span a fire-spirit might lay claim to beneath the mountains. It survives in old tales as a unit of area, though very few mapmakers have volunteered to check its accuracy."
       ],
       "DefaultSkills": {
         "Fighting": 15,
@@ -25410,8 +25443,11 @@
       "maxHealth": 19,
       "maxHunger": 5,
       "oldSoul": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "EC",
       "extraFunFacts": [
-        "A majestic bird of the northern mountains."
+        "A majestic bird of the northern mountains.",
+        "From the high peaks of the Misty Mountains comes the Eagle Circuit (EC), a measure of the vast country a Great Eagle may range over. It is convenient for eagles and hopelessly extravagant for village surveyors."
       ],
       "DefaultSkills": {
         "Observer": 5,
@@ -26568,8 +26604,13 @@
       "maxHealth": 4,
       "maxHunger": 5,
       "oldSoul": false,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°IC",
+      "temperatureZeroCelsius": -4,
+      "celsiusPerTemperatureUnit": 1,
       "extraFunFacts": [
-        "A fish-hunting swimmer at the sea edge."
+        "A fish-hunting swimmer at the sea edge.",
+        "The shore-watchers of Forochel speak of Icebay Chill (°IC), measured from the terrible -4°C water of the northern bay. Each degree marks one Celsius degree warmer or colder. Even the seals would prefer fewer negative readings."
       ],
       "DefaultSkills": {
         "Swimming": 4,
@@ -26963,8 +27004,13 @@
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
       "toxinDice": 8,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°KB",
+      "temperatureZeroCelsius": 22,
+      "celsiusPerTemperatureUnit": 0.5,
       "extraFunFacts": [
-        "Kingsfoil, a healing herb of the western lands."
+        "Kingsfoil, a healing herb of the western lands.",
+        "The healers of the Dúnedain invented Kingsfoil Breath Degrees (°KB) while warming bruised athelas to release its refreshing scent. Their zero is a pleasant 22°C, and each degree is half a Celsius degree; they still consider healing more important than measuring."
       ],
       "bait": true
     },
@@ -26997,8 +27043,12 @@
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
       "toxinDice": 8,
+      "lifetimeExplorationAreaOrTerritory": 0.02,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "MC",
       "extraFunFacts": [
-        "A silver-barked tree of golden leaves, renowned in Lórien."
+        "A silver-barked tree of golden leaves, renowned in Lórien.",
+        "Elven gardeners of Lórinand sometimes count groves in Mallorn Canopies (MC), each representing the ground sheltered by the broad boughs of one great golden-leaved mallorn. It is a wonderfully poetic and entirely impractical way to measure a sea."
       ],
       "bait": true
     },
@@ -27664,8 +27714,13 @@
       "biome": "anyWaterBody",
       "toxin": "generaToxin",
       "toxinDice": 25,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°AW",
+      "temperatureZeroCelsius": 24,
+      "celsiusPerTemperatureUnit": 2,
       "extraFunFacts": [
-        "A bitter, stinging plant of ash-choked places."
+        "A bitter, stinging plant of ash-choked places.",
+        "In the ash-laden lands near Mordor, a bitter local scale called Ashwind Degrees (°AW) begins at 24°C and changes by 2°C per degree. It takes its name from the stinging black nettles that bend in the hot, dirty wind."
       ],
       "bait": false
     },
