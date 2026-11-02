@@ -27599,8 +27599,7 @@
       "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
-        "An edible mushroom flourishing beneath fallen leaves.",
-        "A fungus, not a botanical plant; plant=true means edible as plant-like forage within Pilgrimage’s food categories."
+        "An edible mushroom flourishing beneath fallen leaves."
       ],
       "bait": true
     },
@@ -27633,8 +27632,7 @@
       "toxin": "generaToxin",
       "toxinDice": 25,
       "extraFunFacts": [
-        "A treacherous toadstool that resembles edible forest fungi.",
-        "A fungus, not a botanical plant; plant=true means edible as plant-like forage within Pilgrimage’s food categories."
+        "A treacherous toadstool that resembles edible forest fungi."
       ],
       "bait": false
     },
@@ -27991,8 +27989,7 @@
       "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
-        "Branches of living coral in southern waters.",
-        "Coral is a colony of animals rather than a plant; animalLike=true and plant=false make its game diet classification closer to biology."
+        "Branches of living coral in southern waters."
       ],
       "bait": true
     },
@@ -28122,7 +28119,7 @@
       "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
-        "These are small animals, not plants; the engine models them as animalLike forage."
+        "Minute water fleas, copepods, and other drifting animals; important food for minnows, young trout, and other small fish."
       ],
       "bait": true
     },
@@ -28250,7 +28247,7 @@
       "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
-        "Krill are crustaceans and therefore an animal food source, despite living in GeneratedPlants for compatibility."
+        "Small shrimp-like marine crustaceans swimming in dense aggregations; nutritious prey for schooling fish."
       ],
       "bait": true
     }
