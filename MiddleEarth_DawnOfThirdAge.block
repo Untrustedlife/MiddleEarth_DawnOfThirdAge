@@ -19828,7 +19828,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 0,
       "creatureArt": [
-        "<o)))><"
+        "><(((o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -20117,7 +20117,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 0,
       "creatureArt": [
-        "(o__o)~"
+        "~(o__o)"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -25620,9 +25620,9 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
       "creatureArt": [
-        " /\\",
-        "(oo)___",
-        "/||\\"
+        "    /\\",
+        "___(oo)",
+        "   /||\\"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -25790,7 +25790,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
       "creatureArt": [
-        "(o__o)~"
+        "~(o__o)"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -25847,7 +25847,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 10,
       "creatureArt": [
-        "<o)))><"
+        "><(((o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -25901,7 +25901,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 8,
       "creatureArt": [
-        "<o====>"
+        "<====o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -25955,7 +25955,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 5,
       "creatureArt": [
-        "<o=====>"
+        "<=====o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26012,7 +26012,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 3,
       "creatureArt": [
-        "<O######>"
+        "<######O>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26069,7 +26069,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 7,
       "creatureArt": [
-        "<o)))>"
+        "<(((o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26123,7 +26123,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 6,
       "creatureArt": [
-        "~o~~~~"
+        "~~~~o~"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26180,7 +26180,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 8,
       "creatureArt": [
-        "<o))>"
+        "<((o>"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26290,7 +26290,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 7,
       "creatureArt": [
-        "<o===><"
+        "><===o>"
       ],
       "territorial": false,
       "riverDwelling": false,
@@ -26344,7 +26344,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 10,
       "creatureArt": [
-        "<o))>"
+        "<((o>"
       ],
       "territorial": false,
       "riverDwelling": false,
@@ -26398,8 +26398,8 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 2,
       "creatureArt": [
-        " /\\__",
-        "<o####>"
+        "  __/\\ ",
+        "<####o>"
       ],
       "territorial": true,
       "riverDwelling": false,
@@ -26458,7 +26458,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
       "creatureArt": [
-        "(o__o)~"
+        "~(o__o)"
       ],
       "territorial": false,
       "riverDwelling": false,
@@ -26632,7 +26632,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
       "creatureArt": [
-        "~(o)~~~~"
+        "~~~~(o)~"
       ],
       "territorial": false,
       "riverDwelling": true,
@@ -26802,7 +26802,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
       "creatureArt": [
-        "~(o)--"
+        "--(o)~"
       ],
       "territorial": false,
       "riverDwelling": true,
