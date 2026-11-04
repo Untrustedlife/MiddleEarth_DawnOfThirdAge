@@ -1899,7 +1899,7 @@
           "id": "dead_marshes",
           "continentId": "mordor",
           "name": "Pools of the Dead Marshes",
-          "description": "Pools of the Dead Marshes: a lake region of Mordor and the Shadow Mountains. The enclosed dark land defeated but not healed by the fall of its master. At the opening of the Third Age, its fortunes are unwritten.",
+          "description": "The Dead Marshes lie north-west of the battle plain of Dagorlad, between the Emyn Muil and the northern approaches to Mordor. These black fens existed long before the armies of the Last Alliance fought nearby. Since that battle, the waters have slowly crept toward the graves of fallen Elves, Men, and Orcs. Travellers whisper of pale lights and faces deep beneath the dark pools.",
           "species": [
             "orc",
             "goblin",
@@ -2550,6 +2550,16 @@
     },
     {
       "regionId": "dead_marshes",
+      "description": "Ancient fens lie to the north-west of Dagorlad, their dark pools already hemming the battlefield. As the armies of the Last Alliance gather, few can foresee how many will be driven into those treacherous waters.",
+      "eventDate": {
+        "CurrentDay": 2,
+        "CurrentYear": -7
+      },
+      "processed": true,
+      "associatedCreatureId": "58"
+    },
+    {
+      "regionId": "dead_marshes",
       "description": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes.",
       "eventType": 2,
       "eventDate": {
@@ -2840,7 +2850,7 @@
     },
     {
       "regionId": "dead_marshes",
-      "description": "Water pools over the battlefield of Dagorlad; the earth remembers the dead of the Last Alliance.",
+      "description": "Beyond the plain of Dagorlad, the ancient marshes creep slowly toward the graves left by the Last Alliance. Reeds spread through the low ground, and black water gathers at the edges of burial mounds.",
       "eventDate": {
         "CurrentMonth": 2,
         "CurrentDay": 2
@@ -2851,7 +2861,7 @@
     },
     {
       "regionId": "dead_marshes",
-      "description": "Corpse-lights shimmer above the drowned field of Dagorlad, while worms and other scavengers feed on the mud's ancient remnants.",
+      "description": "Wanderers tell of corpse-lights flickering above the old marshes near Dagorlad, and of dead faces glimpsed beneath their waters. None can say when the strange lights first appeared.",
       "eventDate": {
         "CurrentMonth": 2,
         "CurrentDay": 6
