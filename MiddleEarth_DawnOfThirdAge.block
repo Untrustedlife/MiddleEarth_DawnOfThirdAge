@@ -14144,6 +14144,7 @@
       "internalName": "warg",
       "name": "Warg",
       "pluralName": "Wargs",
+      "utteranceChance": 0.6,
       "vocalizations": {
         "outOfSightUtterances": [
           "a bark",
@@ -16776,6 +16777,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
+      "utteranceChance": 0.6,
       "vocalizations": {
         "outOfSightUtterances": [
           "a bark",
