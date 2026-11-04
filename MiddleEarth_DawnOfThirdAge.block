@@ -4615,21 +4615,24 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 9,
+          "selectionWeight": 10,
           "temperaments": {
             "sameSpeciesAttackMultiplier": 0.01,
             "sapientOnSapientAttackMultiplier": 0.15
           }
         },
         {
-          "selectionWeight": 1,
+          "selectionWeight": 5,
+          "parasitic": true,
+          "preferredName": "The One Ring",
+          "possessionTemplate": "PossessionRing",
           "temperaments": {
             "temperament": "Aggressive",
-            "sameSpeciesAttackMultiplier": 0.1,
+            "sameSpeciesAttackMultiplier": 0.5,
             "otherSpeciesAttackMultiplier": 0.8,
             "sapientOnSapientAttackMultiplier": 0.5,
-            "smallTargetAttackMultiplier": 0.2,
-            "largeTargetAttackMultiplier": 0.2
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.1
           }
         }
       ]
