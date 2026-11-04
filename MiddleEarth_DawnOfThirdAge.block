@@ -2553,8 +2553,8 @@
       "description": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes.",
       "eventType": 2,
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 3
       },
       "deathBlock": {
         "associatedCreatureId": "63",
@@ -2569,8 +2569,8 @@
       "description": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host.",
       "eventType": 2,
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 4
       },
       "deathBlock": {
         "associatedCreatureId": "63",
@@ -2585,8 +2585,8 @@
       "description": "Kóri of the West Gate was struck down by Rûzgash of the Black Pikes during the fighting at Dagorlad.",
       "eventType": 2,
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 5
       },
       "processed": true,
       "associatedCreatureId": "67",
@@ -2601,8 +2601,8 @@
       "description": "Thranduil slew Rûzgash of the Black Pikes at Dagorlad, avenging his father Oropher.",
       "eventType": 2,
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 6
       },
       "deathBlock": {
         "associatedCreatureId": "17",
@@ -2613,25 +2613,11 @@
       "associatedCreatureId": "63"
     },
     {
-      "regionId": "mirrormere",
-      "description": "Bruni the Shieldbearer survives Dagorlad and carries Kóri's shattered shield back to Khazad-dûm.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "processed": true,
-      "associatedCreatureId": "66",
-      "additionalAssociatedCreatureIds": [
-        "67",
-        "63"
-      ]
-    },
-    {
       "regionId": "dead_marshes",
       "description": "Ghardûg of the Reeds deserts Rûzgash's warband after seeing Thranduil strike down the Orc captain at Dagorlad.",
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 7
       },
       "processed": true,
       "associatedCreatureId": "68",
@@ -2641,39 +2627,11 @@
       ]
     },
     {
-      "regionId": "forest_river",
-      "description": "Oropher, lord of the Woodland Elves, falls at Dagorlad; Thranduil inherits the burden of leading his people.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "57",
-      "additionalAssociatedCreatureIds": [
-        "17"
-      ]
-    },
-    {
-      "regionId": "celebrant",
-      "description": "Amdír of Lórinand falls amid the fighting; Amroth survives to lead the woodland realm.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "58",
-      "additionalAssociatedCreatureIds": [
-        "18"
-      ]
-    },
-    {
       "regionId": "dead_marshes",
       "description": "The armies of the Last Alliance win victory on the plains of Dagorlad, though many fall.",
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 8
       },
       "deathBlock": null,
       "processed": true,
@@ -2686,12 +2644,54 @@
       "regionId": "morannon_waters",
       "description": "Sauron retreats behind the walls of Barad-dûr; the siege of the Dark Tower begins.",
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 9
       },
       "deathBlock": null,
       "processed": true,
       "associatedCreatureId": "23"
+    },
+    {
+      "regionId": "forest_river",
+      "description": "Word of Oropher's death at Dagorlad reaches the Woodland Realm. Thranduil takes up the leadership of his father's people.",
+      "eventDate": {
+        "CurrentYear": -7,
+        "CurrentDay": 12
+      },
+      "deathBlock": null,
+      "processed": true,
+      "associatedCreatureId": "57",
+      "additionalAssociatedCreatureIds": [
+        "17"
+      ]
+    },
+    {
+      "regionId": "celebrant",
+      "description": "Word reaches Lórinand of Amdír's death at Dagorlad. Amroth survives to lead the woodland realm.",
+      "eventDate": {
+        "CurrentYear": -7,
+        "CurrentDay": 13
+      },
+      "deathBlock": null,
+      "processed": true,
+      "associatedCreatureId": "58",
+      "additionalAssociatedCreatureIds": [
+        "18"
+      ]
+    },
+    {
+      "regionId": "mirrormere",
+      "description": "Bruni the Shieldbearer survives Dagorlad and carries Kóri's shattered shield back to Khazad-dûm.",
+      "eventDate": {
+        "CurrentYear": -7,
+        "CurrentDay": 16
+      },
+      "processed": true,
+      "associatedCreatureId": "66",
+      "additionalAssociatedCreatureIds": [
+        "67",
+        "63"
+      ]
     },
     {
       "regionId": "morannon_waters",
@@ -2837,6 +2837,81 @@
       "deathBlock": null,
       "processed": true,
       "associatedCreatureId": "18"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Water pools over the battlefield of Dagorlad; the earth remembers the dead of the Last Alliance.",
+      "eventDate": {
+        "CurrentMonth": 2,
+        "CurrentDay": 2
+      },
+      "deathBlock": null,
+      "processed": true,
+      "associatedCreatureId": "1"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Corpse-lights shimmer above the drowned field of Dagorlad, while worms and other scavengers feed on the mud's ancient remnants.",
+      "eventDate": {
+        "CurrentMonth": 2,
+        "CurrentDay": 6
+      },
+      "processed": true,
+      "associatedCreatureId": ""
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentMonth": 3,
+        "CurrentDay": 9
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud."
+      },
+      "processed": true,
+      "associatedCreatureId": "69",
+      "additionalAssociatedCreatureIds": [
+        "67"
+      ]
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentMonth": 5,
+        "CurrentDay": 14
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her."
+      },
+      "processed": true,
+      "associatedCreatureId": "70"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentMonth": 8,
+        "CurrentDay": 20
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned."
+      },
+      "processed": true,
+      "associatedCreatureId": "71"
     },
     {
       "regionId": "osgiliath_anduin",
@@ -3079,85 +3154,10 @@
     },
     {
       "regionId": "dead_marshes",
-      "description": "Water pools over the battlefield of Dagorlad; the earth remembers the dead of the Last Alliance.",
+      "description": "It is said that three wanderers may have fallen to the corpse-lights of the Dead Marshes. None returned, and travellers give the black pools a wider berth.",
       "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "1"
-    },
-    {
-      "regionId": "dead_marshes",
-      "description": "Corpse-lights shimmer above the drowned field of Dagorlad, while worms and other scavengers feed on the mud's ancient remnants.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
-      },
-      "processed": true,
-      "associatedCreatureId": ""
-    },
-    {
-      "regionId": "dead_marshes",
-      "description": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud.",
-      "eventType": 2,
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
-      },
-      "deathBlock": {
-        "deathType": 5,
-        "associatedCreatureId": "",
-        "associatedCreatureType": "",
-        "detailedDeathDescription": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud."
-      },
-      "processed": true,
-      "associatedCreatureId": "69",
-      "additionalAssociatedCreatureIds": [
-        "67"
-      ]
-    },
-    {
-      "regionId": "dead_marshes",
-      "description": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her.",
-      "eventType": 2,
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
-      },
-      "deathBlock": {
-        "deathType": 5,
-        "associatedCreatureId": "",
-        "associatedCreatureType": "",
-        "detailedDeathDescription": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her."
-      },
-      "processed": true,
-      "associatedCreatureId": "70"
-    },
-    {
-      "regionId": "dead_marshes",
-      "description": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned.",
-      "eventType": 2,
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
-      },
-      "deathBlock": {
-        "deathType": 5,
-        "associatedCreatureId": "",
-        "associatedCreatureType": "",
-        "detailedDeathDescription": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned."
-      },
-      "processed": true,
-      "associatedCreatureId": "71"
-    },
-    {
-      "regionId": "dead_marshes",
-      "description": "Three more wanderers have vanished beneath the ghostly lights of the Dead Marshes. The reeds hide their resting places, and travellers give the pools a wider berth.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
+        "CurrentYear": 1,
+        "CurrentDay": 1
       },
       "processed": true,
       "associatedCreatureId": "",
@@ -16461,16 +16461,16 @@
       "preferredName": "Oropher",
       "regionId": "forest_river",
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 2193
+        "CurrentYear": 2193,
+        "CurrentDay": 3
       },
       "BornDate": {
         "CurrentDay": 1,
         "CurrentYear": -2200
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 3
       },
       "shiny": false,
       "hasLegendaryStatus": true,
@@ -16657,16 +16657,16 @@
       "preferredName": "Amdír",
       "regionId": "celebrant",
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 2193
+        "CurrentYear": 2193,
+        "CurrentDay": 4
       },
       "BornDate": {
         "CurrentDay": 1,
         "CurrentYear": -2200
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 4
       },
       "shiny": false,
       "hasLegendaryStatus": true,
@@ -17498,16 +17498,16 @@
         "This historical figure is not in Tolkien's records..."
       ],
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 53
+        "CurrentYear": 53,
+        "CurrentDay": 6
       },
       "BornDate": {
         "CurrentDay": 1,
         "CurrentYear": -60
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 6
       },
       "skillsAttributesBlock": {
         "Skills": {
@@ -17727,12 +17727,12 @@
         "CurrentYear": -127
       },
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 120
+        "CurrentYear": 120,
+        "CurrentDay": 5
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
+        "CurrentYear": -7,
+        "CurrentDay": 5
       },
       "skillsAttributesBlock": {
         "Skills": {
@@ -17925,12 +17925,13 @@
         "CurrentYear": -149
       },
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 150
+        "CurrentYear": 149,
+        "CurrentMonth": 3,
+        "CurrentDay": 9
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
+        "CurrentMonth": 3,
+        "CurrentDay": 9
       },
       "skillsAttributesBlock": {
         "Skills": {
@@ -18243,16 +18244,17 @@
       "preferredName": "Ereneth of Osgiliath",
       "regionId": "dead_marshes",
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 37
+        "CurrentYear": 36,
+        "CurrentMonth": 5,
+        "CurrentDay": 14
       },
       "BornDate": {
         "CurrentDay": 1,
         "CurrentYear": -36
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
+        "CurrentMonth": 5,
+        "CurrentDay": 14
       },
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 35,
@@ -18308,12 +18310,13 @@
         "CurrentYear": -34
       },
       "CreatureAge": {
-        "CurrentDay": 1,
-        "CurrentYear": 35
+        "CurrentYear": 34,
+        "CurrentMonth": 8,
+        "CurrentDay": 20
       },
       "DeathDate": {
-        "CurrentDay": 1,
-        "CurrentYear": 1
+        "CurrentMonth": 8,
+        "CurrentDay": 20
       },
       "skillsAttributesBlock": {
         "Skills": {
