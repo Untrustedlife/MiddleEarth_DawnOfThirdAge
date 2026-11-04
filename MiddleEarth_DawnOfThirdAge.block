@@ -14144,6 +14144,32 @@
       "internalName": "warg",
       "name": "Warg",
       "pluralName": "Wargs",
+      "vocalizations": {
+        "outOfSightUtterances": [
+          "a bark",
+          "a howl",
+          "a whine",
+          "a snarl"
+        ],
+        "thirdPersonUtterances": [
+          "barks",
+          "howls",
+          "whines",
+          "snarls"
+        ],
+        "firstPersonUtterances": [
+          "bark",
+          "howl",
+          "whine",
+          "snarl"
+        ],
+        "vocalizationSounds": [
+          "BARKSOUND",
+          "ROARSOUND",
+          "DOGBARKSOUND",
+          "HOWLSOUND"
+        ]
+      },
       "description": "An intelligent and cruel wolf-like predator of the wild.",
       "maxAge": 40,
       "minAge": 6.4,
@@ -16750,6 +16776,32 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
+      "vocalizations": {
+        "outOfSightUtterances": [
+          "a bark",
+          "a howl",
+          "a whine",
+          "a snarl"
+        ],
+        "thirdPersonUtterances": [
+          "barks",
+          "howls",
+          "whines",
+          "snarls"
+        ],
+        "firstPersonUtterances": [
+          "bark",
+          "howl",
+          "whine",
+          "snarl"
+        ],
+        "vocalizationSounds": [
+          "BARKSOUND",
+          "ROARSOUND",
+          "DOGBARKSOUND",
+          "HOWLSOUND"
+        ]
+      },
       "creatureArt": [
         " /\\__",
         "(o  >",
