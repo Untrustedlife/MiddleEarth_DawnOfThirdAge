@@ -4626,6 +4626,10 @@
           "parasitic": true,
           "preferredName": "The One Ring",
           "possessionTemplate": "PossessionRing",
+          "exorcismPossessionChance": 1,
+          "exorcismPossessionTemplate": "PossessionExorcismRing",
+          "ghostPossessionChance": 1,
+          "hauntingPosessionTemplate": "PossessionHauntingRing",
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.5,
