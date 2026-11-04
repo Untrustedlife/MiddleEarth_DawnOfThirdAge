@@ -789,7 +789,7 @@
             "siltworm",
             "blind_cavefish",
             "pale_cave_worm",
-            "watcher_in_the_water"
+            "nameless"
           ],
           "plants": [
             "pine",
@@ -14736,10 +14736,10 @@
       "rolledAttributeModifiers": true
     },
     {
-      "internalName": "watcher_in_the_water",
-      "name": "Watcher in the Water",
-      "pluralName": "Watchers in the Water",
-      "description": "A vast, many-armed creature of the dark pool before the western gate of Khazad-dûm. Its coils disturb the water long before any eye can find its body. No one knows whence it came.",
+      "internalName": "nameless",
+      "name": "Nameless",
+      "pluralName": "Nameless Ones",
+      "description": "A vast, many-armed Nameless creature lurking in the dark pool before the western gate of Khazad-dûm. Its coils disturb the water long before any eye can find its body.",
       "maxAge": 3500,
       "minAge": 350,
       "difficulty": 38,
@@ -19574,11 +19574,11 @@
         "Inquiry": -1
       }
     },
-    "watcher_in_the_water": {
-      "internalName": "watcher_in_the_water",
-      "name": "Watcher in the Water",
-      "pluralName": "Watchers in the Water",
-      "description": "A vast, many-armed creature of the dark pool before the western gate of Khazad-dûm. Its coils disturb the water long before any eye can find its body. No one knows whence it came.",
+    "nameless": {
+      "internalName": "nameless",
+      "name": "Nameless",
+      "pluralName": "Nameless Ones",
+      "description": "An ancient, many-limbed being from the flooded passages and forgotten depths beneath the mountains. Its origin is unknown, and no one can say how many others inhabit the darkness.",
       "maxAge": 3500,
       "minAge": 350,
       "difficulty": 38,
@@ -21138,7 +21138,7 @@
     "heron": true,
     "lizard": true,
     "siltworm": true,
-    "watcher_in_the_water": true,
+    "nameless": true,
     "blind_cavefish": true,
     "pale_cave_worm": true
   }
