@@ -801,7 +801,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 7,
           "size": 6,
@@ -922,7 +922,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 8,
           "size": 5,
@@ -1032,7 +1032,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 11,
           "size": 18,
@@ -1468,7 +1468,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 16,
           "size": 19,
@@ -1799,7 +1799,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 24,
           "size": 26,
@@ -1842,7 +1842,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 21,
           "size": 8.1,
@@ -1882,7 +1882,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 9,
           "size": 5,
@@ -1922,7 +1922,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 13,
           "size": 10,
@@ -1962,7 +1962,7 @@
             "fresh_zooplankton",
             "fresh_benthos",
             "riverbed_detritus",
-            "maggoty_orc_bread"
+            "maggoty_bread"
           ],
           "temperature": 10,
           "size": 3,
@@ -19356,10 +19356,10 @@
       "habitat": "Amphibious",
       "biome": "Freshwater"
     },
-    "maggoty_orc_bread": {
-      "internalName": "maggoty_orc_bread",
-      "name": "Maggoty Orc-bread",
-      "description": "Soggy crumbs of hard Orc-rations dropped into a ditch or stream, now crawling with pale maggots. What Orcs throw away, the creatures of the mud devour.",
+    "maggoty_bread": {
+      "internalName": "maggoty_bread",
+      "name": "Maggoty Bread",
+      "description": "Soggy crumbs of hard rations dropped into a ditch or stream, now crawling with pale maggots.",
       "grows": false,
       "spreadRate": 0,
       "maxAge": 0,
