@@ -4629,7 +4629,7 @@
           "exorcismPossessionChance": 1,
           "exorcismPossessionTemplate": "PossessionExorcismRing",
           "ghostPossessionChance": 1,
-          "hauntingPosessionTemplate": "PossessionHauntingRing",
+          "hauntingPossessionTemplate": "PossessionHauntingRing",
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.5,
