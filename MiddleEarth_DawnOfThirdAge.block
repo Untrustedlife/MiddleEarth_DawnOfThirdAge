@@ -742,7 +742,8 @@
             "balrog",
             "siltworm",
             "blind_cavefish",
-            "pale_cave_worm"
+            "pale_cave_worm",
+            "nameless"
           ],
           "plants": [
             "pine",
@@ -830,7 +831,8 @@
             "river_trout",
             "minnow",
             "frog",
-            "siltworm"
+            "siltworm",
+            "nameless"
           ],
           "plants": [
             "pine",
@@ -870,7 +872,8 @@
             "river_trout",
             "minnow",
             "frog",
-            "siltworm"
+            "siltworm",
+            "nameless"
           ],
           "plants": [
             "pine",
@@ -912,7 +915,8 @@
             "frog",
             "siltworm",
             "blind_cavefish",
-            "pale_cave_worm"
+            "pale_cave_worm",
+            "nameless"
           ],
           "plants": [
             "pine",
