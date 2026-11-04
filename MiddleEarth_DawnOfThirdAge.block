@@ -2529,20 +2529,6 @@
       ]
     },
     {
-      "regionId": "dead_marshes",
-      "description": "The armies of the Last Alliance win victory on the plains of Dagorlad, though many fall.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "55",
-      "additionalAssociatedCreatureIds": [
-        "54"
-      ]
-    },
-    {
       "regionId": "forest_river",
       "description": "Oropher, lord of the Woodland Elves, falls at Dagorlad; Thranduil inherits the burden of leading his people.",
       "eventDate": {
@@ -2619,6 +2605,20 @@
       "associatedCreatureId": "63"
     },
     {
+      "regionId": "dead_marshes",
+      "description": "The armies of the Last Alliance win victory on the plains of Dagorlad, though many fall.",
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -7
+      },
+      "deathBlock": null,
+      "processed": true,
+      "associatedCreatureId": "55",
+      "additionalAssociatedCreatureIds": [
+        "54"
+      ]
+    },
+    {
       "regionId": "morannon_waters",
       "description": "Sauron retreats behind the walls of Barad-dûr; the siege of the Dark Tower begins.",
       "eventDate": {
@@ -2661,20 +2661,6 @@
     },
     {
       "regionId": "morannon_waters",
-      "description": "The siege of Barad-dûr ends. Elendil and Gil-galad overthrow Sauron, but both perish.",
-      "eventDate": {
-        "CurrentDay": 1
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "54",
-      "additionalAssociatedCreatureIds": [
-        "55",
-        "23"
-      ]
-    },
-    {
-      "regionId": "morannon_waters",
       "description": "Elendil the Tall fell in the final struggle with Sauron at the end of the siege of Barad-dûr.",
       "eventType": 2,
       "eventDate": {
@@ -2702,6 +2688,20 @@
       },
       "processed": true,
       "associatedCreatureId": "55"
+    },
+    {
+      "regionId": "morannon_waters",
+      "description": "The siege of Barad-dûr ends. Elendil and Gil-galad overthrow Sauron, but both perish.",
+      "eventDate": {
+        "CurrentDay": 1
+      },
+      "deathBlock": null,
+      "processed": true,
+      "associatedCreatureId": "54",
+      "additionalAssociatedCreatureIds": [
+        "55",
+        "23"
+      ]
     },
     {
       "regionId": "morannon_waters",
