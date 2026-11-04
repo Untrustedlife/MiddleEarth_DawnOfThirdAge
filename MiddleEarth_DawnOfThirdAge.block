@@ -2409,7 +2409,7 @@
     },
     {
       "regionId": "sirannon",
-      "description": "Sauron makes war upon Eregion. Celebrimbor dies; the great treasure of the Elven-smiths is scattered.",
+      "description": "Sauron makes war upon Eregion.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": -1750
@@ -2420,7 +2420,7 @@
     },
     {
       "regionId": "sirannon",
-      "description": "Celebrimbor was slain by Sauron during the fall of Eregion.",
+      "description": "Celebrimbor was slain by Sauron during the fall of Eregion. The great treasure of the Elven-smiths was scattered.",
       "eventType": 2,
       "eventDate": {
         "CurrentDay": 1,
@@ -2429,7 +2429,7 @@
       "deathBlock": {
         "associatedCreatureId": "23",
         "associatedCreatureType": "Maia",
-        "detailedDeathDescription": "Celebrimbor was slain by Sauron during the fall of Eregion."
+        "detailedDeathDescription": "Celebrimbor was slain by Sauron during the fall of Eregion. The great treasure of the Elven-smiths was scattered."
       },
       "processed": true,
       "associatedCreatureId": "59"
@@ -2529,22 +2529,8 @@
       ]
     },
     {
-      "regionId": "forest_river",
-      "description": "Oropher, lord of the Woodland Elves, falls at Dagorlad; Thranduil inherits the burden of leading his people.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "57",
-      "additionalAssociatedCreatureIds": [
-        "17"
-      ]
-    },
-    {
       "regionId": "dead_marshes",
-      "description": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes.",
+      "description": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes. Thranduil survived to lead the Woodland Elves.",
       "eventType": 2,
       "eventDate": {
         "CurrentDay": 1,
@@ -2553,28 +2539,14 @@
       "deathBlock": {
         "associatedCreatureId": "63",
         "associatedCreatureType": "Orc",
-        "detailedDeathDescription": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes."
+        "detailedDeathDescription": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes. Thranduil survived to lead the Woodland Elves."
       },
       "processed": true,
       "associatedCreatureId": "57"
     },
     {
-      "regionId": "celebrant",
-      "description": "Amdír of Lórinand falls amid the fighting; Amroth survives to lead the woodland realm.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -7
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "58",
-      "additionalAssociatedCreatureIds": [
-        "18"
-      ]
-    },
-    {
       "regionId": "dead_marshes",
-      "description": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host.",
+      "description": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host. Amroth survived to lead the woodland realm.",
       "eventType": 2,
       "eventDate": {
         "CurrentDay": 1,
@@ -2583,7 +2555,7 @@
       "deathBlock": {
         "associatedCreatureId": "63",
         "associatedCreatureType": "Orc",
-        "detailedDeathDescription": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host."
+        "detailedDeathDescription": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host. Amroth survived to lead the woodland realm."
       },
       "processed": true,
       "associatedCreatureId": "58"
@@ -2630,22 +2602,8 @@
       "associatedCreatureId": "23"
     },
     {
-      "regionId": "osgiliath_anduin",
-      "description": "Anárion is slain during the long siege of Barad-dûr, leaving Meneldil as his heir.",
-      "eventDate": {
-        "CurrentDay": 1,
-        "CurrentYear": -1
-      },
-      "deathBlock": null,
-      "processed": true,
-      "associatedCreatureId": "56",
-      "additionalAssociatedCreatureIds": [
-        "6"
-      ]
-    },
-    {
       "regionId": "morannon_waters",
-      "description": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr.",
+      "description": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr. Meneldil was left as his heir.",
       "eventType": 2,
       "eventDate": {
         "CurrentDay": 1,
@@ -2654,7 +2612,7 @@
       "deathBlock": {
         "associatedCreatureId": "64",
         "associatedCreatureType": "Orc",
-        "detailedDeathDescription": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr."
+        "detailedDeathDescription": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr. Meneldil was left as his heir."
       },
       "processed": true,
       "associatedCreatureId": "56"
@@ -2691,7 +2649,7 @@
     },
     {
       "regionId": "morannon_waters",
-      "description": "The siege of Barad-dûr ends. Elendil and Gil-galad overthrow Sauron, but both perish.",
+      "description": "The siege of Barad-dûr ends. Elendil and Gil-galad have overthrown Sauron, and the Dark Tower falls.",
       "eventDate": {
         "CurrentDay": 1
       },
