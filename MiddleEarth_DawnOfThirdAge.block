@@ -11262,7 +11262,7 @@
       "maxHealth": 9,
       "extraFunFacts": [
         "A master miner whose labours help sustain the great halls of Khazad-dûm.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -11452,7 +11452,7 @@
       "maxHealth": 9,
       "extraFunFacts": [
         "A craftsperson descended from the keepers of the West-gate, whose family preserves its old lore.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -11642,7 +11642,7 @@
       "maxHealth": 8,
       "extraFunFacts": [
         "A captain serving the Dúnedain of the northern kingdom.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 2,
@@ -11833,7 +11833,7 @@
       "maxHealth": 9,
       "extraFunFacts": [
         "Keeper of the harbour archives at the Grey Havens, where the names of many departed ships are preserved.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 3,
@@ -12026,7 +12026,7 @@
       "maxHealth": 7,
       "extraFunFacts": [
         "A woodland scout who keeps watch over Greenwood after the War of the Last Alliance.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 4,
@@ -12218,7 +12218,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A hunter familiar with the riverbanks and upland paths of the upper Anduin.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -12406,7 +12406,7 @@
       "maxHealth": 7,
       "extraFunFacts": [
         "A guardian of the waters of Lórinand, watching the Silverlode beneath the golden trees.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 4,
@@ -12598,7 +12598,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A sailor of the newly founded southern kingdom, known for journeys out of Pelargir.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 1,
@@ -12788,7 +12788,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A boatwright who makes and repairs river craft along the River Running.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -12975,7 +12975,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A scout who watches the eastern waters and hidden approaches to Ithilien.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 1,
@@ -13165,7 +13165,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A caravan leader who follows the southern roads and the trading paths of Harad.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -13351,7 +13351,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "A fisher and navigator familiar with the shifting waters of the inland Sea of Rhûn.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -13533,7 +13533,7 @@
       "health": 3,
       "extraFunFacts": [
         "A pale swan whose quiet passage through the waters of Lórinand is long remembered.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Swimming": 3,
@@ -14063,7 +14063,7 @@
       "maxHealth": 4,
       "extraFunFacts": [
         "A goblin who hides among the old hollows and abandoned passages of the Misty Mountains.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Sneaking": 3,
@@ -14256,7 +14256,7 @@
       "maxHealth": 5,
       "extraFunFacts": [
         "An Orc who survived the fall of Barad-dûr and still lurks in the shadow of Mordor.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 2,
@@ -14475,7 +14475,7 @@
       "maxHealth": 8,
       "extraFunFacts": [
         "A Warg prowling the barren lands near the Morannon.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -14675,7 +14675,7 @@
       "extraFunFacts": [
         "An Orc siege engineer who ordered the stone that struck down Anárion during the siege of Barad-dûr.",
         "He survived the collapse of his master's power and remains somewhere near the Black Gate.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "CreatureAge": {
         "CurrentDay": 1,
@@ -15086,7 +15086,7 @@
         "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
         "A Dwarf who survived Dagorlad and returned to Khazad-dûm with the broken shield of Kóri, his fallen comrade.",
         "Bruni remembers Rûzgash of the Black Pikes as the Orc who struck Kóri down.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -15439,7 +15439,7 @@
       "extraFunFacts": [
         "An Orc deserter who served under Rûzgash at Dagorlad and witnessed Thranduil slay his captain.",
         "He fled the collapsing warband and still hides among the reeds near the old battlefield.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "utteranceChance": 0.28,
       "vocalizations": {
@@ -17261,7 +17261,7 @@
       "extraFunFacts": [
         "An Orc captain of Dagorlad who slew Oropher and Amdír amid the fighting.",
         "He did not survive the battle: Thranduil struck him down among the bodies on the plain.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "CreatureAge": {
         "CurrentDay": 1,
@@ -17469,7 +17469,7 @@
         "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
         "A Dwarf of Khazad-dûm who fought beside Bruni at Dagorlad and fell to Rûzgash's warband.",
         "His shield was carried home by Bruni while his body remained on the battlefield.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -17667,7 +17667,7 @@
         "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
         "The elder brother of Kóri of the West Gate, whose shield Bruni carried home after Dagorlad.",
         "He entered the Dead Marshes hoping to find his brother's resting place, but saw Kóri's pale face shining beneath a pool and vanished beneath the mire.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -17862,7 +17862,7 @@
       "extraFunFacts": [
         "A messenger of Osgiliath who carried reports between the northern marches of Gondor and the roads beyond Dagorlad.",
         "She mistook a trembling corpse-light for a distant lantern and was drawn into the deep pools of the Dead Marshes.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ],
       "DefaultSkills": {
         "Fighting": 1,
@@ -18218,7 +18218,7 @@
       "extraFunFacts": [
         "An Orc straggler who fled the wreck of his master's armies and sought passage through the reed-fens.",
         "He saw the faces of dead Orcs gleaming below the water and followed their cold lights into the sucking mud.",
-        "This historical figure is fictional."
+        "This historical figure is not in Tolkien's records..."
       ]
     }
   ],
