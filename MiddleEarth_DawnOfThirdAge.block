@@ -4826,7 +4826,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -5022,7 +5030,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.72,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -5218,7 +5234,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -5414,7 +5438,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -5610,7 +5642,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.55,
+            "sapientOnSapientAttackMultiplier": 0.13,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -5806,7 +5846,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.008,
+            "otherSpeciesAttackMultiplier": 0.5,
+            "sapientOnSapientAttackMultiplier": 0.1,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -6002,7 +6050,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -6205,7 +6261,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.24,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 2
+          }
         }
       ]
     },
@@ -6408,7 +6472,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.24,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 2.5
+          }
         }
       ]
     },
@@ -6608,7 +6680,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.008,
+            "otherSpeciesAttackMultiplier": 0.65,
+            "sapientOnSapientAttackMultiplier": 0.17,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -6807,7 +6887,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.4
+          }
         }
       ]
     },
@@ -7012,7 +7100,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.7
+          }
         }
       ]
     },
@@ -7213,7 +7309,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.3,
+            "smallTargetAttackMultiplier": 0.05,
+            "largeTargetAttackMultiplier": 0.8,
+            "exorcismAttemptMultiplier": 1.8
+          }
         }
       ]
     },
@@ -7412,7 +7516,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.24,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -7611,7 +7723,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.08,
+            "largeTargetAttackMultiplier": 0.6,
+            "exorcismAttemptMultiplier": 1.5
+          }
         }
       ]
     },
@@ -7812,7 +7932,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.15,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -8011,7 +8139,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -8212,7 +8348,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.12,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -8408,7 +8552,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 0.9
+          }
         }
       ]
     },
@@ -8613,7 +8765,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.45,
+            "exorcismAttemptMultiplier": 2
           }
         }
       ]
@@ -8819,7 +8977,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.45,
+            "exorcismAttemptMultiplier": 1.7
           }
         }
       ]
@@ -9028,7 +9192,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.75,
+            "exorcismAttemptMultiplier": 1.5
           }
         }
       ]
@@ -9239,7 +9409,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.8,
+            "largeTargetAttackMultiplier": 0.7,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -9448,7 +9624,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.7,
+            "largeTargetAttackMultiplier": 0.48,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -9657,7 +9839,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.94,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.72,
+            "largeTargetAttackMultiplier": 0.52,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -9866,7 +10054,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.92,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.7,
+            "largeTargetAttackMultiplier": 0.47,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -10075,7 +10269,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.9,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.75,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -10284,7 +10484,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.93,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.77,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -10493,7 +10699,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.9,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.73,
+            "largeTargetAttackMultiplier": 0.45,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -10702,7 +10914,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.89,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.75,
+            "largeTargetAttackMultiplier": 0.48,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -10911,7 +11129,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0.87,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.72,
+            "largeTargetAttackMultiplier": 0.44,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -11117,7 +11341,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.7,
+            "largeTargetAttackMultiplier": 0.95,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -11305,7 +11537,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.9,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 0.1
+          }
         }
       ]
     },
@@ -11503,7 +11743,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.05,
+            "largeTargetAttackMultiplier": 0.85,
+            "exorcismAttemptMultiplier": 0.3
+          }
         }
       ]
     },
@@ -11699,7 +11947,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.6,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -11895,7 +12151,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.38,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -12091,7 +12355,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -12290,7 +12562,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.4
+          }
         }
       ]
     },
@@ -12489,7 +12769,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.12,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.1
+          }
         }
       ]
     },
@@ -12682,7 +12970,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.65,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.25,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -12881,7 +13177,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.12,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.1
+          }
         }
       ]
     },
@@ -13077,7 +13381,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.012,
+            "otherSpeciesAttackMultiplier": 0.5,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -13270,7 +13582,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.25,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -13466,7 +13786,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.75,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.08,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -13658,7 +13986,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.012,
+            "otherSpeciesAttackMultiplier": 0.55,
+            "sapientOnSapientAttackMultiplier": 0.14,
+            "smallTargetAttackMultiplier": 0.4,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -13850,7 +14186,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.63,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -14033,7 +14377,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.25,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -14210,7 +14562,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -14394,7 +14754,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.85,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.6,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -14593,7 +14961,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.025,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.45,
+            "smallTargetAttackMultiplier": 0.75,
+            "largeTargetAttackMultiplier": 0.06,
+            "exorcismAttemptMultiplier": 0.45
+          }
         }
       ]
     },
@@ -14791,7 +15167,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.15,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.95,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     },
@@ -15007,7 +15391,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.08,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0.1
+          }
         }
       ]
     },
@@ -15206,7 +15598,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.09,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.9,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     },
@@ -15443,7 +15843,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Aggressive"
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.95,
+            "largeTargetAttackMultiplier": 0.9,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -15647,7 +16053,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.38,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -15868,7 +16282,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.12,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.85,
+            "smallTargetAttackMultiplier": 0.8,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     },
@@ -16095,7 +16517,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.45,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -16297,7 +16725,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.9,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.05,
+            "largeTargetAttackMultiplier": 0.6,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -16498,7 +16934,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.05,
+            "largeTargetAttackMultiplier": 0.7,
+            "exorcismAttemptMultiplier": 1.7
+          }
         }
       ]
     },
@@ -16697,7 +17141,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -16899,7 +17351,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.012,
+            "otherSpeciesAttackMultiplier": 0.85,
+            "sapientOnSapientAttackMultiplier": 0.28,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.55,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -17101,7 +17561,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.012,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.08,
+            "largeTargetAttackMultiplier": 0.55,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -17303,7 +17771,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.24,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1.6
+          }
         }
       ]
     },
@@ -17502,7 +17978,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -17701,7 +18185,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.2,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.9,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.85,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -17900,7 +18392,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.38,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -18127,7 +18627,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.18,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.85,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     },
@@ -18331,7 +18839,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.38,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -18536,7 +19052,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.025,
+            "otherSpeciesAttackMultiplier": 0.82,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -18737,7 +19261,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -18940,7 +19472,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.13,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.86,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     }
@@ -18991,7 +19531,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.015,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.18,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -19038,7 +19586,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.65,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -19084,7 +19640,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.035,
+            "otherSpeciesAttackMultiplier": 0.65,
+            "sapientOnSapientAttackMultiplier": 0.22,
+            "smallTargetAttackMultiplier": 0.25,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -19129,7 +19693,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.025,
+            "otherSpeciesAttackMultiplier": 0.65,
+            "sapientOnSapientAttackMultiplier": 0.23,
+            "smallTargetAttackMultiplier": 0.4,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -19174,7 +19746,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.035,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -19225,7 +19805,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0.7
+          }
         }
       ]
     },
@@ -19282,7 +19870,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.24,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 1.5
+          }
         }
       ]
     },
@@ -19332,7 +19928,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.01,
+            "otherSpeciesAttackMultiplier": 0.6,
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.2
+          }
         }
       ]
     },
@@ -19382,7 +19986,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.12,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.4,
+            "exorcismAttemptMultiplier": 1.1
+          }
         }
       ]
     },
@@ -19435,7 +20047,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.75,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.38,
+            "exorcismAttemptMultiplier": 0.75
+          }
         }
       ]
     },
@@ -19492,7 +20112,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.12,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 0.7
+          }
         }
       ]
     },
@@ -19545,7 +20173,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.2,
+            "smallTargetAttackMultiplier": 0.1,
+            "largeTargetAttackMultiplier": 0.35,
+            "exorcismAttemptMultiplier": 0.8
+          }
         }
       ]
     },
@@ -19592,7 +20228,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.12,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.85,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.4
+          }
         }
       ]
     },
@@ -19640,7 +20284,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.05,
+            "otherSpeciesAttackMultiplier": 0.85,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.7,
+            "largeTargetAttackMultiplier": 0.15,
+            "exorcismAttemptMultiplier": 0.45
+          }
         }
       ]
     },
@@ -19688,7 +20340,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.07,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.7,
+            "smallTargetAttackMultiplier": 0.8,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0.2
+          }
         }
       ]
     },
@@ -19763,7 +20423,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.07,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.28,
+            "exorcismAttemptMultiplier": 0.1
+          }
         }
       ]
     },
@@ -19810,7 +20478,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.22,
+            "exorcismAttemptMultiplier": 0.1
+          }
         }
       ]
     },
@@ -19865,7 +20541,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.005,
+            "otherSpeciesAttackMultiplier": 0.55,
+            "sapientOnSapientAttackMultiplier": 0.25,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.45,
+            "exorcismAttemptMultiplier": 1.5
+          }
         }
       ]
     },
@@ -19922,7 +20606,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "sameSpeciesAttackMultiplier": 0
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.75,
+            "largeTargetAttackMultiplier": 0.5,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -19982,7 +20672,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 1,
+            "smallTargetAttackMultiplier": 0.6,
+            "largeTargetAttackMultiplier": 0.85,
+            "exorcismAttemptMultiplier": 1
+          }
         }
       ]
     },
@@ -20035,7 +20733,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.035,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.85,
+            "smallTargetAttackMultiplier": 0.6,
+            "largeTargetAttackMultiplier": 0.7,
+            "exorcismAttemptMultiplier": 0.6
+          }
         }
       ]
     },
@@ -20088,7 +20794,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.015,
+            "otherSpeciesAttackMultiplier": 0.75,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.15,
+            "largeTargetAttackMultiplier": 0.65,
+            "exorcismAttemptMultiplier": 0.3
+          }
         }
       ]
     },
@@ -20132,7 +20846,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.06,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.5,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0.1
+          }
         }
       ]
     },
@@ -20173,7 +20895,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20220,7 +20950,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.07,
+            "otherSpeciesAttackMultiplier": 0.95,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20263,7 +21001,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.35,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20306,7 +21052,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20346,7 +21100,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20389,7 +21151,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.03,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.15,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20434,7 +21204,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.025,
+            "otherSpeciesAttackMultiplier": 0.78,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.5,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20475,7 +21253,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20516,7 +21302,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20562,7 +21356,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.04,
+            "otherSpeciesAttackMultiplier": 0.98,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.8,
+            "largeTargetAttackMultiplier": 0.15,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20609,7 +21411,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.25,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20650,7 +21460,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.25,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20696,7 +21514,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.03,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.6,
+            "largeTargetAttackMultiplier": 0.18,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20739,7 +21565,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.03,
+            "otherSpeciesAttackMultiplier": 0.82,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.18,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20780,7 +21614,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20823,7 +21665,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.04,
+            "otherSpeciesAttackMultiplier": 0.82,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20865,7 +21715,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20917,7 +21775,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.04,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.3,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -20968,7 +21834,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.035,
+            "otherSpeciesAttackMultiplier": 0.72,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.45,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21012,7 +21886,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Adventurous",
+            "sameSpeciesAttackMultiplier": 0.035,
+            "otherSpeciesAttackMultiplier": 0.75,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.8,
+            "largeTargetAttackMultiplier": 0.1,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21054,7 +21936,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21100,7 +21990,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.045,
+            "otherSpeciesAttackMultiplier": 0.78,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.55,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21143,7 +22041,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.3,
+            "largeTargetAttackMultiplier": 0.25,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21187,7 +22093,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Unspecified",
+            "sameSpeciesAttackMultiplier": 0.02,
+            "otherSpeciesAttackMultiplier": 0.7,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.4,
+            "largeTargetAttackMultiplier": 0.15,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21226,7 +22140,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21267,7 +22189,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -21354,7 +22282,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Aggressive"
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.07,
+            "otherSpeciesAttackMultiplier": 1,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.85,
+            "largeTargetAttackMultiplier": 0.7,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
@@ -21405,7 +22339,15 @@
       "souls": [
         {
           "selectionWeight": 1,
-          "temperaments": {}
+          "temperaments": {
+            "temperament": "Defensive",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
+          }
         }
       ]
     },
@@ -21450,7 +22392,13 @@
         {
           "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Harmless"
+            "temperament": "Harmless",
+            "sameSpeciesAttackMultiplier": 0,
+            "otherSpeciesAttackMultiplier": 0,
+            "sapientOnSapientAttackMultiplier": 0.35,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2,
+            "exorcismAttemptMultiplier": 0
           }
         }
       ]
