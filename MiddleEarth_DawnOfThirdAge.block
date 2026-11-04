@@ -4612,7 +4612,27 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 9,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0.01,
+            "sapientOnSapientAttackMultiplier": 0.15
+          }
+        },
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Aggressive",
+            "sameSpeciesAttackMultiplier": 0.1,
+            "otherSpeciesAttackMultiplier": 0.8,
+            "sapientOnSapientAttackMultiplier": 0.5,
+            "smallTargetAttackMultiplier": 0.2,
+            "largeTargetAttackMultiplier": 0.2
+          }
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -4802,7 +4822,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -4992,7 +5018,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -5182,7 +5214,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -5372,7 +5410,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -5562,7 +5606,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -5752,7 +5802,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -5942,7 +5998,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -6139,7 +6201,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -6336,7 +6404,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -6530,7 +6604,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -6723,7 +6803,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -6922,7 +7008,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -7117,7 +7209,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -7310,7 +7408,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -7503,7 +7607,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -7698,7 +7808,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -7891,7 +8007,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "ent",
@@ -8086,7 +8208,13 @@
       "hasLegendaryStatus": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 18,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "entwife",
@@ -8276,7 +8404,13 @@
       "shiny": false,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 16,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "maia",
@@ -8474,7 +8608,15 @@
       "hasLegendaryStatus": true,
       "hasTerritorialDominance": true,
       "lifetimeExplorationAreaOrTerritory": 250,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     },
     {
       "internalName": "maia",
@@ -8672,7 +8814,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 250,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     },
     {
       "internalName": "maia",
@@ -8873,7 +9023,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 250,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -9076,7 +9234,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -9277,7 +9443,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -9478,7 +9652,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -9679,7 +9861,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -9880,7 +10070,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -10081,7 +10279,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -10282,7 +10488,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -10483,7 +10697,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "nazgul",
@@ -10684,7 +10906,15 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 160,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     {
       "internalName": "balrog",
@@ -10883,7 +11113,13 @@
       "hasTerritorialDominance": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 100,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "giant_spider",
@@ -11065,7 +11301,13 @@
       "eggLayer": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 22,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "great_eagle",
@@ -11257,7 +11499,13 @@
       "eggLayer": true,
       "immuneToNaturalCauses": true,
       "lifetimeExplorationAreaOrTerritory": 260,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -11447,7 +11695,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 32,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -11637,7 +11891,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 32,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -11827,7 +12087,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -12020,7 +12286,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "silvan",
@@ -12213,7 +12485,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 105,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "northman",
@@ -12400,7 +12678,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 45,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "silvan",
@@ -12593,7 +12877,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 105,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "gondorian",
@@ -12783,7 +13073,13 @@
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 35,
       "sizeIsCanonicalMeasurement": true,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "northman",
@@ -12970,7 +13266,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 45,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "gondorian",
@@ -13160,7 +13462,13 @@
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 35,
       "sizeIsCanonicalMeasurement": true,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "haradrim",
@@ -13346,7 +13654,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 40,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "easterling",
@@ -13532,7 +13846,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 42,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "swan",
@@ -13709,7 +14029,13 @@
       "shiny": false,
       "eggLayer": true,
       "lifetimeExplorationAreaOrTerritory": 34,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "river_trout",
@@ -13880,7 +14206,13 @@
       "shiny": false,
       "eggLayer": true,
       "lifetimeExplorationAreaOrTerritory": 8,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "otter",
@@ -14058,7 +14390,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 12,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "goblin",
@@ -14251,7 +14589,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 12,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "orc",
@@ -14443,7 +14787,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 18,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "warg",
@@ -14653,7 +15003,13 @@
       "DeathDate": {},
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 38,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "orc",
@@ -14846,7 +15202,13 @@
           }
         }
       },
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "nameless",
@@ -14877,7 +15239,6 @@
       "territorial": true,
       "hasBlood": false,
       "oldSoul": true,
-      "speciesTemperament": "Aggressive",
       "hands": 8,
       "handNounSingular": "tentacle",
       "handNounPlural": "tentacles",
@@ -15077,7 +15438,15 @@
         }
       },
       "rolledAttributeModifiers": true,
-      "immuneToNaturalCauses": true
+      "immuneToNaturalCauses": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Aggressive"
+          }
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -15274,7 +15643,13 @@
           }
         }
       },
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "orc",
@@ -15489,7 +15864,13 @@
           "WHISPERSOUND",
           "METALLICCLANKSOUND"
         ]
-      }
+      },
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "maia",
@@ -15686,7 +16067,6 @@
       "lifetimeExplorationAreaOrTerritory": 250,
       "rolledAttributeModifiers": true,
       "immuneToNaturalCauses": true,
-      "speciesTemperament": "Harmless",
       "power": true,
       "utteranceChance": 0.18,
       "vocalizations": {
@@ -15710,7 +16090,15 @@
         "vocalizationSounds": [
           "WHISPERSOUND"
         ]
-      }
+      },
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     }
   ],
   "DeadHistoricalFigures": [
@@ -15905,7 +16293,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -16100,7 +16494,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -16293,7 +16693,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -16489,7 +16895,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "sinda",
@@ -16685,7 +17097,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 125,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "noldo",
@@ -16881,7 +17299,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 150,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -17074,7 +17498,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "numenorean",
@@ -17267,7 +17697,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 55,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -17460,7 +17896,13 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 32,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "orc",
@@ -17681,7 +18123,13 @@
           "ROARSOUND",
           "SPOOKWHISPER"
         ]
-      }
+      },
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -17879,7 +18327,13 @@
           }
         }
       },
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "dwarf",
@@ -18078,7 +18532,13 @@
           }
         }
       },
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "gondorian",
@@ -18273,7 +18733,13 @@
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 35,
       "sizeIsCanonicalMeasurement": true,
-      "rolledAttributeModifiers": true
+      "rolledAttributeModifiers": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     {
       "internalName": "orc",
@@ -18470,6 +18936,12 @@
         "An Orc straggler who fled the wreck of his master's armies and sought passage through the reed-fens.",
         "He saw the faces of dead Orcs gleaming below the water and followed their cold lights into the sucking mud.",
         "This historical figure is not in Tolkien's records..."
+      ],
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
       ]
     }
   ],
@@ -18515,7 +18987,13 @@
         "Inquiry": 1,
         "Wisdom": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 55
+      "lifetimeExplorationAreaOrTerritory": 55,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "gondorian": {
       "internalName": "gondorian",
@@ -18556,7 +19034,13 @@
         "Wisdom": 1
       },
       "sizeIsCanonicalMeasurement": true,
-      "lifetimeExplorationAreaOrTerritory": 35
+      "lifetimeExplorationAreaOrTerritory": 35,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "northman": {
       "internalName": "northman",
@@ -18596,7 +19080,13 @@
         "Tenacity": 1,
         "Swiftness": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 45
+      "lifetimeExplorationAreaOrTerritory": 45,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "haradrim": {
       "internalName": "haradrim",
@@ -18635,7 +19125,13 @@
         "Tenacity": 1,
         "Inquiry": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 40
+      "lifetimeExplorationAreaOrTerritory": 40,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "easterling": {
       "internalName": "easterling",
@@ -18674,7 +19170,13 @@
         "Tenacity": 1,
         "Concentration": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 42
+      "lifetimeExplorationAreaOrTerritory": 42,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "hobbit": {
       "internalName": "hobbit",
@@ -18719,7 +19221,13 @@
         "Swiftness": 1,
         "Wisdom": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 8
+      "lifetimeExplorationAreaOrTerritory": 8,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "noldo": {
       "internalName": "noldo",
@@ -18770,7 +19278,13 @@
         "Tenacity": 2,
         "Inquiry": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 150
+      "lifetimeExplorationAreaOrTerritory": 150,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "sinda": {
       "internalName": "sinda",
@@ -18814,7 +19328,13 @@
         "Swiftness": 2,
         "Inquiry": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 125
+      "lifetimeExplorationAreaOrTerritory": 125,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "silvan": {
       "internalName": "silvan",
@@ -18858,7 +19378,13 @@
         "Inquiry": 2,
         "Wisdom": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 105
+      "lifetimeExplorationAreaOrTerritory": 105,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "dwarf": {
       "internalName": "dwarf",
@@ -18905,7 +19431,13 @@
         "Wisdom": 2,
         "Swiftness": -1
       },
-      "lifetimeExplorationAreaOrTerritory": 32
+      "lifetimeExplorationAreaOrTerritory": 32,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "ent": {
       "internalName": "ent",
@@ -18956,7 +19488,13 @@
         "Concentration": 3,
         "Swiftness": -2
       },
-      "lifetimeExplorationAreaOrTerritory": 18
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "entwife": {
       "internalName": "entwife",
@@ -19003,7 +19541,13 @@
         "Concentration": 3,
         "Swiftness": -2
       },
-      "lifetimeExplorationAreaOrTerritory": 16
+      "lifetimeExplorationAreaOrTerritory": 16,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "orc": {
       "internalName": "orc",
@@ -19044,7 +19588,13 @@
         "Misery": 2,
         "Swiftness": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 18
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "goblin": {
       "internalName": "goblin",
@@ -19086,7 +19636,13 @@
         "Inquiry": 2,
         "Misery": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 12
+      "lifetimeExplorationAreaOrTerritory": 12,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "troll": {
       "internalName": "troll",
@@ -19128,7 +19684,13 @@
         "Swiftness": -2,
         "Concentration": -1
       },
-      "lifetimeExplorationAreaOrTerritory": 25
+      "lifetimeExplorationAreaOrTerritory": 25,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "warg": {
       "internalName": "warg",
@@ -19197,7 +19759,13 @@
         "Swiftness": 2,
         "Concentration": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 38
+      "lifetimeExplorationAreaOrTerritory": 38,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "giant_spider": {
       "internalName": "giant_spider",
@@ -19238,7 +19806,13 @@
         "Tenacity": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 22
+      "lifetimeExplorationAreaOrTerritory": 22,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "maia": {
       "internalName": "maia",
@@ -19287,7 +19861,13 @@
         "Tenacity": 6,
         "Inquiry": 5
       },
-      "lifetimeExplorationAreaOrTerritory": 250
+      "lifetimeExplorationAreaOrTerritory": 250,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "nazgul": {
       "internalName": "nazgul",
@@ -19337,7 +19917,15 @@
         "Swiftness": -1
       },
       "ethereal": true,
-      "lifetimeExplorationAreaOrTerritory": 160
+      "lifetimeExplorationAreaOrTerritory": 160,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "sameSpeciesAttackMultiplier": 0
+          }
+        }
+      ]
     },
     "balrog": {
       "internalName": "balrog",
@@ -19390,7 +19978,13 @@
         "Wisdom": 2
       },
       "lifetimeExplorationAreaOrTerritory": 100,
-      "immuneToNaturalCauses": true
+      "immuneToNaturalCauses": true,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "dragon": {
       "internalName": "dragon",
@@ -19437,7 +20031,13 @@
         "Wisdom": 3
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 200
+      "lifetimeExplorationAreaOrTerritory": 200,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "great_eagle": {
       "internalName": "great_eagle",
@@ -19484,7 +20084,13 @@
         "Wisdom": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 260
+      "lifetimeExplorationAreaOrTerritory": 260,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "brown_bear": {
       "internalName": "brown_bear",
@@ -19522,7 +20128,13 @@
         "Tenacity": 3,
         "Concentration": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 30
+      "lifetimeExplorationAreaOrTerritory": 30,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "deer": {
       "internalName": "deer",
@@ -19557,7 +20169,13 @@
         "Swiftness": 3,
         "Inquiry": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 32
+      "lifetimeExplorationAreaOrTerritory": 32,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "wolf": {
       "internalName": "wolf",
@@ -19598,7 +20216,13 @@
         "Swiftness": 2,
         "Concentration": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 36
+      "lifetimeExplorationAreaOrTerritory": 36,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "boar": {
       "internalName": "boar",
@@ -19635,7 +20259,13 @@
         "Tenacity": 3,
         "Swiftness": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 18
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "horse": {
       "internalName": "horse",
@@ -19672,7 +20302,13 @@
         "Swiftness": 3,
         "Tenacity": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 75
+      "lifetimeExplorationAreaOrTerritory": 75,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "rabbit": {
       "internalName": "rabbit",
@@ -19706,7 +20342,13 @@
         "Swiftness": 3,
         "Inquiry": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 6
+      "lifetimeExplorationAreaOrTerritory": 6,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "fox": {
       "internalName": "fox",
@@ -19743,7 +20385,13 @@
         "Swiftness": 2,
         "Inquiry": 2,
         "Concentration": 1
-      }
+      },
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "otter": {
       "internalName": "otter",
@@ -19782,7 +20430,13 @@
         "Concentration": 2,
         "Inquiry": 1
       },
-      "lifetimeExplorationAreaOrTerritory": 12
+      "lifetimeExplorationAreaOrTerritory": 12,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "river_trout": {
       "internalName": "river_trout",
@@ -19817,7 +20471,13 @@
         "Concentration": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 8
+      "lifetimeExplorationAreaOrTerritory": 8,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "salmon": {
       "internalName": "salmon",
@@ -19852,7 +20512,13 @@
         "Swiftness": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 65
+      "lifetimeExplorationAreaOrTerritory": 65,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "pike": {
       "internalName": "pike",
@@ -19892,7 +20558,13 @@
         "Tenacity": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 15
+      "lifetimeExplorationAreaOrTerritory": 15,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "sturgeon": {
       "internalName": "sturgeon",
@@ -19933,7 +20605,13 @@
         "Swiftness": -1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 50
+      "lifetimeExplorationAreaOrTerritory": 50,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "carp": {
       "internalName": "carp",
@@ -19968,7 +20646,13 @@
         "Inquiry": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 12
+      "lifetimeExplorationAreaOrTerritory": 12,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "eel": {
       "internalName": "eel",
@@ -20008,7 +20692,13 @@
         "Concentration": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 70
+      "lifetimeExplorationAreaOrTerritory": 70,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "perch": {
       "internalName": "perch",
@@ -20045,7 +20735,13 @@
         "Concentration": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 8
+      "lifetimeExplorationAreaOrTerritory": 8,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "minnow": {
       "internalName": "minnow",
@@ -20080,7 +20776,13 @@
         "Inquiry": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 4
+      "lifetimeExplorationAreaOrTerritory": 4,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "cod": {
       "internalName": "cod",
@@ -20117,7 +20819,13 @@
         "Concentration": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 55
+      "lifetimeExplorationAreaOrTerritory": 55,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "herring": {
       "internalName": "herring",
@@ -20153,7 +20861,13 @@
         "Inquiry": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 85
+      "lifetimeExplorationAreaOrTerritory": 85,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "shark": {
       "internalName": "shark",
@@ -20199,7 +20913,13 @@
         "Concentration": 3,
         "Swiftness": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 165
+      "lifetimeExplorationAreaOrTerritory": 165,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "seal": {
       "internalName": "seal",
@@ -20244,7 +20964,13 @@
         "Concentration": 2,
         "Tenacity": 2
       },
-      "lifetimeExplorationAreaOrTerritory": 90
+      "lifetimeExplorationAreaOrTerritory": 90,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "gull": {
       "internalName": "gull",
@@ -20282,7 +21008,13 @@
         "Inquiry": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 115
+      "lifetimeExplorationAreaOrTerritory": 115,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "frog": {
       "internalName": "frog",
@@ -20318,7 +21050,13 @@
         "Concentration": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 3
+      "lifetimeExplorationAreaOrTerritory": 3,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "water_snake": {
       "internalName": "water_snake",
@@ -20358,7 +21096,13 @@
         "Swiftness": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 9
+      "lifetimeExplorationAreaOrTerritory": 9,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "swan": {
       "internalName": "swan",
@@ -20395,7 +21139,13 @@
         "Concentration": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 34
+      "lifetimeExplorationAreaOrTerritory": 34,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "heron": {
       "internalName": "heron",
@@ -20433,7 +21183,13 @@
         "Swiftness": 2
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 70
+      "lifetimeExplorationAreaOrTerritory": 70,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "lizard": {
       "internalName": "lizard",
@@ -20466,7 +21222,13 @@
         "Concentration": 1
       },
       "eggLayer": true,
-      "lifetimeExplorationAreaOrTerritory": 5
+      "lifetimeExplorationAreaOrTerritory": 5,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "siltworm": {
       "internalName": "siltworm",
@@ -20487,7 +21249,6 @@
       "creatureArt": [
         "~==~"
       ],
-      "speciesTemperament": "Harmless",
       "oceanDwelling": false,
       "hasBlood": false,
       "eggLayer": true,
@@ -20501,7 +21262,15 @@
       "AttributeModifiers": {
         "Swiftness": -2,
         "Inquiry": -1
-      }
+      },
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     },
     "nameless": {
       "internalName": "nameless",
@@ -20532,7 +21301,6 @@
       "territorial": true,
       "hasBlood": false,
       "oldSoul": true,
-      "speciesTemperament": "Aggressive",
       "hands": 8,
       "handNounSingular": "tentacle",
       "handNounPlural": "tentacles",
@@ -20581,7 +21349,15 @@
         "Neither the lore of the Dwarves nor the tales of the Elves can name the horrors said to dwell in the deepest places beneath the mountains.",
         "It has many tentacles and can seize creatures swimming in the Gate-stream."
       ],
-      "lifetimeExplorationAreaOrTerritory": 0.7
+      "lifetimeExplorationAreaOrTerritory": 0.7,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Aggressive"
+          }
+        }
+      ]
     },
     "blind_cavefish": {
       "internalName": "blind_cavefish",
@@ -20625,7 +21401,13 @@
       "extraFunFacts": [
         "These cavefish have vestigial eyes; their sense of movement does more work than sight."
       ],
-      "lifetimeExplorationAreaOrTerritory": 1.2
+      "lifetimeExplorationAreaOrTerritory": 1.2,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {}
+        }
+      ]
     },
     "pale_cave_worm": {
       "internalName": "pale_cave_worm",
@@ -20650,7 +21432,6 @@
       "eggLayer": true,
       "bait": true,
       "oceanDwelling": false,
-      "speciesTemperament": "Harmless",
       "DefaultSkills": {
         "Foraging": 4,
         "Swimming": 2,
@@ -20664,7 +21445,15 @@
         "Pale Cave Worms help recycle debris washed into the dark waters beneath the Misty Mountains.",
         "Pale Cavefish hunt them by sensing minute changes in water pressure."
       ],
-      "lifetimeExplorationAreaOrTerritory": 0.08
+      "lifetimeExplorationAreaOrTerritory": 0.08,
+      "souls": [
+        {
+          "selectionWeight": 1,
+          "temperaments": {
+            "temperament": "Harmless"
+          }
+        }
+      ]
     }
   },
   "GeneratedPlants": {
