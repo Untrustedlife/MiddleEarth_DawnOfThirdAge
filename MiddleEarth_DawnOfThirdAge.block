@@ -4618,7 +4618,8 @@
           "selectionWeight": 10,
           "temperaments": {
             "sameSpeciesAttackMultiplier": 0.01,
-            "sapientOnSapientAttackMultiplier": 0.15
+            "sapientOnSapientAttackMultiplier": 0.15,
+            "exorcismAttemptMultiplier": 0.2
           }
         },
         {
@@ -4632,11 +4633,13 @@
           "hauntingPossessionTemplate": "PossessionHauntingRing",
           "temperaments": {
             "temperament": "Aggressive",
-            "sameSpeciesAttackMultiplier": 0.5,
-            "otherSpeciesAttackMultiplier": 0.8,
+            "sameSpeciesAttackMultiplier": 0.05,
+            "otherSpeciesAttackMultiplier": 0.2,
             "sapientOnSapientAttackMultiplier": 0.5,
-            "smallTargetAttackMultiplier": 0.1,
-            "largeTargetAttackMultiplier": 0.1
+            "smallTargetAttackMultiplier": 5.0,
+            "largeTargetAttackMultiplier": 0.05,
+            "trainingChance": 0.1,
+            "exorcismAttemptMultiplier": 0.1
           }
         }
       ]
