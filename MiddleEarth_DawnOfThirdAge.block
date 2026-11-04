@@ -21977,7 +21977,7 @@
       "plant": false,
       "rot": false,
       "bait": false,
-      "frequency": 3,
+      "frequency": 4,
       "suffocates": true,
       "suffocationDice": 8,
       "solid": false,
