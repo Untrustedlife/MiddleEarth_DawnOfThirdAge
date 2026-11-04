@@ -3245,7 +3245,7 @@
     },
     {
       "regionId": "lake_evendim",
-      "description": "Naturalists report marsh rush on the banks of Lake Evendim, and marsh rush in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Lake Evendim, and marsh rush in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3265,7 +3265,7 @@
     },
     {
       "regionId": "brandywine",
-      "description": "Naturalists report purple heather on the banks of Baranduin / Brandywine, and waterweed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report purple heather on the banks of Baranduin / Brandywine, and waterweed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3285,7 +3285,7 @@
     },
     {
       "regionId": "hoarwell",
-      "description": "Naturalists report green fern on the banks of Mitheithel / Hoarwell, and river willow in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green fern on the banks of Mitheithel / Hoarwell, and river willow in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3305,7 +3305,7 @@
     },
     {
       "regionId": "loudwater",
-      "description": "Naturalists report green grass on the banks of Bruinen / Loudwater, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Bruinen / Loudwater, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3325,7 +3325,7 @@
     },
     {
       "regionId": "greyflood",
-      "description": "Naturalists report wild berries on the banks of Gwathló / Greyflood, and water lily in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report wild berries on the banks of Gwathló / Greyflood, and water lily in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3345,7 +3345,7 @@
     },
     {
       "regionId": "shire_pools",
-      "description": "Naturalists report river reed on the banks of Western Eriador Pools, and river algae in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Western Eriador Pools, and river algae in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3365,7 +3365,7 @@
     },
     {
       "regionId": "old_forest_stream",
-      "description": "Naturalists report ancient oak on the banks of Withywindle, and river willow in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report ancient oak on the banks of Withywindle, and river willow in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3385,7 +3385,7 @@
     },
     {
       "regionId": "gulf_lune",
-      "description": "Naturalists report river reed on the banks of Gulf of Lhûn, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Gulf of Lhûn, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3405,7 +3405,7 @@
     },
     {
       "regionId": "mithlond_harbor",
-      "description": "Naturalists report purple heather on the banks of Grey Havens Anchorage, and seagrass in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report purple heather on the banks of Grey Havens Anchorage, and seagrass in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3425,7 +3425,7 @@
     },
     {
       "regionId": "river_lune",
-      "description": "Naturalists report green beech on the banks of River Lhûn, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green beech on the banks of River Lhûn, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3445,7 +3445,7 @@
     },
     {
       "regionId": "forlindon_coast",
-      "description": "Naturalists report green grass on the banks of Forlindon Coast, and saltweed in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Forlindon Coast, and saltweed in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3465,7 +3465,7 @@
     },
     {
       "regionId": "harlindon_coast",
-      "description": "Naturalists report green fern on the banks of Harlindon Coast, and seagrass in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green fern on the banks of Harlindon Coast, and seagrass in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3485,7 +3485,7 @@
     },
     {
       "regionId": "imladris_bruinen",
-      "description": "Naturalists report green fern on the banks of Bruinen at Rivendell, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green fern on the banks of Bruinen at Rivendell, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3505,7 +3505,7 @@
     },
     {
       "regionId": "imladris_falls",
-      "description": "Naturalists report river reed on the banks of Imladris Falls, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Imladris Falls, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3525,7 +3525,7 @@
     },
     {
       "regionId": "trollshaws_river",
-      "description": "Naturalists report athelas on the banks of Trollshaws Streams, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report athelas on the banks of Trollshaws Streams, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3545,7 +3545,7 @@
     },
     {
       "regionId": "last_bridge",
-      "description": "Naturalists report green beech on the banks of Hoarwell at the Last Bridge, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green beech on the banks of Hoarwell at the Last Bridge, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3565,7 +3565,7 @@
     },
     {
       "regionId": "mirrormere",
-      "description": "Naturalists report green grass on the banks of Kheled-zâram / Mirrormere, and marsh rush in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Kheled-zâram / Mirrormere, and marsh rush in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3585,7 +3585,7 @@
     },
     {
       "regionId": "sirannon",
-      "description": "Naturalists report green fern on the banks of Sirannon / Gate-stream, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green fern on the banks of Sirannon / Gate-stream, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3605,7 +3605,7 @@
     },
     {
       "regionId": "gladden",
-      "description": "Naturalists report mountain pine on the banks of Gladden River, and waterweed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Gladden River, and waterweed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3625,7 +3625,7 @@
     },
     {
       "regionId": "upper_anduin",
-      "description": "Naturalists report purple heather on the banks of Upper Anduin, and marsh rush in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report purple heather on the banks of Upper Anduin, and marsh rush in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3645,7 +3645,7 @@
     },
     {
       "regionId": "dimrill",
-      "description": "Naturalists report green grass on the banks of Dimrill Stream, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Dimrill Stream, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3665,7 +3665,7 @@
     },
     {
       "regionId": "forest_river",
-      "description": "Naturalists report mountain pine on the banks of Forest River, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Forest River, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3685,7 +3685,7 @@
     },
     {
       "regionId": "long_lake",
-      "description": "Naturalists report wild berries on the banks of Long Lake, and waterweed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report wild berries on the banks of Long Lake, and waterweed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3705,7 +3705,7 @@
     },
     {
       "regionId": "celduin",
-      "description": "Naturalists report green grass on the banks of Celduin / River Running, and water lily in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Celduin / River Running, and water lily in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3725,7 +3725,7 @@
     },
     {
       "regionId": "anduin_carrock",
-      "description": "Naturalists report marsh rush on the banks of Anduin at the Carrock, and marsh rush in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Anduin at the Carrock, and marsh rush in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3745,7 +3745,7 @@
     },
     {
       "regionId": "dale_stream",
-      "description": "Naturalists report ancient oak on the banks of Dale Streams, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report ancient oak on the banks of Dale Streams, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3765,7 +3765,7 @@
     },
     {
       "regionId": "greenwood_tarn",
-      "description": "Naturalists report mountain pine on the banks of Greenwood Tarn, and river reed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Greenwood Tarn, and river reed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3785,7 +3785,7 @@
     },
     {
       "regionId": "celebrant",
-      "description": "Naturalists report niphredil on the banks of Celebrant / Silverlode, and water lily in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report niphredil on the banks of Celebrant / Silverlode, and water lily in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3805,7 +3805,7 @@
     },
     {
       "regionId": "nimrodel",
-      "description": "Naturalists report river willow on the banks of Nimrodel, and river algae in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river willow on the banks of Nimrodel, and river algae in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3825,7 +3825,7 @@
     },
     {
       "regionId": "lorien_anduin",
-      "description": "Naturalists report river reed on the banks of Anduin at Lórinand, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Anduin at Lórinand, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3845,7 +3845,7 @@
     },
     {
       "regionId": "golden_pool",
-      "description": "Naturalists report mallorn on the banks of Lórinand Forest Pool, and waterweed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mallorn on the banks of Lórinand Forest Pool, and waterweed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3865,7 +3865,7 @@
     },
     {
       "regionId": "osgiliath_anduin",
-      "description": "Naturalists report lebethron on the banks of Anduin at Osgiliath, and river willow in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report lebethron on the banks of Anduin at Osgiliath, and river willow in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3885,7 +3885,7 @@
     },
     {
       "regionId": "pelargir_anduin",
-      "description": "Naturalists report river willow on the banks of Anduin at Pelargir, and marsh rush in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river willow on the banks of Anduin at Pelargir, and marsh rush in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3905,7 +3905,7 @@
     },
     {
       "regionId": "ithilien_springs",
-      "description": "Naturalists report wild clover on the banks of Ithilien Springs, and waterweed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report wild clover on the banks of Ithilien Springs, and waterweed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3925,7 +3925,7 @@
     },
     {
       "regionId": "gilrain",
-      "description": "Naturalists report river reed on the banks of Gilrain, and river willow in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Gilrain, and river willow in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3945,7 +3945,7 @@
     },
     {
       "regionId": "mering",
-      "description": "Naturalists report athelas on the banks of Mering Stream, and river willow in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report athelas on the banks of Mering Stream, and river willow in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3965,7 +3965,7 @@
     },
     {
       "regionId": "belfalas_bay",
-      "description": "Naturalists report lebethron on the banks of Bay of Belfalas, and seagrass in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report lebethron on the banks of Bay of Belfalas, and seagrass in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -3985,7 +3985,7 @@
     },
     {
       "regionId": "nen_hithoel",
-      "description": "Naturalists report river willow on the banks of Nen Hithoel, and waterweed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river willow on the banks of Nen Hithoel, and waterweed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4005,7 +4005,7 @@
     },
     {
       "regionId": "nurnen",
-      "description": "Naturalists report green grass on the banks of Sea of Núrnen, and waterweed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Sea of Núrnen, and waterweed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4025,7 +4025,7 @@
     },
     {
       "regionId": "nurnen_inlet",
-      "description": "Naturalists report river reed on the banks of Tributaries of Núrnen, and marsh rush in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report river reed on the banks of Tributaries of Núrnen, and marsh rush in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4045,7 +4045,7 @@
     },
     {
       "regionId": "morgul_stream",
-      "description": "Naturalists report mordor nettle on the banks of Ephel Dúath Streams, and waterweed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mordor nettle on the banks of Ephel Dúath Streams, and waterweed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4065,7 +4065,7 @@
     },
     {
       "regionId": "dead_marshes",
-      "description": "Naturalists report shadow nightshade on the banks of Pools of the Dead Marshes, and marsh rush in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report shadow nightshade on the banks of Pools of the Dead Marshes, and marsh rush in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4085,7 +4085,7 @@
     },
     {
       "regionId": "morannon_waters",
-      "description": "Naturalists report marsh rush on the banks of Black Gate Ditches, and waterweed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Black Gate Ditches, and waterweed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4105,7 +4105,7 @@
     },
     {
       "regionId": "umbar_bay",
-      "description": "Naturalists report marsh rush on the banks of Haven of Umbar, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Haven of Umbar, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4125,7 +4125,7 @@
     },
     {
       "regionId": "harad_coast",
-      "description": "Naturalists report black thorn on the banks of Southern Harad Coast, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report black thorn on the banks of Southern Harad Coast, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4145,7 +4145,7 @@
     },
     {
       "regionId": "harad_oasis",
-      "description": "Naturalists report marsh rush on the banks of Harad Oasis, and marsh rush in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Harad Oasis, and marsh rush in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4165,7 +4165,7 @@
     },
     {
       "regionId": "harad_river",
-      "description": "Naturalists report black thorn on the banks of Rivers of Near Harad, and marsh rush in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report black thorn on the banks of Rivers of Near Harad, and marsh rush in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4185,7 +4185,7 @@
     },
     {
       "regionId": "sea_rhun",
-      "description": "Naturalists report green grass on the banks of Sea of Rhûn, and waterweed in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Sea of Rhûn, and waterweed in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4205,7 +4205,7 @@
     },
     {
       "regionId": "carnen",
-      "description": "Naturalists report mountain pine on the banks of Carnen / Redwater, and water lily in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Carnen / Redwater, and water lily in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4225,7 +4225,7 @@
     },
     {
       "regionId": "east_celduin",
-      "description": "Naturalists report marsh rush on the banks of Lower River Running, and river reed in the river itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report marsh rush on the banks of Lower River Running, and river reed in the river itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4245,7 +4245,7 @@
     },
     {
       "regionId": "rhun_tarn",
-      "description": "Naturalists report wild berries on the banks of Eastern Woodland Lake, and river algae in the lake itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report wild berries on the banks of Eastern Woodland Lake, and river algae in the lake itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4265,7 +4265,7 @@
     },
     {
       "regionId": "belegaer",
-      "description": "Naturalists report mountain pine on the banks of Belegaer, the Great Sea, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Belegaer, the Great Sea, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4285,7 +4285,7 @@
     },
     {
       "regionId": "forochel",
-      "description": "Naturalists report green grass on the banks of Icebay of Forochel, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report green grass on the banks of Icebay of Forochel, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -4305,7 +4305,7 @@
     },
     {
       "regionId": "andras_coast",
-      "description": "Naturalists report mountain pine on the banks of Cape Andrast Coast, and sea kelp in the sea itself. This is an ecological note, not a military chronicle.",
+      "description": "Naturalists report mountain pine on the banks of Cape Andrast Coast, and sea kelp in the sea itself.",
       "eventDate": {
         "CurrentDay": 1,
         "CurrentYear": 1
@@ -11192,7 +11192,8 @@
       "health": 9,
       "maxHealth": 9,
       "extraFunFacts": [
-        "A fictional master miner representing the living Dwarves of Khazad-dûm."
+        "A master miner whose labours help sustain the great halls of Khazad-dûm.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -11381,7 +11382,8 @@
       "health": 9,
       "maxHealth": 9,
       "extraFunFacts": [
-        "A fictional craftsperson whose family preserves the memory of the west door."
+        "A craftsperson descended from the keepers of the West-gate, whose family preserves its old lore.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -11570,7 +11572,8 @@
       "health": 8,
       "maxHealth": 8,
       "extraFunFacts": [
-        "A fictional captain serving the northern Dúnedain."
+        "A captain serving the Dúnedain of the northern kingdom.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 2,
@@ -11760,7 +11763,8 @@
       "health": 9,
       "maxHealth": 9,
       "extraFunFacts": [
-        "A fictional keeper of the harbour archives."
+        "Keeper of the harbour archives at the Grey Havens, where the names of many departed ships are preserved.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 3,
@@ -11952,7 +11956,8 @@
       "health": 7,
       "maxHealth": 7,
       "extraFunFacts": [
-        "A fictional woodland scout after the Last Alliance."
+        "A woodland scout who keeps watch over Greenwood after the War of the Last Alliance.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 4,
@@ -12143,7 +12148,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional hunter of the upper Anduin."
+        "A hunter familiar with the riverbanks and upland paths of the upper Anduin.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -12330,7 +12336,8 @@
       "health": 7,
       "maxHealth": 7,
       "extraFunFacts": [
-        "A fictional river-guardian of Lórinand."
+        "A guardian of the waters of Lórinand, watching the Silverlode beneath the golden trees.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 4,
@@ -12521,7 +12528,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional sailor of the newly founded southern kingdom, not the later king."
+        "A sailor of the newly founded southern kingdom, known for journeys out of Pelargir.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 1,
@@ -12710,7 +12718,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional boatwright of River Running."
+        "A boatwright who makes and repairs river craft along the River Running.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -12896,7 +12905,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional scout tending the eastern river ways."
+        "A scout who watches the eastern waters and hidden approaches to Ithilien.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 1,
@@ -13085,7 +13095,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional caravan leader from the south."
+        "A caravan leader who follows the southern roads and the trading paths of Harad.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -13270,7 +13281,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional fisher and navigator on the inland sea."
+        "A fisher and navigator familiar with the shifting waters of the inland Sea of Rhûn.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Foraging": 2,
@@ -13451,7 +13463,8 @@
       "oceanDwelling": false,
       "health": 3,
       "extraFunFacts": [
-        "A pale swan of Lórinand, not a canon character."
+        "A pale swan whose quiet passage through the waters of Lórinand is long remembered.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Swimming": 3,
@@ -13980,7 +13993,8 @@
       "health": 4,
       "maxHealth": 4,
       "extraFunFacts": [
-        "A fictional goblin hiding in old mountain hollows."
+        "A goblin who hides among the old hollows and abandoned passages of the Misty Mountains.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Sneaking": 3,
@@ -14172,7 +14186,8 @@
       "health": 5,
       "maxHealth": 5,
       "extraFunFacts": [
-        "A fictional orc survivor of the failed siege of Barad-dûr."
+        "An Orc who survived the fall of Barad-dûr and still lurks in the shadow of Mordor.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 2,
@@ -14390,7 +14405,8 @@
       "health": 8,
       "maxHealth": 8,
       "extraFunFacts": [
-        "A fictional warg prowling near the Morannon."
+        "A Warg prowling the barren lands near the Morannon.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -14588,8 +14604,9 @@
       "regionId": "morannon_waters",
       "statusType": "Hero",
       "extraFunFacts": [
-        "A fictional Orc siege engineer credited with the stone that killed Anárion during the siege of Barad-dûr.",
-        "He survived the collapse of his master's power and remains somewhere near the Black Gate."
+        "An Orc siege engineer who ordered the stone that struck down Anárion during the siege of Barad-dûr.",
+        "He survived the collapse of his master's power and remains somewhere near the Black Gate.",
+        "This historical figure is fictional."
       ],
       "CreatureAge": {
         "CurrentDay": 1,
@@ -14739,7 +14756,7 @@
       "internalName": "nameless",
       "name": "Nameless",
       "pluralName": "Nameless Ones",
-      "description": "A vast, many-armed Nameless creature lurking in the dark pool before the western gate of Khazad-dûm. Its coils disturb the water long before any eye can find its body.",
+      "description": "A huge, gibbering mass of tentacles that lurks in the black pool before the western gate of Khazad-dûm. It stirs beneath the surface and reaches for any creature unfortunate enough to enter its waters.",
       "maxAge": 3500,
       "minAge": 350,
       "difficulty": 38,
@@ -14810,7 +14827,7 @@
         "Inquiry": 2
       },
       "extraFunFacts": [
-        "The creature's origin is left mysterious; this save does not assume it is a Maia or a servant of Sauron.",
+        "Neither the lore of the Dwarves nor the tales of the Elves can name the horrors said to dwell in the deepest places beneath the mountains.",
         "It has many tentacles and can seize creatures swimming in the Gate-stream.",
         "A singular ancient Watcher lurks before the western gate of Khazad-dûm at the dawn of the Third Age."
       ],
@@ -14998,8 +15015,9 @@
       "canonicalAreaMeasurementUnit": "DD",
       "extraFunFacts": [
         "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
-        "A fictional Dwarf who survived Dagorlad and returned to Khazad-dûm carrying the broken shield of Kóri, his fallen comrade.",
-        "Bruni remembers Rûzgash of the Black Pikes as the Orc who struck Kóri down."
+        "A Dwarf who survived Dagorlad and returned to Khazad-dûm with the broken shield of Kóri, his fallen comrade.",
+        "Bruni remembers Rûzgash of the Black Pikes as the Orc who struck Kóri down.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -15350,8 +15368,9 @@
       },
       "rolledAttributeModifiers": true,
       "extraFunFacts": [
-        "A fictional Orc deserter who served under Rûzgash at Dagorlad and witnessed Thranduil kill his captain.",
-        "He fled the collapsing warband and still hides among the reeds near the old battlefield."
+        "An Orc deserter who served under Rûzgash at Dagorlad and witnessed Thranduil slay his captain.",
+        "He fled the collapsing warband and still hides among the reeds near the old battlefield.",
+        "This historical figure is fictional."
       ],
       "utteranceChance": 0.28,
       "vocalizations": {
@@ -17171,8 +17190,9 @@
       "regionId": "dead_marshes",
       "statusType": "Legend",
       "extraFunFacts": [
-        "A fictional Orc captain of Dagorlad, credited in this alternate history with slaying both Oropher and Amdír.",
-        "He did not survive the battle: Thranduil struck him down among the bodies on the plain."
+        "An Orc captain of Dagorlad who slew Oropher and Amdír amid the fighting.",
+        "He did not survive the battle: Thranduil struck him down among the bodies on the plain.",
+        "This historical figure is fictional."
       ],
       "CreatureAge": {
         "CurrentDay": 1,
@@ -17378,8 +17398,9 @@
       "canonicalAreaMeasurementUnit": "DD",
       "extraFunFacts": [
         "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
-        "A fictional Dwarf of Khazad-dûm who fought beside Bruni at Dagorlad and fell to Rûzgash's warband.",
-        "His shield was carried home by Bruni while his body remained on the battlefield."
+        "A Dwarf of Khazad-dûm who fought beside Bruni at Dagorlad and fell to Rûzgash's warband.",
+        "His shield was carried home by Bruni while his body remained on the battlefield.",
+        "This historical figure is fictional."
       ],
       "DefaultSkills": {
         "Fighting": 3,
@@ -18012,7 +18033,7 @@
       "canonicalAreaMeasurement": true,
       "canonicalAreaMeasurementUnit": "EM",
       "extraFunFacts": [
-        "Ents draw sustenance from water and their tree-like nature; EatsPlants is a coarse gameplay approximation, not literal grazing.",
+        "Ents draw strength from the earth and the waters of the forest, not from grazing as the beasts do.",
         "Tree-shepherds sometimes speak of an Entmarch (EM): the woodlands an Ent might tend across its wandering life. When asked how long measuring one should take, the Ents become even less hurried."
       ],
       "DefaultSkills": {
@@ -18060,7 +18081,7 @@
       "maxHealth": 18,
       "oldSoul": true,
       "extraFunFacts": [
-        "Ents draw sustenance from water and their tree-like nature; EatsPlants is a coarse gameplay approximation, not literal grazing."
+        "Ents draw strength from the earth and the waters of the forest, not from grazing as the beasts do."
       ],
       "DefaultSkills": {
         "Foraging": 5,
@@ -18342,7 +18363,7 @@
       "maxHealth": 40,
       "oldSoul": true,
       "extraFunFacts": [
-        "An incorporeal or supernatural being has no ordinary dietary requirement; Pilgrimage currently lacks a separate metabolism-free diet flag."
+        "The spirits of the world are not sustained by ordinary food as mortal creatures are."
       ],
       "DefaultSkills": {
         "Mysticism": 8,
@@ -18391,7 +18412,7 @@
       "maxHealth": 32,
       "oldSoul": true,
       "extraFunFacts": [
-        "An incorporeal or supernatural being has no ordinary dietary requirement; Pilgrimage currently lacks a separate metabolism-free diet flag."
+        "The Ringwraiths do not need mortal food as living Men do."
       ],
       "DefaultSkills": {
         "Mysticism": 6,
@@ -18443,7 +18464,7 @@
       "canonicalAreaMeasurement": true,
       "canonicalAreaMeasurementUnit": "BR",
       "extraFunFacts": [
-        "An incorporeal or supernatural being has no ordinary dietary requirement; Pilgrimage currently lacks a separate metabolism-free diet flag.",
+        "The spirits of flame and shadow are sustained by no common meat or herb.",
         "Balrogs are exceedingly rare ancient fire-spirits of the deep places. Other Balrogs may stir beneath Khazad-dum even while Durin’s Bane walks its halls.",
         "A Balrog Reach (BR) is the fearsome span a fire-spirit might lay claim to beneath the mountains. It survives in old tales as a unit of area, though very few mapmakers have volunteered to check its accuracy."
       ],
@@ -19416,7 +19437,7 @@
       "health": 4,
       "maxHealth": 4,
       "extraFunFacts": [
-        "This model uses an egg-laying Eurasian grass-snake analogue; many other water-snake species give birth to live young."
+        "These river snakes lay eggs in sheltered banks, often hidden beneath roots and decaying leaves."
       ],
       "DefaultSkills": {
         "Swimming": 3,
@@ -19578,7 +19599,7 @@
       "internalName": "nameless",
       "name": "Nameless",
       "pluralName": "Nameless Ones",
-      "description": "An ancient, many-limbed being from the flooded passages and forgotten depths beneath the mountains. Its origin is unknown, and no one can say how many others inhabit the darkness.",
+      "description": "A nameless, gibbering thing of grasping tentacles, lurking in the flooded darkness beneath the Misty Mountains. There are whispers of other such creatures gnawing at the very roots of the earth, far below the halls of the Dwarves.",
       "maxAge": 3500,
       "minAge": 350,
       "difficulty": 38,
@@ -19649,7 +19670,7 @@
         "Inquiry": 2
       },
       "extraFunFacts": [
-        "The creature's origin is left mysterious; this save does not assume it is a Maia or a servant of Sauron.",
+        "Neither the lore of the Dwarves nor the tales of the Elves can name the horrors said to dwell in the deepest places beneath the mountains.",
         "It has many tentacles and can seize creatures swimming in the Gate-stream."
       ],
       "lifetimeExplorationAreaOrTerritory": 0.7
@@ -20966,7 +20987,7 @@
       "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
-        "Herring feed heavily on animal plankton, which is animalLike in Pilgrimage."
+        "Herring feed heavily upon the tiny drifting animals that fill the western seas."
       ],
       "bait": true
     },
@@ -21061,8 +21082,8 @@
       "habitat": "Aquatic",
       "biome": "Freshwater",
       "extraFunFacts": [
-        "These lights are represented as an environmental hazard rather than a new ghost species.",
-        "The danger is the drowned marsh beneath the lights, not a poisonous plant."
+        "Pale faces are said to shimmer beneath the black water wherever the corpse-lights gather.",
+        "Travellers who follow the lights often step into deep, clinging mire and are never seen again."
       ]
     },
     "drowned_battlefield_remains": {
@@ -21083,7 +21104,7 @@
       "habitat": "Amphibious",
       "biome": "Freshwater",
       "extraFunFacts": [
-        "These remnants are detritus for scavengers, not living soldiers or ghosts.",
+        "Worms and other scavengers feed upon the drowned remnants of warriors lost at Dagorlad.",
         "Their presence marks the old battlefield of Dagorlad."
       ]
     }
