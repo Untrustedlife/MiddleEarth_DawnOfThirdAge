@@ -4,7 +4,7 @@
     "CurrentDay": 1,
     "CurrentYear": 1
   },
-  "histFigCount": 71,
+  "histFigCount": 72,
   "ContinentBlocks": [
     {
       "id": "eriador",
@@ -2861,6 +2861,19 @@
       "associatedCreatureId": "9",
       "additionalAssociatedCreatureIds": [
         "5"
+      ]
+    },
+    {
+      "regionId": "imladris_bruinen",
+      "description": "J.R.R. Tolkien, the Professor of Imladris, gathers the histories of the Elder Days and records the deeds of the Last Alliance. He listens to warriors but seeks no quarrel of his own.",
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "processed": true,
+      "associatedCreatureId": "72",
+      "additionalAssociatedCreatureIds": [
+        "9"
       ]
     },
     {
@@ -15461,6 +15474,227 @@
         "vocalizationSounds": [
           "WHISPERSOUND",
           "METALLICCLANKSOUND"
+        ]
+      }
+    },
+    {
+      "internalName": "maia",
+      "name": "Maia",
+      "pluralName": "Maiar",
+      "description": "A gentle historian and master of ancient tongues who dwells among the books and chronicles of Imladris. He gathers the stories of Elves, Dwarves, Hobbits, and Men, preserving their deeds in ink rather than taking up arms himself.",
+      "maxAge": 20000,
+      "minAge": 200,
+      "difficulty": 40,
+      "aquatic": false,
+      "size": 2,
+      "EatsPlants": false,
+      "EatsMeat": false,
+      "foodSizeMin": 0,
+      "foodSizeMax": 0,
+      "waterType": "neutral",
+      "hasBlood": false,
+      "oldAgeDeathChance": 0,
+      "frequency": 0,
+      "creatureArt": [
+        " .*. ",
+        "< O >",
+        " /|\\ "
+      ],
+      "sapient": true,
+      "immortal": true,
+      "hands": 2,
+      "health": 40,
+      "maxHealth": 40,
+      "oldSoul": true,
+      "extraFunFacts": [
+        "Known to those who visit the libraries of Imladris as the Professor, he spends long hours setting histories and languages to parchment.",
+        "He would rather hear a forgotten song or record the name of a humble traveller than seek dominion over any land.",
+        "This portrayal of J.R.R. Tolkien as an inhabitant of Middle-earth is fictional."
+      ],
+      "DefaultSkills": {
+        "Learning": 6,
+        "Observer": 5,
+        "Foraging": 2
+      },
+      "AttributeModifiers": {
+        "Wisdom": 8,
+        "Concentration": 7,
+        "Inducement": 6,
+        "Tenacity": 6,
+        "Inquiry": 5
+      },
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 25,
+            "xp": 0,
+            "xpToNextLevel": 8471,
+            "xpToPreviousLevel": 6777,
+            "freeLevels": 2
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 38,
+            "xp": 0,
+            "xpToNextLevel": 78887,
+            "xpToPreviousLevel": 63109,
+            "freeLevels": 5
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 50,
+            "xp": 0,
+            "xpToNextLevel": 918355,
+            "xpToPreviousLevel": 734684,
+            "freeLevels": 6
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 98,
+            "xpToPreviousLevel": 79
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 115,
+            "xp": 0,
+            "xpToNextLevel": 6976241401870,
+            "xpToPreviousLevel": 5580993121496
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 43,
+            "xp": 0,
+            "xpToNextLevel": 734684,
+            "xpToPreviousLevel": 587748
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 122,
+            "xp": 0,
+            "xpToNextLevel": 33265311250064,
+            "xpToPreviousLevel": 26612249000051
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 137,
+            "xp": 0,
+            "xpToNextLevel": 945457010461260,
+            "xpToPreviousLevel": 756365608369008
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 96,
+            "xp": 0,
+            "xpToNextLevel": 100538234170,
+            "xpToPreviousLevel": 80430587336
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 145,
+            "xp": 0,
+            "xpToNextLevel": 5635362925894614,
+            "xpToPreviousLevel": 4508290340715691
+          }
+        }
+      },
+      "id": "72",
+      "statusType": "Demigod",
+      "preferredName": "J.R.R. Tolkien",
+      "regionId": "imladris_bruinen",
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 8001
+      },
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -8000
+      },
+      "DeathDate": {},
+      "shiny": false,
+      "hasLegendaryStatus": true,
+      "hasTerritorialDominance": true,
+      "lifetimeExplorationAreaOrTerritory": 250,
+      "rolledAttributeModifiers": true,
+      "immuneToNaturalCauses": true,
+      "speciesTemperament": "Harmless",
+      "power": true,
+      "utteranceChance": 0.18,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "recite an ancient verse",
+          "murmur over your manuscript",
+          "speak thoughtfully of the Elder Days",
+          "turn a page and resume your notes"
+        ],
+        "thirdPersonUtterances": [
+          "recites an ancient verse",
+          "murmurs over his manuscript",
+          "speaks thoughtfully of the Elder Days",
+          "turns a page and resumes his notes"
+        ],
+        "outOfSightUtterances": [
+          "a soft voice reciting an ancient verse",
+          "the rustling of parchment and the scratching of a quill",
+          "a quiet discussion of forgotten histories"
+        ],
+        "vocalizationSounds": [
+          "WHISPERSOUND"
         ]
       }
     }
