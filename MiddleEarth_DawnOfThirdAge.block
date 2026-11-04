@@ -4,7 +4,7 @@
     "CurrentDay": 1,
     "CurrentYear": 1
   },
-  "histFigCount": 68,
+  "histFigCount": 71,
   "ContinentBlocks": [
     {
       "id": "eriador",
@@ -3084,6 +3084,75 @@
       },
       "processed": true,
       "associatedCreatureId": ""
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Borin of the Broken Shield saw the pale face of his brother Kóri beneath the Dead Marshes. He stepped into the water after it and suffocated in the black mud."
+      },
+      "processed": true,
+      "associatedCreatureId": "69",
+      "additionalAssociatedCreatureIds": [
+        "67"
+      ]
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Ereneth of Osgiliath followed a wavering corpse-light across the Dead Marshes, mistaking it for a lantern. The ground gave way beneath her, and the mire swallowed her."
+      },
+      "processed": true,
+      "associatedCreatureId": "70"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "deathBlock": {
+        "deathType": 5,
+        "associatedCreatureId": "",
+        "associatedCreatureType": "",
+        "detailedDeathDescription": "Grûk the Ash-footed glimpsed the faces of slain Orcs beneath the Dead Marshes. Drawn by their pale light, he stumbled into a deep pool and drowned."
+      },
+      "processed": true,
+      "associatedCreatureId": "71"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Three more wanderers have vanished beneath the ghostly lights of the Dead Marshes. The reeds hide their resting places, and travellers give the pools a wider berth.",
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "processed": true,
+      "associatedCreatureId": "",
+      "additionalAssociatedCreatureIds": [
+        "69",
+        "70",
+        "71"
+      ]
     },
     {
       "regionId": "sea_rhun",
@@ -17563,6 +17632,594 @@
         }
       },
       "rolledAttributeModifiers": true
+    },
+    {
+      "internalName": "dwarf",
+      "name": "Dwarf",
+      "pluralName": "Dwarves",
+      "description": "A sturdy child of Aulë, tenacious in stonework and battle.",
+      "maxAge": 300,
+      "minAge": 48,
+      "difficulty": 9,
+      "aquatic": false,
+      "size": 1.3,
+      "EatsPlants": true,
+      "EatsMeat": true,
+      "EatsFish": true,
+      "foodSizeMin": 0.03,
+      "foodSizeMax": 2.2,
+      "warmBlood": true,
+      "waterType": "neutral",
+      "oldAgeDeathChance": 0.03,
+      "frequency": 4,
+      "creatureArt": [
+        "  O ",
+        " /#\\",
+        " / \\"
+      ],
+      "sapient": true,
+      "hands": 2,
+      "health": 9,
+      "maxHealth": 9,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "DD",
+      "extraFunFacts": [
+        "The stonewardens of Khazad-dûm have been known to reckon territory in Dwarven Delvings (DD), each roughly the extent a Dwarf might survey in a lifetime. The numbers look very precise when chiseled into stone.",
+        "The elder brother of Kóri of the West Gate, whose shield Bruni carried home after Dagorlad.",
+        "He entered the Dead Marshes hoping to find his brother's resting place, but saw Kóri's pale face shining beneath a pool and vanished beneath the mire.",
+        "This historical figure is fictional."
+      ],
+      "DefaultSkills": {
+        "Fighting": 3,
+        "Intimidation": 2,
+        "Observer": 2,
+        "Learning": 2
+      },
+      "AttributeModifiers": {
+        "Tenacity": 4,
+        "Concentration": 3,
+        "Wisdom": 2,
+        "Swiftness": -1
+      },
+      "lifetimeExplorationAreaOrTerritory": 32,
+      "id": "69",
+      "preferredName": "Borin of the Broken Shield",
+      "regionId": "dead_marshes",
+      "statusType": "Hero",
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -149
+      },
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 150
+      },
+      "DeathDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "level": 12,
+            "xp": 0,
+            "xpToNextLevel": 373,
+            "xpToPreviousLevel": 299,
+            "freeLevels": 3
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 98,
+            "xpToPreviousLevel": 79
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "level": 5,
+            "xp": 0,
+            "xpToNextLevel": 98,
+            "xpToPreviousLevel": 79,
+            "freeLevels": 2
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "level": 6,
+            "xp": 0,
+            "xpToNextLevel": 191,
+            "xpToPreviousLevel": 153
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 9,
+            "xp": 0,
+            "xpToNextLevel": 239,
+            "xpToPreviousLevel": 191,
+            "freeLevels": 2
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50,
+            "freeLevels": 2
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 46,
+            "xp": 0,
+            "xpToNextLevel": 1434930,
+            "xpToPreviousLevel": 1147944
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 31,
+            "xp": 0,
+            "xpToNextLevel": 50488,
+            "xpToPreviousLevel": 40390
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 42,
+            "xp": 0,
+            "xpToNextLevel": 587748,
+            "xpToPreviousLevel": 470198
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 33,
+            "xp": 0,
+            "xpToNextLevel": 78887,
+            "xpToPreviousLevel": 63109
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 30,
+            "xp": 0,
+            "xpToNextLevel": 40390,
+            "xpToPreviousLevel": 32312
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 34,
+            "xp": 0,
+            "xpToNextLevel": 98608,
+            "xpToPreviousLevel": 78887
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 38,
+            "xp": 0,
+            "xpToNextLevel": 240742,
+            "xpToPreviousLevel": 192593
+          }
+        }
+      },
+      "rolledAttributeModifiers": true
+    },
+    {
+      "internalName": "gondorian",
+      "name": "Gondorian",
+      "pluralName": "Gondorians",
+      "description": "A person of the southern realm of Gondor, heir to the exiles of Westernesse.",
+      "maxAge": 120,
+      "minAge": 19.2,
+      "difficulty": 12,
+      "aquatic": false,
+      "size": 1.8,
+      "EatsPlants": true,
+      "EatsMeat": true,
+      "EatsFish": true,
+      "foodSizeMin": 0.03,
+      "foodSizeMax": 2.7,
+      "warmBlood": true,
+      "waterType": "neutral",
+      "oldAgeDeathChance": 0.03,
+      "frequency": 0,
+      "creatureArt": [
+        " O ",
+        "/|\\",
+        "/ \\"
+      ],
+      "sapient": true,
+      "hands": 2,
+      "health": 5,
+      "maxHealth": 5,
+      "extraFunFacts": [
+        "A messenger of Osgiliath who carried reports between the northern marches of Gondor and the roads beyond Dagorlad.",
+        "She mistook a trembling corpse-light for a distant lantern and was drawn into the deep pools of the Dead Marshes.",
+        "This historical figure is fictional."
+      ],
+      "DefaultSkills": {
+        "Fighting": 1,
+        "Observer": 1,
+        "Learning": 1,
+        "Foraging": 1
+      },
+      "AttributeModifiers": {
+        "Tenacity": 1,
+        "Wisdom": 1
+      },
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50,
+            "freeLevels": 1
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50,
+            "freeLevels": 1
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50,
+            "freeLevels": 1
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 30,
+            "xp": 0,
+            "xpToNextLevel": 40390,
+            "xpToPreviousLevel": 32312
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 29,
+            "xp": 0,
+            "xpToNextLevel": 32312,
+            "xpToPreviousLevel": 25850
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 34,
+            "xp": 0,
+            "xpToNextLevel": 98608,
+            "xpToPreviousLevel": 78887
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 27,
+            "xp": 0,
+            "xpToNextLevel": 20680,
+            "xpToPreviousLevel": 16544
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 35,
+            "xp": 0,
+            "xpToNextLevel": 123260,
+            "xpToPreviousLevel": 98608
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 19,
+            "xp": 0,
+            "xpToNextLevel": 3470,
+            "xpToPreviousLevel": 2776
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 36,
+            "xp": 0,
+            "xpToNextLevel": 154075,
+            "xpToPreviousLevel": 123260
+          }
+        }
+      },
+      "id": "70",
+      "statusType": "Hero",
+      "preferredName": "Ereneth of Osgiliath",
+      "regionId": "dead_marshes",
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 37
+      },
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -36
+      },
+      "DeathDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "shiny": false,
+      "lifetimeExplorationAreaOrTerritory": 35,
+      "sizeIsCanonicalMeasurement": true,
+      "rolledAttributeModifiers": true
+    },
+    {
+      "internalName": "orc",
+      "name": "Orc",
+      "pluralName": "Orcs",
+      "description": "A brutal soldier of the shadows, fearful of sunlight and fond of ambush.",
+      "maxAge": 75,
+      "minAge": 12,
+      "difficulty": 5,
+      "aquatic": false,
+      "size": 1.6,
+      "EatsPlants": true,
+      "EatsMeat": true,
+      "EatsFish": true,
+      "EatsRot": true,
+      "foodSizeMin": 0.03,
+      "foodSizeMax": 2.5,
+      "warmBlood": true,
+      "waterType": "neutral",
+      "oldAgeDeathChance": 0.03,
+      "frequency": 8,
+      "creatureArt": [
+        "(><)",
+        "/||\\"
+      ],
+      "sapient": true,
+      "hands": 2,
+      "health": 5,
+      "maxHealth": 5,
+      "DefaultSkills": {
+        "Fighting": 2,
+        "Intimidation": 1,
+        "Sneaking": 2,
+        "Foraging": 1
+      },
+      "AttributeModifiers": {
+        "Tenacity": 1,
+        "Misery": 2,
+        "Swiftness": 1
+      },
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "id": "71",
+      "preferredName": "Grûk the Ash-footed",
+      "regionId": "dead_marshes",
+      "statusType": "Peasant",
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -34
+      },
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 35
+      },
+      "DeathDate": {
+        "CurrentDay": 1,
+        "CurrentYear": 1
+      },
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "level": 5,
+            "xp": 0,
+            "xpToNextLevel": 98,
+            "xpToPreviousLevel": 79,
+            "freeLevels": 2
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 5,
+            "xp": 0,
+            "xpToNextLevel": 123,
+            "xpToPreviousLevel": 98,
+            "freeLevels": 1
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63,
+            "freeLevels": 1
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "level": 12,
+            "xp": 0,
+            "xpToNextLevel": 466,
+            "xpToPreviousLevel": 373,
+            "freeLevels": 2
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 10,
+            "xp": 0,
+            "xpToNextLevel": 466,
+            "xpToPreviousLevel": 373
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "level": 8,
+            "xp": 0,
+            "xpToNextLevel": 299,
+            "xpToPreviousLevel": 239
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 31,
+            "xp": 0,
+            "xpToNextLevel": 50488,
+            "xpToPreviousLevel": 40390
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 39,
+            "xp": 0,
+            "xpToNextLevel": 300927,
+            "xpToPreviousLevel": 240742
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 34,
+            "xp": 0,
+            "xpToNextLevel": 98608,
+            "xpToPreviousLevel": 78887
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 35,
+            "xp": 0,
+            "xpToNextLevel": 123260,
+            "xpToPreviousLevel": 98608
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 28,
+            "xp": 0,
+            "xpToNextLevel": 25850,
+            "xpToPreviousLevel": 20680
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 43,
+            "xp": 0,
+            "xpToNextLevel": 734684,
+            "xpToPreviousLevel": 587748
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 24,
+            "xp": 0,
+            "xpToNextLevel": 10588,
+            "xpToPreviousLevel": 8471
+          }
+        }
+      },
+      "rolledAttributeModifiers": true,
+      "extraFunFacts": [
+        "An Orc straggler who fled the wreck of his master's armies and sought passage through the reed-fens.",
+        "He saw the faces of dead Orcs gleaming below the water and followed their cold lights into the sucking mud.",
+        "This historical figure is fictional."
+      ]
     }
   ],
   "GeneratedCreatures": {
