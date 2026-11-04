@@ -4,7 +4,7 @@
     "CurrentDay": 1,
     "CurrentYear": 1
   },
-  "histFigCount": 62,
+  "histFigCount": 64,
   "ContinentBlocks": [
     {
       "id": "eriador",
@@ -2419,6 +2419,22 @@
       "associatedCreatureId": "59"
     },
     {
+      "regionId": "sirannon",
+      "description": "Celebrimbor was slain by Sauron during the fall of Eregion.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -1750
+      },
+      "deathBlock": {
+        "associatedCreatureId": "23",
+        "associatedCreatureType": "Maia",
+        "detailedDeathDescription": "Celebrimbor was slain by Sauron during the fall of Eregion."
+      },
+      "processed": true,
+      "associatedCreatureId": "59"
+    },
+    {
       "regionId": "mirrormere",
       "description": "In the tales of Khazad-dûm, Durin III is remembered as a bearer of one of the Seven Rings.",
       "eventDate": {
@@ -2541,6 +2557,22 @@
       ]
     },
     {
+      "regionId": "dead_marshes",
+      "description": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -7
+      },
+      "deathBlock": {
+        "associatedCreatureId": "63",
+        "associatedCreatureType": "Orc",
+        "detailedDeathDescription": "Oropher fell at Dagorlad, struck down by Rûzgash of the Black Pikes."
+      },
+      "processed": true,
+      "associatedCreatureId": "57"
+    },
+    {
       "regionId": "celebrant",
       "description": "Amdír of Lórinand falls amid the fighting; Amroth survives to lead the woodland realm.",
       "eventDate": {
@@ -2553,6 +2585,38 @@
       "additionalAssociatedCreatureIds": [
         "18"
       ]
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -7
+      },
+      "deathBlock": {
+        "associatedCreatureId": "63",
+        "associatedCreatureType": "Orc",
+        "detailedDeathDescription": "Amdír was slain at Dagorlad by Rûzgash of the Black Pikes, whose name was already feared among the woodland host."
+      },
+      "processed": true,
+      "associatedCreatureId": "58"
+    },
+    {
+      "regionId": "dead_marshes",
+      "description": "Thranduil slew Rûzgash of the Black Pikes at Dagorlad, avenging his father Oropher.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -7
+      },
+      "deathBlock": {
+        "associatedCreatureId": "17",
+        "associatedCreatureType": "Sindarin Elf",
+        "detailedDeathDescription": "Thranduil slew Rûzgash of the Black Pikes at Dagorlad, avenging his father Oropher."
+      },
+      "processed": true,
+      "associatedCreatureId": "63"
     },
     {
       "regionId": "morannon_waters",
@@ -2581,6 +2645,22 @@
     },
     {
       "regionId": "morannon_waters",
+      "description": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -1
+      },
+      "deathBlock": {
+        "associatedCreatureId": "64",
+        "associatedCreatureType": "Orc",
+        "detailedDeathDescription": "Anárion was struck down by a siege-stone cast on the orders of Uzgûr the Stone-caster at Barad-dûr."
+      },
+      "processed": true,
+      "associatedCreatureId": "56"
+    },
+    {
+      "regionId": "morannon_waters",
       "description": "The siege of Barad-dûr ends. Elendil and Gil-galad overthrow Sauron, but both perish.",
       "eventDate": {
         "CurrentDay": 1
@@ -2592,6 +2672,36 @@
         "55",
         "23"
       ]
+    },
+    {
+      "regionId": "morannon_waters",
+      "description": "Elendil the Tall fell in the final struggle with Sauron at the end of the siege of Barad-dûr.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1
+      },
+      "deathBlock": {
+        "associatedCreatureId": "23",
+        "associatedCreatureType": "Maia",
+        "detailedDeathDescription": "Elendil the Tall fell in the final struggle with Sauron at the end of the siege of Barad-dûr."
+      },
+      "processed": true,
+      "associatedCreatureId": "54"
+    },
+    {
+      "regionId": "morannon_waters",
+      "description": "Gil-galad perished in the final struggle with Sauron at the siege of Barad-dûr.",
+      "eventType": 2,
+      "eventDate": {
+        "CurrentDay": 1
+      },
+      "deathBlock": {
+        "associatedCreatureId": "23",
+        "associatedCreatureType": "Maia",
+        "detailedDeathDescription": "Gil-galad perished in the final struggle with Sauron at the siege of Barad-dûr."
+      },
+      "processed": true,
+      "associatedCreatureId": "55"
     },
     {
       "regionId": "morannon_waters",
@@ -14348,6 +14458,198 @@
       "shiny": false,
       "lifetimeExplorationAreaOrTerritory": 38,
       "rolledAttributeModifiers": true
+    },
+    {
+      "internalName": "orc",
+      "name": "Orc",
+      "pluralName": "Orcs",
+      "description": "A brutal soldier of the shadows, fearful of sunlight and fond of ambush.",
+      "maxAge": 75,
+      "minAge": 12,
+      "difficulty": 5,
+      "aquatic": false,
+      "size": 1.6,
+      "EatsPlants": true,
+      "EatsMeat": true,
+      "EatsFish": true,
+      "EatsRot": true,
+      "foodSizeMin": 0.03,
+      "foodSizeMax": 2.5,
+      "warmBlood": true,
+      "waterType": "neutral",
+      "oldAgeDeathChance": 0.03,
+      "frequency": 8,
+      "creatureArt": [
+        "(><)",
+        "/||\\"
+      ],
+      "sapient": true,
+      "hands": 2,
+      "health": 5,
+      "maxHealth": 5,
+      "DefaultSkills": {
+        "Fighting": 2,
+        "Intimidation": 1,
+        "Sneaking": 2,
+        "Foraging": 1
+      },
+      "AttributeModifiers": {
+        "Tenacity": 1,
+        "Misery": 2,
+        "Swiftness": 1
+      },
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "id": "64",
+      "preferredName": "Uzgûr the Stone-caster",
+      "regionId": "morannon_waters",
+      "statusType": "Hero",
+      "extraFunFacts": [
+        "A fictional Orc siege engineer credited with the stone that killed Anárion during the siege of Barad-dûr.",
+        "He survived the collapse of his master's power and remains somewhere near the Black Gate."
+      ],
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 47
+      },
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -46
+      },
+      "DeathDate": {},
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "level": 12,
+            "xp": 0,
+            "xpToNextLevel": 475,
+            "xpToPreviousLevel": 380,
+            "freeLevels": 2
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 63,
+            "xpToPreviousLevel": 50,
+            "freeLevels": 1
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "level": 8,
+            "xp": 0,
+            "xpToNextLevel": 243,
+            "xpToPreviousLevel": 194,
+            "freeLevels": 1
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "level": 5,
+            "xp": 0,
+            "xpToNextLevel": 99,
+            "xpToPreviousLevel": 79,
+            "freeLevels": 2
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 16,
+            "xp": 0,
+            "xpToNextLevel": 1817,
+            "xpToPreviousLevel": 1453
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "level": 18,
+            "xp": 0,
+            "xpToNextLevel": 2840,
+            "xpToPreviousLevel": 2272
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 4,
+            "xp": 0,
+            "xpToNextLevel": 124,
+            "xpToPreviousLevel": 99
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 32,
+            "xp": 0,
+            "xpToNextLevel": 64600,
+            "xpToPreviousLevel": 51680
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 30,
+            "xp": 0,
+            "xpToNextLevel": 41344,
+            "xpToPreviousLevel": 33075
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 45,
+            "xp": 0,
+            "xpToNextLevel": 1175094,
+            "xpToPreviousLevel": 940075
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 40,
+            "xp": 0,
+            "xpToNextLevel": 385054,
+            "xpToPreviousLevel": 308043
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 34,
+            "xp": 0,
+            "xpToNextLevel": 100938,
+            "xpToPreviousLevel": 80750
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 37,
+            "xp": 0,
+            "xpToNextLevel": 197147,
+            "xpToPreviousLevel": 157717
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 23,
+            "xp": 0,
+            "xpToNextLevel": 8669,
+            "xpToPreviousLevel": 6935
+          }
+        }
+      },
+      "rolledAttributeModifiers": true
     }
   ],
   "DeadHistoricalFigures": [
@@ -16097,6 +16399,203 @@
       "shiny": false,
       "hasLegendaryStatus": true,
       "lifetimeExplorationAreaOrTerritory": 32,
+      "rolledAttributeModifiers": true
+    },
+    {
+      "internalName": "orc",
+      "name": "Orc",
+      "pluralName": "Orcs",
+      "description": "A brutal soldier of the shadows, fearful of sunlight and fond of ambush.",
+      "maxAge": 75,
+      "minAge": 12,
+      "difficulty": 5,
+      "aquatic": false,
+      "size": 1.6,
+      "EatsPlants": true,
+      "EatsMeat": true,
+      "EatsFish": true,
+      "EatsRot": true,
+      "foodSizeMin": 0.03,
+      "foodSizeMax": 2.5,
+      "warmBlood": true,
+      "waterType": "neutral",
+      "oldAgeDeathChance": 0.03,
+      "frequency": 8,
+      "creatureArt": [
+        "(><)",
+        "/||\\"
+      ],
+      "sapient": true,
+      "hands": 2,
+      "health": 5,
+      "maxHealth": 5,
+      "DefaultSkills": {
+        "Fighting": 2,
+        "Intimidation": 1,
+        "Sneaking": 2,
+        "Foraging": 1
+      },
+      "AttributeModifiers": {
+        "Tenacity": 1,
+        "Misery": 2,
+        "Swiftness": 1
+      },
+      "lifetimeExplorationAreaOrTerritory": 18,
+      "id": "63",
+      "preferredName": "Rûzgash of the Black Pikes",
+      "regionId": "dead_marshes",
+      "statusType": "Legend",
+      "extraFunFacts": [
+        "A fictional Orc captain of Dagorlad, credited in this alternate history with slaying both Oropher and Amdír.",
+        "He did not survive the battle: Thranduil struck him down among the bodies on the plain."
+      ],
+      "CreatureAge": {
+        "CurrentDay": 1,
+        "CurrentYear": 53
+      },
+      "BornDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -60
+      },
+      "DeathDate": {
+        "CurrentDay": 1,
+        "CurrentYear": -7
+      },
+      "skillsAttributesBlock": {
+        "Skills": {
+          "Fighting": {
+            "name": "Fighting",
+            "level": 19,
+            "xp": 0,
+            "xpToNextLevel": 2272,
+            "xpToPreviousLevel": 1817,
+            "freeLevels": 2
+          },
+          "Fishing": {
+            "name": "Fishing",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Foraging": {
+            "name": "Foraging",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63,
+            "freeLevels": 1
+          },
+          "Intimidation": {
+            "name": "Intimidation",
+            "level": 13,
+            "xp": 0,
+            "xpToNextLevel": 743,
+            "xpToPreviousLevel": 594,
+            "freeLevels": 1
+          },
+          "Dodging": {
+            "name": "Dodging",
+            "level": 9,
+            "xp": 0,
+            "xpToNextLevel": 380,
+            "xpToPreviousLevel": 304
+          },
+          "Sneaking": {
+            "name": "Sneaking",
+            "level": 7,
+            "xp": 0,
+            "xpToNextLevel": 155,
+            "xpToPreviousLevel": 124,
+            "freeLevels": 2
+          },
+          "Observer": {
+            "name": "Observer",
+            "level": 18,
+            "xp": 0,
+            "xpToNextLevel": 2840,
+            "xpToPreviousLevel": 2272
+          },
+          "Throwing": {
+            "name": "Throwing",
+            "level": 5,
+            "xp": 0,
+            "xpToNextLevel": 155,
+            "xpToPreviousLevel": 124
+          },
+          "EscapeArtist": {
+            "name": "EscapeArtist",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Swimming": {
+            "name": "Swimming",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Learning": {
+            "name": "Learning",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 79,
+            "xpToPreviousLevel": 63
+          },
+          "Mysticism": {
+            "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          }
+        },
+        "Attributes": {
+          "Tenacity": {
+            "name": "Tenacity",
+            "level": 43,
+            "xp": 0,
+            "xpToNextLevel": 752060,
+            "xpToPreviousLevel": 601648
+          },
+          "Swiftness": {
+            "name": "Swiftness",
+            "level": 37,
+            "xp": 0,
+            "xpToNextLevel": 197147,
+            "xpToPreviousLevel": 157717
+          },
+          "Concentration": {
+            "name": "Concentration",
+            "level": 41,
+            "xp": 0,
+            "xpToNextLevel": 481318,
+            "xpToPreviousLevel": 385054
+          },
+          "Inquiry": {
+            "name": "Inquiry",
+            "level": 32,
+            "xp": 0,
+            "xpToNextLevel": 64600,
+            "xpToPreviousLevel": 51680
+          },
+          "Inducement": {
+            "name": "Inducement",
+            "level": 35,
+            "xp": 0,
+            "xpToNextLevel": 126173,
+            "xpToPreviousLevel": 100938
+          },
+          "Misery": {
+            "name": "Misery",
+            "level": 42,
+            "xp": 0,
+            "xpToNextLevel": 601648,
+            "xpToPreviousLevel": 481318
+          },
+          "Wisdom": {
+            "name": "Wisdom",
+            "level": 21,
+            "xp": 0,
+            "xpToNextLevel": 5548,
+            "xpToPreviousLevel": 4438
+          }
+        }
+      },
       "rolledAttributeModifiers": true
     }
   ],
