@@ -3154,7 +3154,7 @@
     },
     {
       "regionId": "dead_marshes",
-      "description": "It is said that three wanderers may have fallen to the corpse-lights of the Dead Marshes. None returned, and travellers give the black pools a wider berth.",
+      "description": "At this point, many wanderers, important and unimportant, have fallen to the corpse-lights of the Dead Marshes. Travellers give the black pools a wider berth.",
       "eventDate": {
         "CurrentYear": 1,
         "CurrentDay": 1
