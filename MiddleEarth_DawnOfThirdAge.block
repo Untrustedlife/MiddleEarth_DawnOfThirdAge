@@ -9193,7 +9193,7 @@
           "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
-            "sameSpeciesAttackMultiplier": 0,
+            "sameSpeciesAttackMultiplier": 0.65,
             "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.85,
