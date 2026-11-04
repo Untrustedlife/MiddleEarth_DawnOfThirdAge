@@ -19342,7 +19342,7 @@
     "riverbed_detritus": {
       "internalName": "riverbed_detritus",
       "name": "Riverbed Detritus",
-      "description": "A soft drift of drowned leaves, rotting reeds, and other scraps trapped among river stones. Tiny worms quietly turn the muck into a living riverbed.",
+      "description": "A soft drift of drowned leaves, rotting reeds, and other scraps trapped among river stones.",
       "grows": false,
       "spreadRate": 0,
       "maxAge": 0,
