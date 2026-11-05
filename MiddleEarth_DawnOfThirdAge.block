@@ -15644,6 +15644,8 @@
       "waterType": "deep",
       "oldAgeDeathChance": 0.005,
       "frequency": 1,
+      "maxHunger": 3,
+      "hunger": 3,
       "creatureArt": [
         " ~\\\\|||//~ ",
         "<< (O) >>",
@@ -22199,7 +22201,7 @@
       "foodSizeMax": 0.09,
       "waterType": "shallow",
       "frequency": 5,
-      "maxHunger": 1,
+      "maxHunger": 2,
       "creatureArt": [
         "~==~"
       ],
@@ -22250,6 +22252,7 @@
       "waterType": "deep",
       "oldAgeDeathChance": 0.005,
       "frequency": 1,
+      "maxHunger": 3,
       "creatureArt": [
         " ~\\\\|||//~ ",
         "<< (O) >>",
@@ -22400,7 +22403,7 @@
       "foodSizeMax": 0.04,
       "waterType": "deep",
       "frequency": 6,
-      "maxHunger": 1,
+      "maxHunger": 2,
       "creatureArt": [
         "~==~"
       ],
