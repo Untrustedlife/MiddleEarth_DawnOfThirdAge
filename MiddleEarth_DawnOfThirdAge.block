@@ -14226,6 +14226,8 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 0,
+      "maxHunger": 3,
+      "hunger": 3,
       "creatureArt": [
         "_(o)>",
         "\\___/"
@@ -14423,6 +14425,8 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 2,
+      "hunger": 2,
       "extraFunFacts": [
         "An ordinary fish living beneath the halls of Elrond."
       ],
@@ -14604,6 +14608,8 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 0,
+      "maxHunger": 3,
+      "hunger": 3,
       "creatureArt": [
         "~(o__o)"
       ],
@@ -21193,6 +21199,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
+      "maxHunger": 3,
       "creatureArt": [
         "~(o__o)"
       ],
@@ -21249,6 +21256,7 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 2,
@@ -21298,6 +21306,7 @@
         "<====o>"
       ],
       "health": 3,
+      "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 4,
         "Foraging": 2,
@@ -21349,6 +21358,7 @@
       "oceanDwelling": false,
       "health": 5,
       "maxHealth": 5,
+      "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 3,
         "Sneaking": 3,
@@ -21403,6 +21413,7 @@
       "oceanDwelling": false,
       "health": 4,
       "maxHealth": 4,
+      "maxHunger": 4,
       "extraFunFacts": [
         "Sturgeon release eggs in freshwater and feed chiefly on benthic invertebrates, occasionally small fish and plant material."
       ],
@@ -21456,6 +21467,7 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 2,
         "Foraging": 4,
@@ -21506,6 +21518,7 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 3,
       "extraFunFacts": [
         "Freshwater eels grow in rivers and lakes but migrate toward the sea to spawn; their diet is carnivorous."
       ],
@@ -21560,6 +21573,7 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 2,
@@ -21609,6 +21623,7 @@
       ],
       "oceanDwelling": false,
       "health": 3,
+      "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 3,
@@ -21661,6 +21676,7 @@
       "riverDwelling": false,
       "lakeDwelling": false,
       "health": 3,
+      "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 3,
@@ -21711,6 +21727,7 @@
       "riverDwelling": false,
       "lakeDwelling": false,
       "health": 3,
+      "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 4,
         "Foraging": 3,
@@ -21816,6 +21833,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
+      "maxHunger": 3,
       "creatureArt": [
         "~(o__o)"
       ],
@@ -21925,6 +21943,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 8,
+      "maxHunger": 2,
       "creatureArt": [
         "(o_o)",
         "/===\\"
@@ -21976,6 +21995,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 4,
+      "maxHunger": 3,
       "creatureArt": [
         "~~~~(o)~"
       ],
@@ -22030,6 +22050,7 @@
       "waterType": "neutral",
       "oldAgeDeathChance": 0.03,
       "frequency": 5,
+      "maxHunger": 3,
       "creatureArt": [
         "_(o)>",
         "\\___/"
@@ -22178,6 +22199,7 @@
       "foodSizeMax": 0.09,
       "waterType": "shallow",
       "frequency": 5,
+      "maxHunger": 1,
       "creatureArt": [
         "~==~"
       ],
@@ -22330,6 +22352,7 @@
       "oceanDwelling": false,
       "health": 2,
       "maxHealth": 2,
+      "maxHunger": 2,
       "eggLayer": true,
       "DefaultSkills": {
         "Swimming": 4,
@@ -22377,6 +22400,7 @@
       "foodSizeMax": 0.04,
       "waterType": "deep",
       "frequency": 6,
+      "maxHunger": 1,
       "creatureArt": [
         "~==~"
       ],
