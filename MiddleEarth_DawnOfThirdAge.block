@@ -4636,7 +4636,7 @@
             "sameSpeciesAttackMultiplier": 0.05,
             "otherSpeciesAttackMultiplier": 0.2,
             "sapientOnSapientAttackMultiplier": 0.5,
-            "smallTargetAttackMultiplier": 5.0,
+            "smallTargetAttackMultiplier": 5,
             "largeTargetAttackMultiplier": 0.05,
             "trainingChance": 0.1,
             "exorcismAttemptMultiplier": 0.1
@@ -21571,7 +21571,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 8,
       "creatureArt": [
-        "<((o>"
+        ">((o>"
       ],
       "oceanDwelling": false,
       "health": 3,
@@ -21621,7 +21621,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 10,
       "creatureArt": [
-        "<o>"
+        ">o>"
       ],
       "oceanDwelling": false,
       "health": 3,
@@ -22107,7 +22107,7 @@
       "frequency": 6,
       "creatureArt": [
         " /o>",
-        " /| ",
+        ">OO ",
         "/ | "
       ],
       "health": 3,
@@ -22348,7 +22348,7 @@
       "oldAgeDeathChance": 0.03,
       "frequency": 5,
       "creatureArt": [
-        "<:==>"
+        ">:==>"
       ],
       "riverDwelling": true,
       "lakeDwelling": true,
