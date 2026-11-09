@@ -4619,7 +4619,8 @@
           "temperaments": {
             "sameSpeciesAttackMultiplier": 0.01,
             "sapientOnSapientAttackMultiplier": 0.15,
-            "exorcismAttemptMultiplier": 0.2
+            "exorcismAttemptMultiplier": 0.2,
+            "temperament": "Unspecified"
           }
         },
         {
@@ -4629,7 +4630,6 @@
           "possessionTemplate": "PossessionRing",
           "exorcismPossessionChance": 1,
           "exorcismPossessionTemplate": "PossessionExorcismRing",
-          "ghostPossessionChance": 1,
           "hauntingPossessionTemplate": "PossessionHauntingRing",
           "temperaments": {
             "temperament": "Aggressive",
@@ -4640,7 +4640,17 @@
             "largeTargetAttackMultiplier": 0.05,
             "trainingChance": 0.1,
             "exorcismAttemptMultiplier": 0.1
-          }
+          },
+          "continuationTemplate": "ContinuationRing",
+          "originalHostSpecies": "maia",
+          "originalHostsArt": [
+            "    .------.    ",
+            "  .'  .--.  '.  ",
+            " /   (    )   \\ ",
+            " \\   (____)   / ",
+            "  '.        .'  ",
+            "    '------'    "
+          ]
         }
       ]
     },
@@ -4835,7 +4845,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -5039,15 +5048,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.72,
             "sapientOnSapientAttackMultiplier": 0.22,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.4,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.4
           }
         }
       ]
@@ -5243,15 +5250,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -5447,7 +5452,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -5651,15 +5655,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.55,
             "sapientOnSapientAttackMultiplier": 0.13,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -5855,15 +5857,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.008,
             "otherSpeciesAttackMultiplier": 0.5,
             "sapientOnSapientAttackMultiplier": 0.1,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -6059,15 +6059,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -6270,7 +6268,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -6279,7 +6276,9 @@
             "smallTargetAttackMultiplier": 0.1,
             "largeTargetAttackMultiplier": 0.5,
             "exorcismAttemptMultiplier": 2
-          }
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 7
         }
       ]
     },
@@ -6481,7 +6480,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -6490,7 +6488,9 @@
             "smallTargetAttackMultiplier": 0.1,
             "largeTargetAttackMultiplier": 0.5,
             "exorcismAttemptMultiplier": 2.5
-          }
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 8
         }
       ]
     },
@@ -6689,7 +6689,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.008,
@@ -6896,7 +6895,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -7109,7 +7107,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -7118,7 +7115,9 @@
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.4,
             "exorcismAttemptMultiplier": 1.7
-          }
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 5
         }
       ]
     },
@@ -7318,7 +7317,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
@@ -7525,7 +7523,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -7732,7 +7729,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
@@ -7941,7 +7937,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
@@ -8148,7 +8143,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -8357,16 +8351,16 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.2,
             "smallTargetAttackMultiplier": 0.12,
-            "largeTargetAttackMultiplier": 0.5,
-            "exorcismAttemptMultiplier": 1
-          }
+            "largeTargetAttackMultiplier": 0.5
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 6
         }
       ]
     },
@@ -8561,7 +8555,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -8773,7 +8766,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
@@ -8782,7 +8774,9 @@
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.45,
             "exorcismAttemptMultiplier": 2
-          }
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 10
         }
       ]
     },
@@ -8985,7 +8979,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
@@ -8994,7 +8987,9 @@
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.45,
             "exorcismAttemptMultiplier": 1.7
-          }
+          },
+          "soulHasFightVeto": true,
+          "interventionDice": 8
         }
       ]
     },
@@ -9200,11 +9195,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.65,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.75,
@@ -9417,11 +9410,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.8,
             "largeTargetAttackMultiplier": 0.7,
@@ -9632,7 +9623,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -9847,7 +9837,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -10062,7 +10051,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -10277,7 +10265,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -10492,7 +10479,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -10707,7 +10693,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -10922,7 +10907,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -11137,7 +11121,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
@@ -11350,11 +11333,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.01,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.7,
             "largeTargetAttackMultiplier": 0.95,
@@ -11546,11 +11527,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.005,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.5,
             "smallTargetAttackMultiplier": 0.9,
             "largeTargetAttackMultiplier": 0.35,
@@ -11752,12 +11731,10 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.8,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.05,
             "largeTargetAttackMultiplier": 0.85,
             "exorcismAttemptMultiplier": 0.3
@@ -11956,7 +11933,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
@@ -12160,7 +12136,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -12364,15 +12339,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -12571,7 +12544,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -12778,7 +12750,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -12979,15 +12950,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.65,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.25,
-            "largeTargetAttackMultiplier": 0.5,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.5
           }
         }
       ]
@@ -13186,7 +13155,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -13390,15 +13358,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.5,
             "sapientOnSapientAttackMultiplier": 0.15,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -13591,15 +13557,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.22,
             "smallTargetAttackMultiplier": 0.25,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -13795,15 +13759,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.75,
             "sapientOnSapientAttackMultiplier": 0.2,
             "smallTargetAttackMultiplier": 0.08,
-            "largeTargetAttackMultiplier": 0.5,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.5
           }
         }
       ]
@@ -13995,15 +13957,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.55,
             "sapientOnSapientAttackMultiplier": 0.14,
             "smallTargetAttackMultiplier": 0.4,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -14195,15 +14155,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.63,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.4,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.4
           }
         }
       ]
@@ -14233,7 +14191,6 @@
         "\\___/"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "extraFunFacts": [
         "A pale swan whose quiet passage through the waters of Lórinand is long remembered.",
         "This historical figure is not in Tolkien's records..."
@@ -14388,14 +14345,11 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
-            "largeTargetAttackMultiplier": 0.25,
             "exorcismAttemptMultiplier": 0
           }
         }
@@ -14424,7 +14378,6 @@
         "><(((o>"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 2,
       "hunger": 2,
       "extraFunFacts": [
@@ -14575,12 +14528,10 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -14614,7 +14565,6 @@
         "~(o__o)"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "extraFunFacts": [
         "A playful otter who knows the western riverbank."
       ],
@@ -14769,12 +14719,10 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.85,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.6,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -14976,7 +14924,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.025,
@@ -15182,11 +15129,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.15,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.95,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.22,
@@ -15406,11 +15351,9 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.08,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.5,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.3,
@@ -15613,7 +15556,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.09,
@@ -15651,8 +15593,6 @@
         "<< (O) >>",
         " ~//|||\\\\~ "
       ],
-      "riverDwelling": true,
-      "lakeDwelling": true,
       "oceanDwelling": false,
       "territorial": true,
       "hasBlood": false,
@@ -15859,12 +15799,9 @@
       "immuneToNaturalCauses": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.02,
-            "otherSpeciesAttackMultiplier": 1,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.95,
             "largeTargetAttackMultiplier": 0.9,
             "exorcismAttemptMultiplier": 0
@@ -16070,7 +16007,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -16299,7 +16235,6 @@
       },
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.12,
@@ -16533,7 +16468,6 @@
       },
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
@@ -16742,15 +16676,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.9,
             "sapientOnSapientAttackMultiplier": 0.25,
             "smallTargetAttackMultiplier": 0.05,
-            "largeTargetAttackMultiplier": 0.6,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.6
           }
         }
       ]
@@ -16951,7 +16883,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
@@ -17158,15 +17089,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -17368,7 +17297,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.012,
@@ -17578,7 +17506,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.012,
@@ -17788,7 +17715,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -17995,15 +17921,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -18202,15 +18126,12 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.2,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.9,
             "smallTargetAttackMultiplier": 0.85,
-            "largeTargetAttackMultiplier": 0.85,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.85
           }
         }
       ]
@@ -18409,7 +18330,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
@@ -18644,11 +18564,9 @@
       },
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.18,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.85,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.22,
@@ -18856,7 +18774,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -19069,7 +18986,6 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.025,
@@ -19278,15 +19194,13 @@
       "rolledAttributeModifiers": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.2,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -19489,11 +19403,9 @@
       ],
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.13,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.86,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.22,
@@ -19548,15 +19460,13 @@
       "lifetimeExplorationAreaOrTerritory": 55,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.015,
             "otherSpeciesAttackMultiplier": 0.7,
             "sapientOnSapientAttackMultiplier": 0.18,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -19603,15 +19513,13 @@
       "lifetimeExplorationAreaOrTerritory": 35,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.65,
             "sapientOnSapientAttackMultiplier": 0.2,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -19657,15 +19565,13 @@
       "lifetimeExplorationAreaOrTerritory": 45,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Adventurous",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.65,
             "sapientOnSapientAttackMultiplier": 0.22,
             "smallTargetAttackMultiplier": 0.25,
-            "largeTargetAttackMultiplier": 0.35,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.35
           }
         }
       ]
@@ -19710,15 +19616,13 @@
       "lifetimeExplorationAreaOrTerritory": 40,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.65,
             "sapientOnSapientAttackMultiplier": 0.23,
             "smallTargetAttackMultiplier": 0.4,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -19763,15 +19667,13 @@
       "lifetimeExplorationAreaOrTerritory": 42,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.7,
             "sapientOnSapientAttackMultiplier": 0.25,
             "smallTargetAttackMultiplier": 0.35,
-            "largeTargetAttackMultiplier": 0.3,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.3
           }
         }
       ]
@@ -19802,7 +19704,6 @@
       ],
       "sapient": true,
       "hands": 2,
-      "health": 3,
       "canonicalAreaMeasurement": true,
       "canonicalAreaMeasurementUnit": "HR",
       "extraFunFacts": [
@@ -19822,7 +19723,6 @@
       "lifetimeExplorationAreaOrTerritory": 8,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -19887,9 +19787,8 @@
       "lifetimeExplorationAreaOrTerritory": 150,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Adventurous",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.8,
             "sapientOnSapientAttackMultiplier": 0.24,
@@ -19945,9 +19844,8 @@
       "lifetimeExplorationAreaOrTerritory": 125,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.6,
             "sapientOnSapientAttackMultiplier": 0.15,
@@ -20003,9 +19901,8 @@
       "lifetimeExplorationAreaOrTerritory": 105,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Defensive",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "sapientOnSapientAttackMultiplier": 0.12,
@@ -20064,9 +19961,8 @@
       "lifetimeExplorationAreaOrTerritory": 32,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Adventurous",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.75,
             "sapientOnSapientAttackMultiplier": 0.25,
@@ -20129,7 +20025,6 @@
       "lifetimeExplorationAreaOrTerritory": 18,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -20190,7 +20085,6 @@
       "lifetimeExplorationAreaOrTerritory": 16,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
@@ -20245,11 +20139,9 @@
       "lifetimeExplorationAreaOrTerritory": 18,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.12,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.85,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.22,
@@ -20301,7 +20193,6 @@
       "lifetimeExplorationAreaOrTerritory": 12,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.05,
@@ -20357,11 +20248,9 @@
       "lifetimeExplorationAreaOrTerritory": 25,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.07,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.7,
             "smallTargetAttackMultiplier": 0.8,
             "largeTargetAttackMultiplier": 0.2,
@@ -20440,7 +20329,6 @@
       "lifetimeExplorationAreaOrTerritory": 38,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.07,
@@ -20495,7 +20383,6 @@
       "lifetimeExplorationAreaOrTerritory": 22,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.02,
@@ -20558,9 +20445,8 @@
       "lifetimeExplorationAreaOrTerritory": 250,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
+            "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.55,
             "sapientOnSapientAttackMultiplier": 0.25,
@@ -20622,11 +20508,9 @@
       "lifetimeExplorationAreaOrTerritory": 160,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.75,
             "largeTargetAttackMultiplier": 0.5,
@@ -20689,15 +20573,12 @@
       "immuneToNaturalCauses": true,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.02,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 1,
             "smallTargetAttackMultiplier": 0.6,
-            "largeTargetAttackMultiplier": 0.85,
-            "exorcismAttemptMultiplier": 1
+            "largeTargetAttackMultiplier": 0.85
           }
         }
       ]
@@ -20750,11 +20631,9 @@
       "lifetimeExplorationAreaOrTerritory": 200,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.035,
-            "otherSpeciesAttackMultiplier": 1,
             "sapientOnSapientAttackMultiplier": 0.85,
             "smallTargetAttackMultiplier": 0.6,
             "largeTargetAttackMultiplier": 0.7,
@@ -20811,12 +20690,10 @@
       "lifetimeExplorationAreaOrTerritory": 260,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.015,
             "otherSpeciesAttackMultiplier": 0.75,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.15,
             "largeTargetAttackMultiplier": 0.65,
             "exorcismAttemptMultiplier": 0.3
@@ -20863,13 +20740,9 @@
       "lifetimeExplorationAreaOrTerritory": 30,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.06,
             "otherSpeciesAttackMultiplier": 0.8,
-            "sapientOnSapientAttackMultiplier": 0.35,
-            "smallTargetAttackMultiplier": 0.5,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0.1
           }
@@ -20899,7 +20772,6 @@
         "(oo)",
         "/||\\"
       ],
-      "health": 3,
       "DefaultSkills": {
         "Foraging": 2,
         "EscapeArtist": 2,
@@ -20912,12 +20784,10 @@
       "lifetimeExplorationAreaOrTerritory": 32,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.3,
             "exorcismAttemptMultiplier": 0
@@ -20967,12 +20837,10 @@
       "lifetimeExplorationAreaOrTerritory": 36,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.07,
             "otherSpeciesAttackMultiplier": 0.95,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21018,12 +20886,10 @@
       "lifetimeExplorationAreaOrTerritory": 18,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.35,
             "largeTargetAttackMultiplier": 0.3,
             "exorcismAttemptMultiplier": 0
@@ -21069,12 +20935,10 @@
       "lifetimeExplorationAreaOrTerritory": 75,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.3,
             "exorcismAttemptMultiplier": 0
@@ -21103,7 +20967,6 @@
         "(\\/)",
         "(o.o)"
       ],
-      "health": 3,
       "DefaultSkills": {
         "EscapeArtist": 3,
         "Dodging": 2,
@@ -21117,12 +20980,10 @@
       "lifetimeExplorationAreaOrTerritory": 6,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21154,7 +21015,6 @@
         " /\\__",
         "(o  >"
       ],
-      "health": 3,
       "DefaultSkills": {
         "Sneaking": 3,
         "Foraging": 2,
@@ -21168,12 +21028,9 @@
       },
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.03,
             "otherSpeciesAttackMultiplier": 0.8,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.15,
             "exorcismAttemptMultiplier": 0
@@ -21206,7 +21063,6 @@
         "~(o__o)"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "DefaultSkills": {
         "Swimming": 4,
         "Fishing": 3,
@@ -21222,13 +21078,9 @@
       "lifetimeExplorationAreaOrTerritory": 12,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.78,
-            "sapientOnSapientAttackMultiplier": 0.35,
-            "smallTargetAttackMultiplier": 0.5,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
           }
@@ -21257,7 +21109,6 @@
         "><(((o>"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
@@ -21272,12 +21123,10 @@
       "lifetimeExplorationAreaOrTerritory": 8,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21307,7 +21156,6 @@
       "creatureArt": [
         "<====o>"
       ],
-      "health": 3,
       "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 4,
@@ -21322,12 +21170,10 @@
       "lifetimeExplorationAreaOrTerritory": 65,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21377,12 +21223,10 @@
       "lifetimeExplorationAreaOrTerritory": 15,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.04,
             "otherSpeciesAttackMultiplier": 0.98,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.8,
             "largeTargetAttackMultiplier": 0.15,
             "exorcismAttemptMultiplier": 0
@@ -21433,14 +21277,11 @@
       "lifetimeExplorationAreaOrTerritory": 50,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
-            "largeTargetAttackMultiplier": 0.25,
             "exorcismAttemptMultiplier": 0
           }
         }
@@ -21468,7 +21309,6 @@
         "<(((o>"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 2,
@@ -21483,14 +21323,11 @@
       "lifetimeExplorationAreaOrTerritory": 12,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
-            "largeTargetAttackMultiplier": 0.25,
             "exorcismAttemptMultiplier": 0
           }
         }
@@ -21519,7 +21356,6 @@
         "~~~~o~"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 3,
       "extraFunFacts": [
         "Freshwater eels grow in rivers and lakes but migrate toward the sea to spawn; their diet is carnivorous."
@@ -21538,12 +21374,9 @@
       "lifetimeExplorationAreaOrTerritory": 70,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.03,
             "otherSpeciesAttackMultiplier": 0.8,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.6,
             "largeTargetAttackMultiplier": 0.18,
             "exorcismAttemptMultiplier": 0
@@ -21574,7 +21407,6 @@
         ">((o>"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
@@ -21590,12 +21422,9 @@
       "lifetimeExplorationAreaOrTerritory": 8,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.03,
             "otherSpeciesAttackMultiplier": 0.82,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.18,
             "exorcismAttemptMultiplier": 0
@@ -21624,7 +21453,6 @@
         ">o>"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 3,
@@ -21640,12 +21468,10 @@
       "lifetimeExplorationAreaOrTerritory": 4,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21677,7 +21503,6 @@
       ],
       "riverDwelling": false,
       "lakeDwelling": false,
-      "health": 3,
       "maxHunger": 3,
       "DefaultSkills": {
         "Swimming": 3,
@@ -21692,12 +21517,9 @@
       "lifetimeExplorationAreaOrTerritory": 55,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.04,
             "otherSpeciesAttackMultiplier": 0.82,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21728,7 +21550,6 @@
       ],
       "riverDwelling": false,
       "lakeDwelling": false,
-      "health": 3,
       "maxHunger": 2,
       "DefaultSkills": {
         "Swimming": 4,
@@ -21743,12 +21564,10 @@
       "lifetimeExplorationAreaOrTerritory": 85,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21803,12 +21622,9 @@
       "lifetimeExplorationAreaOrTerritory": 165,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.04,
-            "otherSpeciesAttackMultiplier": 1,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.3,
             "exorcismAttemptMultiplier": 0
@@ -21863,12 +21679,9 @@
       "lifetimeExplorationAreaOrTerritory": 90,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.72,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.45,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -21899,7 +21712,6 @@
       "creatureArt": [
         "\\_V_/"
       ],
-      "health": 3,
       "DefaultSkills": {
         "Fishing": 2,
         "Foraging": 3,
@@ -21915,12 +21727,10 @@
       "lifetimeExplorationAreaOrTerritory": 115,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.75,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.8,
             "largeTargetAttackMultiplier": 0.1,
             "exorcismAttemptMultiplier": 0
@@ -21951,7 +21761,6 @@
         "/===\\"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 3,
@@ -21966,12 +21775,10 @@
       "lifetimeExplorationAreaOrTerritory": 3,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22021,12 +21828,9 @@
       "lifetimeExplorationAreaOrTerritory": 9,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.045,
             "otherSpeciesAttackMultiplier": 0.78,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.55,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22058,7 +21862,6 @@
         "\\___/"
       ],
       "oceanDwelling": false,
-      "health": 3,
       "DefaultSkills": {
         "Swimming": 3,
         "Foraging": 3,
@@ -22073,14 +21876,11 @@
       "lifetimeExplorationAreaOrTerritory": 34,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.3,
-            "largeTargetAttackMultiplier": 0.25,
             "exorcismAttemptMultiplier": 0
           }
         }
@@ -22110,7 +21910,6 @@
         ">OO ",
         "/ | "
       ],
-      "health": 3,
       "DefaultSkills": {
         "Fishing": 4,
         "Observer": 4,
@@ -22125,12 +21924,9 @@
       "lifetimeExplorationAreaOrTerritory": 70,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
-            "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.7,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.4,
             "largeTargetAttackMultiplier": 0.15,
             "exorcismAttemptMultiplier": 0
@@ -22158,7 +21954,6 @@
       "creatureArt": [
         "--(o)~"
       ],
-      "health": 3,
       "DefaultSkills": {
         "Foraging": 2,
         "Sneaking": 2,
@@ -22172,12 +21967,10 @@
       "lifetimeExplorationAreaOrTerritory": 5,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22221,12 +22014,10 @@
       },
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22258,8 +22049,6 @@
         "<< (O) >>",
         " ~//|||\\\\~ "
       ],
-      "riverDwelling": true,
-      "lakeDwelling": true,
       "oceanDwelling": false,
       "territorial": true,
       "hasBlood": false,
@@ -22315,12 +22104,9 @@
       "lifetimeExplorationAreaOrTerritory": 0.7,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.07,
-            "otherSpeciesAttackMultiplier": 1,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.7,
             "exorcismAttemptMultiplier": 0
@@ -22341,7 +22127,6 @@
       "size": 0.24,
       "EatsPlants": false,
       "EatsMeat": true,
-      "EatsFish": false,
       "foodSizeMin": 0.005,
       "foodSizeMax": 0.085,
       "waterType": "deep",
@@ -22350,8 +22135,6 @@
       "creatureArt": [
         ">:==>"
       ],
-      "riverDwelling": true,
-      "lakeDwelling": true,
       "oceanDwelling": false,
       "health": 2,
       "maxHealth": 2,
@@ -22374,12 +22157,10 @@
       "lifetimeExplorationAreaOrTerritory": 1.2,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22427,12 +22208,10 @@
       "lifetimeExplorationAreaOrTerritory": 0.08,
       "souls": [
         {
-          "selectionWeight": 1,
           "temperaments": {
             "temperament": "Harmless",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
-            "sapientOnSapientAttackMultiplier": 0.35,
             "smallTargetAttackMultiplier": 0.2,
             "largeTargetAttackMultiplier": 0.2,
             "exorcismAttemptMultiplier": 0
@@ -22443,7 +22222,6 @@
   },
   "GeneratedPlants": {
     "athelas": {
-      "blockType": 2,
       "internalName": "athelas",
       "name": "Athelas",
       "description": "Kingsfoil, a healing herb of the western lands.",
@@ -22453,15 +22231,7 @@
       "maxAge": 6,
       "plant": true,
       "frequency": 4,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.45,
       "art": [
         "\\|/",
@@ -22476,11 +22246,9 @@
       "celsiusPerTemperatureUnit": 0.5,
       "extraFunFacts": [
         "The healers of the Dúnedain invented Kingsfoil Breath Degrees (°KB) while warming bruised athelas to release its refreshing scent. Their zero is a pleasant 22°C, and each degree is half a Celsius degree; they still consider healing more important than measuring."
-      ],
-      "bait": true
+      ]
     },
     "mallorn": {
-      "blockType": 2,
       "internalName": "mallorn",
       "name": "Mallorn",
       "description": "A silver-barked tree of golden leaves, renowned in Lórien.",
@@ -22490,15 +22258,8 @@
       "maxAge": 4000,
       "plant": true,
       "frequency": 3,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 12,
       "art": [
         " /\\ ",
@@ -22513,11 +22274,9 @@
       "canonicalAreaMeasurementUnit": "MC",
       "extraFunFacts": [
         "Elven gardeners of Lórinand sometimes count groves in Mallorn Canopies (MC), each representing the ground sheltered by the broad boughs of one great golden-leaved mallorn. It is a wonderfully poetic and entirely impractical way to measure a sea."
-      ],
-      "bait": true
+      ]
     },
     "lebethron": {
-      "blockType": 2,
       "internalName": "lebethron",
       "name": "Lebethron",
       "description": "Dark, strong timber valued by the Dúnedain.",
@@ -22527,15 +22286,8 @@
       "maxAge": 550,
       "plant": true,
       "frequency": 4,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 6.5,
       "art": [
         "\\|/",
@@ -22543,12 +22295,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "niphredil": {
-      "blockType": 2,
       "internalName": "niphredil",
       "name": "Niphredil",
       "description": "Pale flowers of elven woodland.",
@@ -22558,15 +22307,7 @@
       "maxAge": 8,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.2,
       "art": [
         "\\|/",
@@ -22574,12 +22315,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "elanor": {
-      "blockType": 2,
       "internalName": "elanor",
       "name": "Elanor",
       "description": "Small golden star-shaped flowers.",
@@ -22589,15 +22327,7 @@
       "maxAge": 8,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.2,
       "art": [
         "\\|/",
@@ -22605,12 +22335,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "simbelmyne": {
-      "blockType": 2,
       "internalName": "simbelmyne",
       "name": "Simbelmynë",
       "description": "White flowers whose name means evermind.",
@@ -22620,15 +22347,7 @@
       "maxAge": 16,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.3,
       "art": [
         "\\|/",
@@ -22636,12 +22355,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "white_tree": {
-      "blockType": 2,
       "internalName": "white_tree",
       "name": "White Tree Sapling",
       "description": "A precious descendant of Nimloth, guarded by the heirs of Elendil.",
@@ -22651,15 +22367,8 @@
       "maxAge": 1800,
       "plant": true,
       "frequency": 0,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 10,
       "art": [
         " /\\ ",
@@ -22669,11 +22378,9 @@
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
       "toxinDice": 8,
-      "extraFunFacts": [],
       "bait": false
     },
     "willow": {
-      "blockType": 2,
       "internalName": "willow",
       "name": "River Willow",
       "description": "A willow whose roots drink deep from a riverbank.",
@@ -22683,15 +22390,8 @@
       "maxAge": 150,
       "plant": true,
       "frequency": 7,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 6,
       "art": [
         "\\|/",
@@ -22699,12 +22399,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "old_willow": {
-      "blockType": 2,
       "internalName": "old_willow",
       "name": "Ancient Willow",
       "description": "An unusually malicious old willow with hungry roots.",
@@ -22714,15 +22411,11 @@
       "maxAge": 3000,
       "plant": true,
       "frequency": 1,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
       "suffocates": true,
       "suffocationDice": 9,
       "suffocatesLargerCreatures": true,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 10,
       "art": [
         " /\\ ",
@@ -22732,11 +22425,9 @@
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
       "toxinDice": 8,
-      "extraFunFacts": [],
       "bait": false
     },
     "oak": {
-      "blockType": 2,
       "internalName": "oak",
       "name": "Ancient Oak",
       "description": "A massive forest oak with roots stretching through dark soil.",
@@ -22746,15 +22437,8 @@
       "maxAge": 800,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 9,
       "art": [
         " /\\ ",
@@ -22763,12 +22447,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "beech": {
-      "blockType": 2,
       "internalName": "beech",
       "name": "Green Beech",
       "description": "A broadleaf tree of the Old Forest and northern valleys.",
@@ -22778,15 +22459,8 @@
       "maxAge": 500,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 8,
       "art": [
         " /\\ ",
@@ -22795,12 +22469,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "pine": {
-      "blockType": 2,
       "internalName": "pine",
       "name": "Mountain Pine",
       "description": "A resinous evergreen of harsh slopes and cold valleys.",
@@ -22810,15 +22481,8 @@
       "maxAge": 330,
       "plant": true,
       "frequency": 6,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 7,
       "art": [
         " /\\ ",
@@ -22827,12 +22491,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "fir": {
-      "blockType": 2,
       "internalName": "fir",
       "name": "Dark Fir",
       "description": "A needle-leaved tree growing in the deeper woods.",
@@ -22842,15 +22503,8 @@
       "maxAge": 350,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 7,
       "art": [
         "\\|/",
@@ -22858,12 +22512,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "birch": {
-      "blockType": 2,
       "internalName": "birch",
       "name": "Silver Birch",
       "description": "A pale-barked tree along woodland edges.",
@@ -22873,15 +22524,8 @@
       "maxAge": 140,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 5,
       "art": [
         " /\\ ",
@@ -22890,12 +22534,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "ash": {
-      "blockType": 2,
       "internalName": "ash",
       "name": "Ash Tree",
       "description": "A tall ash whose branches sway over the riverbank.",
@@ -22905,15 +22546,8 @@
       "maxAge": 450,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 8,
       "art": [
         " /\\ ",
@@ -22922,12 +22556,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "heather": {
-      "blockType": 2,
       "internalName": "heather",
       "name": "Purple Heather",
       "description": "Small purple flowers carpeting windswept moors.",
@@ -22937,15 +22568,7 @@
       "maxAge": 35,
       "plant": true,
       "frequency": 7,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.45,
       "art": [
         "\\|/",
@@ -22953,12 +22576,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "grass": {
-      "blockType": 2,
       "internalName": "grass",
       "name": "Green Grass",
       "description": "Hardy grass growing in meadows and lowlands.",
@@ -22968,15 +22588,7 @@
       "maxAge": 12,
       "plant": true,
       "frequency": 12,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.3,
       "art": [
         "\\|/",
@@ -22984,12 +22596,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "clover": {
-      "blockType": 2,
       "internalName": "clover",
       "name": "Wild Clover",
       "description": "A small meadow plant providing forage.",
@@ -22999,15 +22608,7 @@
       "maxAge": 5,
       "plant": true,
       "frequency": 9,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.18,
       "art": [
         "\\|/",
@@ -23015,12 +22616,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "berry": {
-      "blockType": 2,
       "internalName": "berry",
       "name": "Wild Berries",
       "description": "Sweet woodland berries that attract hungry wildlife.",
@@ -23030,15 +22628,7 @@
       "maxAge": 18,
       "plant": true,
       "frequency": 7,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.4,
       "art": [
         "\\|/",
@@ -23046,12 +22636,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "mushroom": {
-      "blockType": 2,
       "internalName": "mushroom",
       "name": "Forest Mushroom",
       "description": "An edible mushroom flourishing beneath fallen leaves.",
@@ -23061,15 +22648,7 @@
       "maxAge": 1,
       "plant": true,
       "frequency": 7,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.2,
       "art": [
         "\\|/",
@@ -23077,12 +22656,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "poison_mushroom": {
-      "blockType": 2,
       "internalName": "poison_mushroom",
       "name": "Blackcap Mushroom",
       "description": "A treacherous toadstool that resembles edible forest fungi.",
@@ -23092,15 +22668,7 @@
       "maxAge": 1,
       "plant": true,
       "frequency": 2,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.3,
       "art": [
         "\\|/",
@@ -23109,11 +22677,9 @@
       "biome": "anyWaterBody",
       "toxin": "generaToxin",
       "toxinDice": 25,
-      "extraFunFacts": [],
       "bait": false
     },
     "black_nettle": {
-      "blockType": 2,
       "internalName": "black_nettle",
       "name": "Mordor Nettle",
       "description": "A bitter, stinging plant of ash-choked places.",
@@ -23123,15 +22689,7 @@
       "maxAge": 5,
       "plant": true,
       "frequency": 4,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.45,
       "art": [
         "\\|/",
@@ -23150,7 +22708,6 @@
       "bait": false
     },
     "thorn": {
-      "blockType": 2,
       "internalName": "thorn",
       "name": "Black Thorn",
       "description": "A dense thorn bush defending itself with sharp branches.",
@@ -23160,15 +22717,8 @@
       "maxAge": 65,
       "plant": true,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
-      "animalLike": false,
       "size": 2.8,
       "art": [
         "\\|/",
@@ -23176,12 +22726,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "nightshade": {
-      "blockType": 2,
       "internalName": "nightshade",
       "name": "Shadow Nightshade",
       "description": "An alluring but dangerous flowering herb.",
@@ -23191,15 +22738,7 @@
       "maxAge": 5,
       "plant": true,
       "frequency": 2,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.5,
       "art": [
         "\\|/",
@@ -23208,11 +22747,9 @@
       "biome": "anyWaterBody",
       "toxin": "generaToxin",
       "toxinDice": 25,
-      "extraFunFacts": [],
       "bait": false
     },
     "reed": {
-      "blockType": 2,
       "internalName": "reed",
       "name": "River Reed",
       "description": "Tall reeds that shelter fish and nestling birds.",
@@ -23222,15 +22759,7 @@
       "maxAge": 12,
       "plant": true,
       "frequency": 10,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 2.2,
       "art": [
         "\\|/",
@@ -23238,12 +22767,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "rush": {
-      "blockType": 2,
       "internalName": "rush",
       "name": "Marsh Rush",
       "description": "A tufted rush thriving on wet ground.",
@@ -23253,15 +22779,7 @@
       "maxAge": 9,
       "plant": true,
       "frequency": 9,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 1.1,
       "art": [
         "\\|/",
@@ -23269,12 +22787,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "water_lily": {
-      "blockType": 2,
       "internalName": "water_lily",
       "name": "Water Lily",
       "description": "Floating leaves and pale flowers upon still water.",
@@ -23284,27 +22799,16 @@
       "maxAge": 25,
       "plant": true,
       "frequency": 8,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 1.3,
       "art": [
         "~*~"
       ],
       "biome": "Freshwater",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "waterweed": {
-      "blockType": 2,
       "internalName": "waterweed",
       "name": "Waterweed",
       "description": "A flowing ribbon of submerged freshwater vegetation.",
@@ -23314,27 +22818,16 @@
       "maxAge": 5,
       "plant": true,
       "frequency": 9,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.42,
       "art": [
         "~*~"
       ],
       "biome": "Freshwater",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "algae": {
-      "blockType": 2,
       "internalName": "algae",
       "name": "River Algae",
       "description": "Green growth coating rocks beneath running water.",
@@ -23344,27 +22837,16 @@
       "maxAge": 3,
       "plant": true,
       "frequency": 12,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.18,
       "art": [
         "~*~"
       ],
       "biome": "Freshwater",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "kelp": {
-      "blockType": 2,
       "internalName": "kelp",
       "name": "Sea Kelp",
       "description": "Long brown fronds swaying under western waves.",
@@ -23374,27 +22856,16 @@
       "maxAge": 15,
       "plant": true,
       "frequency": 10,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 5,
       "art": [
         "~*~"
       ],
       "biome": "Ocean",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "seagrass": {
-      "blockType": 2,
       "internalName": "seagrass",
       "name": "Seagrass",
       "description": "Beds of underwater grass in sheltered marine shallows.",
@@ -23404,27 +22875,16 @@
       "maxAge": 25,
       "plant": true,
       "frequency": 9,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 1.3,
       "art": [
         "~*~"
       ],
       "biome": "Ocean",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "coral": {
-      "blockType": 2,
       "internalName": "coral",
       "name": "Ancient Coral",
       "description": "Branches of living coral in southern waters.",
@@ -23434,12 +22894,6 @@
       "maxAge": 350,
       "plant": false,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
       "solid": true,
       "solidDice": 5,
       "animalLike": true,
@@ -23449,12 +22903,9 @@
       ],
       "biome": "Ocean",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "seaweed": {
-      "blockType": 2,
       "internalName": "seaweed",
       "name": "Saltweed",
       "description": "Edible marine fronds tossed by rough surf.",
@@ -23464,27 +22915,16 @@
       "maxAge": 8,
       "plant": true,
       "frequency": 10,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 1.2,
       "art": [
         "~*~"
       ],
       "biome": "Ocean",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "fern": {
-      "blockType": 2,
       "internalName": "fern",
       "name": "Green Fern",
       "description": "Unfurling fronds of moist woodland.",
@@ -23494,15 +22934,7 @@
       "maxAge": 24,
       "plant": true,
       "frequency": 7,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
       "solidDice": 5,
-      "animalLike": false,
       "size": 0.65,
       "art": [
         "\\|/",
@@ -23510,12 +22942,9 @@
       ],
       "biome": "anyWaterBody",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "fresh_phytoplankton": {
-      "blockType": 2,
       "internalName": "fresh_phytoplankton",
       "name": "Freshwater Phytoplankton",
       "description": "Microscopic photosynthetic algae floating in sunlit lakes and rivers; primary producers eaten by filter feeders and small fish.",
@@ -23524,15 +22953,6 @@
       "maxAge": 1,
       "plant": true,
       "frequency": 8,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
-      "animalLike": false,
       "size": 0.012,
       "art": [
         "..",
@@ -23544,11 +22964,9 @@
       "toxinDice": 8,
       "extraFunFacts": [
         "These photosynthetic drifters underpin much of the freshwater food web."
-      ],
-      "bait": true
+      ]
     },
     "fresh_zooplankton": {
-      "blockType": 2,
       "internalName": "fresh_zooplankton",
       "name": "Freshwater Zooplankton",
       "description": "Minute water fleas, copepods, and other drifting animals; important food for minnows, young trout, and other small fish.",
@@ -23557,14 +22975,6 @@
       "maxAge": 1,
       "plant": false,
       "frequency": 8,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
       "animalLike": true,
       "size": 0.025,
       "art": [
@@ -23573,12 +22983,9 @@
       "habitat": "Aquatic",
       "biome": "Freshwater",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "fresh_benthos": {
-      "blockType": 2,
       "internalName": "fresh_benthos",
       "name": "Freshwater Benthic Invertebrates",
       "description": "A bed-dwelling mixture of amphipods, insect larvae, snails, and small worms beneath the stones and silt.",
@@ -23587,14 +22994,6 @@
       "maxAge": 1,
       "plant": false,
       "frequency": 6,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
       "animalLike": true,
       "size": 0.07,
       "art": [
@@ -23606,11 +23005,9 @@
       "toxinDice": 8,
       "extraFunFacts": [
         "Benthic invertebrates are particularly important food for bottom-feeding sturgeon and carp."
-      ],
-      "bait": true
+      ]
     },
     "sea_phytoplankton": {
-      "blockType": 2,
       "internalName": "sea_phytoplankton",
       "name": "Marine Phytoplankton",
       "description": "Microscopic photosynthetic drifters in the sunlit sea, supporting the oceanic food web.",
@@ -23619,15 +23016,6 @@
       "maxAge": 1,
       "plant": true,
       "frequency": 8,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
-      "animalLike": false,
       "size": 0.012,
       "art": [
         ".:."
@@ -23638,11 +23026,9 @@
       "toxinDice": 8,
       "extraFunFacts": [
         "Marine phytoplankton support zooplankton that are eaten by herring and other fish."
-      ],
-      "bait": true
+      ]
     },
     "sea_zooplankton": {
-      "blockType": 2,
       "internalName": "sea_zooplankton",
       "name": "Marine Zooplankton",
       "description": "Tiny drifting copepods and other animal plankton, gathered by herring and young marine fish.",
@@ -23651,14 +23037,6 @@
       "maxAge": 1,
       "plant": false,
       "frequency": 8,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
       "animalLike": true,
       "size": 0.025,
       "art": [
@@ -23670,11 +23048,9 @@
       "toxinDice": 8,
       "extraFunFacts": [
         "Herring feed heavily upon the tiny drifting animals that fill the western seas."
-      ],
-      "bait": true
+      ]
     },
     "sea_krill": {
-      "blockType": 2,
       "internalName": "sea_krill",
       "name": "Krill Swarm",
       "description": "Small shrimp-like marine crustaceans swimming in dense aggregations; nutritious prey for schooling fish.",
@@ -23683,14 +23059,6 @@
       "maxAge": 1,
       "plant": false,
       "frequency": 5,
-      "rot": false,
-      "ubiquitous": false,
-      "continental": false,
-      "suffocates": false,
-      "suffocationDice": 3,
-      "suffocatesLargerCreatures": false,
-      "solid": false,
-      "solidDice": 3,
       "animalLike": true,
       "size": 0.065,
       "art": [
@@ -23699,9 +23067,7 @@
       "habitat": "Aquatic",
       "biome": "Ocean",
       "toxin": "nonToxic",
-      "toxinDice": 8,
-      "extraFunFacts": [],
-      "bait": true
+      "toxinDice": 8
     },
     "riverbed_detritus": {
       "internalName": "riverbed_detritus",
@@ -23749,13 +23115,10 @@
       "spreadRate": 0,
       "maxAge": 0,
       "plant": false,
-      "rot": false,
       "bait": false,
       "frequency": 4,
       "suffocates": true,
       "suffocationDice": 8,
-      "solid": false,
-      "animalLike": false,
       "size": 0.28,
       "art": [
         " . * . ",
