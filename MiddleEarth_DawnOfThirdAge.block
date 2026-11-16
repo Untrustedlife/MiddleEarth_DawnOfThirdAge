@@ -4542,6 +4542,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -4800,6 +4805,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -5003,6 +5013,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -5209,6 +5224,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -5411,6 +5431,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -5618,6 +5643,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -5822,6 +5852,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -6024,6 +6059,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -6241,6 +6281,11 @@
             "xpToNextLevel": 3470,
             "xpToPreviousLevel": 2776,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -6460,6 +6505,11 @@
             "xpToNextLevel": 25850,
             "xpToPreviousLevel": 20680,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -6672,6 +6722,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -6880,6 +6935,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -7096,6 +7156,11 @@
             "xp": 0,
             "xpToNextLevel": 2221,
             "xpToPreviousLevel": 1777
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -7313,6 +7378,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -7527,6 +7597,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -7740,6 +7815,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -7950,6 +8030,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -8158,6 +8243,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -8393,6 +8483,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -8597,6 +8692,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -8811,6 +8911,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 8
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -9025,6 +9130,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 8
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -9242,6 +9352,11 @@
             "xpToNextLevel": 98608,
             "xpToPreviousLevel": 78887,
             "freeLevels": 8
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -9388,7 +9503,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -9479,6 +9595,13 @@
             "xpToNextLevel": 3470,
             "xpToPreviousLevel": 2776,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -9625,7 +9748,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -9714,6 +9838,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -9861,7 +9992,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -9950,6 +10082,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -10097,7 +10236,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -10186,6 +10326,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -10333,7 +10480,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -10422,6 +10570,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -10569,7 +10724,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -10658,6 +10814,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -10805,7 +10968,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -10894,6 +11058,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -11041,7 +11212,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -11130,6 +11302,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -11277,7 +11456,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -11366,6 +11546,13 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 6
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -11605,6 +11792,11 @@
             "xpToNextLevel": 6777,
             "xpToPreviousLevel": 5422,
             "freeLevels": 9
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -11806,6 +11998,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -12032,6 +12229,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -12157,7 +12359,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -12240,6 +12443,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -12364,7 +12574,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -12447,6 +12658,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -12650,6 +12868,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -12858,6 +13081,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -13069,6 +13297,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -13269,6 +13502,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -13479,6 +13717,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -13683,6 +13926,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -13883,6 +14131,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -14088,6 +14341,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -14289,6 +14547,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -14487,6 +14750,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -14708,6 +14976,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -14890,6 +15163,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -15089,6 +15367,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -15204,7 +15487,8 @@
         "EscapeArtist": 2,
         "Observer": 2,
         "Fighting": 1,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 3
       },
       "AttributeModifiers": {
         "Swiftness": 2,
@@ -15289,6 +15573,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 3,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 3
           }
         },
         "Attributes": {
@@ -15411,7 +15702,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -15496,6 +15788,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 2
           }
         },
         "Attributes": {
@@ -15646,7 +15945,8 @@
         "Intimidation": 2,
         "Observer": 3,
         "Sneaking": 2,
-        "Swimming": 1
+        "Swimming": 1,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 2,
@@ -15728,6 +16028,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -15837,7 +16144,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -15942,6 +16250,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 2
           }
         },
         "Attributes": {
@@ -16185,6 +16500,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -16295,7 +16615,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -16396,6 +16717,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -16499,7 +16827,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -16599,6 +16928,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 2
           }
         },
         "Attributes": {
@@ -16818,6 +17154,11 @@
             "xp": 0,
             "xpToNextLevel": 98,
             "xpToPreviousLevel": 79
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -17051,6 +17392,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -17265,6 +17611,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -17470,6 +17821,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -17683,6 +18039,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -17893,6 +18254,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -18111,6 +18477,11 @@
             "xp": 0,
             "xpToNextLevel": 50,
             "freeLevels": 2
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -18317,6 +18688,11 @@
           },
           "Mysticism": {
             "name": "Mysticism",
+            "xp": 0,
+            "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
             "xp": 0,
             "xpToNextLevel": 50
           }
@@ -18526,6 +18902,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -18651,7 +19032,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -18734,6 +19116,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -18856,7 +19245,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -18966,6 +19356,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 2
           }
         },
         "Attributes": {
@@ -19099,7 +19496,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -19201,6 +19599,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -19312,7 +19717,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -19415,6 +19821,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 1,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 1
           }
         },
         "Attributes": {
@@ -19605,6 +20018,11 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "xp": 0,
+            "xpToNextLevel": 50
           }
         },
         "Attributes": {
@@ -19727,7 +20145,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -19831,6 +20250,13 @@
             "name": "Mysticism",
             "xp": 0,
             "xpToNextLevel": 50
+          },
+          "Provocation": {
+            "name": "Provocation",
+            "level": 2,
+            "xp": 0,
+            "xpToNextLevel": 50,
+            "freeLevels": 2
           }
         },
         "Attributes": {
@@ -20210,7 +20636,8 @@
         "Sneaking": 3,
         "Foraging": 3,
         "EscapeArtist": 2,
-        "Dodging": 1
+        "Dodging": 1,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 2,
@@ -20454,7 +20881,8 @@
         "Fighting": 3,
         "Intimidation": 2,
         "Observer": 2,
-        "Learning": 2
+        "Learning": 2,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 4,
@@ -20654,7 +21082,8 @@
         "Fighting": 2,
         "Intimidation": 1,
         "Sneaking": 2,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 2
       },
       "AttributeModifiers": {
         "Tenacity": 1,
@@ -20709,7 +21138,8 @@
         "EscapeArtist": 2,
         "Observer": 2,
         "Fighting": 1,
-        "Foraging": 1
+        "Foraging": 1,
+        "Provocation": 3
       },
       "AttributeModifiers": {
         "Swiftness": 2,
@@ -20766,7 +21196,8 @@
       "DefaultSkills": {
         "Fighting": 6,
         "Intimidation": 5,
-        "Observer": 1
+        "Observer": 1,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 5,
@@ -20848,7 +21279,8 @@
         "Intimidation": 2,
         "Observer": 3,
         "Sneaking": 2,
-        "Swimming": 1
+        "Swimming": 1,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 2,
@@ -21044,7 +21476,8 @@
         "Intimidation": 8,
         "Fighting": 7,
         "Observer": 4,
-        "Sneaking": 3
+        "Sneaking": 3,
+        "Provocation": 1
       },
       "AttributeModifiers": {
         "Tenacity": 6,
@@ -21213,7 +21646,8 @@
         "Intimidation": 10,
         "Observer": 6,
         "Learning": 3,
-        "Mysticism": 3
+        "Mysticism": 3,
+        "Provocation": 3
       },
       "AttributeModifiers": {
         "Tenacity": 8,
