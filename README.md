@@ -26,9 +26,11 @@ If you want to preserve the original world, consider duplicating it using Pilgri
 
 The world also has kinda shitty ASCII art for the creatures. This was created as an experiment, and I would welcome anyone to update and flesh it out!
 
-This was created for version 0.3.5 of Pilgrimage. In future updates, the block schemas may change and break the world.
+This was originally made for 0.3.5, but the save has been updated for the current 0.3.6 development version of Pilgrimage. The schemas might still change before 0.3.6 releases.
 
 There are some protections in-game for broken worlds, but I may not have caught all edge cases, and it doesn't validate the schema much.
+
+The souls and the One Ring are set up for the newer possession mechanics. The Ring's behavior is tied to its bearer as a parasitic soul, rather than a regular inventory item.
 
 #A quick legal disclaimer
  
