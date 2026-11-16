@@ -4618,6 +4618,7 @@
         {
           "selectionWeight": 10,
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "sameSpeciesAttackMultiplier": 0.01,
             "sapientOnSapientAttackMultiplier": 0.15,
             "exorcismAttemptMultiplier": 0.2,
@@ -4643,6 +4644,9 @@
             "exorcismAttemptMultiplier": 0.1
           },
           "continuationTemplate": "ContinuationRing",
+          "interventionDice": 6,
+          "nameColor": "#FFD700",
+          "artColor": "#FFB000",
           "originalHostSpecies": "maia",
           "originalHostsArt": [
             "    .------.    ",
@@ -4651,7 +4655,28 @@
             " \\   (____)   / ",
             "  '.        .'  ",
             "    '------'    "
-          ]
+          ],
+          "inheritedVocalizations": {
+            "firstPersonUtterances": [
+              "murmur in a harsh, whispering tongue",
+              "whisper a name that is not your own",
+              "speak softly to someone who is not there"
+            ],
+            "thirdPersonUtterances": [
+              "murmurs in a harsh, whispering tongue",
+              "whispers a name that is not theirs",
+              "speaks softly to someone who is not there"
+            ],
+            "outOfSightUtterances": [
+              "a faint whispering in a harsh, ancient tongue",
+              "a thin, patient voice murmuring from nowhere",
+              "a low whisper that seems to know your name"
+            ],
+            "vocalizationSounds": [
+              "WHISPERSOUND",
+              "SPOOKWHISPER"
+            ]
+          }
         }
       ]
     },
@@ -4848,6 +4873,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -5052,6 +5078,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.72,
@@ -5255,6 +5282,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -5458,6 +5486,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -5662,6 +5691,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.55,
@@ -5865,6 +5895,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.008,
             "otherSpeciesAttackMultiplier": 0.5,
@@ -6068,6 +6099,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -6278,6 +6310,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -6491,6 +6524,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -6701,6 +6735,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.008,
             "otherSpeciesAttackMultiplier": 0.65,
@@ -6908,6 +6943,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -7121,6 +7157,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -7332,6 +7369,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.95,
@@ -7539,6 +7577,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -7746,6 +7785,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.7,
@@ -7955,6 +7995,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.7,
@@ -8162,6 +8203,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -11955,6 +11997,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.8,
@@ -12159,6 +12202,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -12363,6 +12407,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -12569,6 +12614,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -12776,6 +12822,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -12977,6 +13024,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.65,
@@ -13183,6 +13231,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -13387,6 +13436,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.5,
@@ -13587,6 +13637,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -13790,6 +13841,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.75,
@@ -13989,6 +14041,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.55,
@@ -14188,6 +14241,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.63,
@@ -14380,6 +14434,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 0.15,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -14563,6 +14618,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -14757,6 +14813,7 @@
         {
           "temperaments": {
             "temperament": "Unspecified",
+            "waterPresenceProbability": 0.5,
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.85,
             "smallTargetAttackMultiplier": 0.6,
@@ -14962,6 +15019,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.8,
@@ -15168,6 +15226,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.15,
             "sapientOnSapientAttackMultiplier": 0.95,
@@ -15597,6 +15656,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.09,
             "otherSpeciesAttackMultiplier": 0.95,
@@ -15841,6 +15901,7 @@
         {
           "temperaments": {
             "temperament": "Aggressive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.02,
             "smallTargetAttackMultiplier": 0.95,
             "largeTargetAttackMultiplier": 0.9,
@@ -16049,6 +16110,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -16278,6 +16340,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.12,
             "otherSpeciesAttackMultiplier": 0.95,
@@ -16720,6 +16783,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.9,
@@ -16928,6 +16992,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.005,
             "otherSpeciesAttackMultiplier": 0.95,
@@ -17135,6 +17200,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -17344,6 +17410,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.85,
@@ -17554,6 +17621,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.012,
             "otherSpeciesAttackMultiplier": 0.8,
@@ -17764,6 +17832,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -17971,6 +18040,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -18177,6 +18247,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.2,
             "sapientOnSapientAttackMultiplier": 0.9,
@@ -18382,6 +18453,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Unspecified",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.7,
@@ -18617,6 +18689,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.18,
             "sapientOnSapientAttackMultiplier": 0.85,
@@ -18828,6 +18901,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -19041,6 +19115,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Adventurous",
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.82,
@@ -19250,6 +19325,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -19460,6 +19536,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.13,
             "sapientOnSapientAttackMultiplier": 0.86,
@@ -19517,6 +19594,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.015,
             "otherSpeciesAttackMultiplier": 0.7,
@@ -19570,6 +19648,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.65,
@@ -19622,6 +19701,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.65,
@@ -19673,6 +19753,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.65,
@@ -19724,6 +19805,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.7,
@@ -19781,6 +19863,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.01,
             "temperament": "Defensive",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -19845,6 +19928,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.8,
@@ -19902,6 +19986,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.01,
             "otherSpeciesAttackMultiplier": 0.6,
@@ -19959,6 +20044,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.05,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
@@ -20019,6 +20105,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Random",
             "sameSpeciesAttackMultiplier": 0.02,
             "otherSpeciesAttackMultiplier": 0.75,
@@ -20195,6 +20282,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.12,
             "sapientOnSapientAttackMultiplier": 0.85,
@@ -20249,6 +20337,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.02,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.05,
             "otherSpeciesAttackMultiplier": 0.85,
@@ -20684,6 +20773,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.03,
             "temperament": "Aggressive",
             "sameSpeciesAttackMultiplier": 0.035,
             "sapientOnSapientAttackMultiplier": 0.85,
@@ -21137,6 +21227,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.5,
             "sameSpeciesAttackMultiplier": 0.025,
             "otherSpeciesAttackMultiplier": 0.78,
             "largeTargetAttackMultiplier": 0.2,
@@ -21183,6 +21274,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -21230,6 +21322,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -21282,6 +21375,7 @@
         {
           "temperaments": {
             "temperament": "Aggressive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.04,
             "otherSpeciesAttackMultiplier": 0.98,
             "smallTargetAttackMultiplier": 0.8,
@@ -21335,6 +21429,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -21381,6 +21476,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -21431,6 +21527,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.03,
             "otherSpeciesAttackMultiplier": 0.8,
             "smallTargetAttackMultiplier": 0.6,
@@ -21479,6 +21576,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.03,
             "otherSpeciesAttackMultiplier": 0.82,
             "smallTargetAttackMultiplier": 0.55,
@@ -21526,6 +21624,7 @@
         {
           "temperaments": {
             "temperament": "Harmless",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.2,
@@ -21574,6 +21673,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.04,
             "otherSpeciesAttackMultiplier": 0.82,
             "smallTargetAttackMultiplier": 0.55,
@@ -21622,6 +21722,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -21679,6 +21780,7 @@
         {
           "temperaments": {
             "temperament": "Aggressive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.04,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.3,
@@ -21737,6 +21839,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.7,
             "sameSpeciesAttackMultiplier": 0.035,
             "otherSpeciesAttackMultiplier": 0.72,
             "smallTargetAttackMultiplier": 0.45,
@@ -21838,6 +21941,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 0.4,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.2,
@@ -21892,6 +21996,7 @@
       "souls": [
         {
           "temperaments": {
+            "waterPresenceProbability": 0.7,
             "sameSpeciesAttackMultiplier": 0.045,
             "otherSpeciesAttackMultiplier": 0.78,
             "smallTargetAttackMultiplier": 0.55,
@@ -21942,6 +22047,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 0.15,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.3,
@@ -22082,6 +22188,7 @@
         {
           "temperaments": {
             "temperament": "Harmless",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.2,
@@ -22171,6 +22278,7 @@
         {
           "temperaments": {
             "temperament": "Aggressive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0.07,
             "smallTargetAttackMultiplier": 0.85,
             "largeTargetAttackMultiplier": 0.7,
@@ -22223,6 +22331,7 @@
         {
           "temperaments": {
             "temperament": "Defensive",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.2,
@@ -22274,6 +22383,7 @@
         {
           "temperaments": {
             "temperament": "Harmless",
+            "waterPresenceProbability": 1,
             "sameSpeciesAttackMultiplier": 0,
             "otherSpeciesAttackMultiplier": 0,
             "smallTargetAttackMultiplier": 0.2,
