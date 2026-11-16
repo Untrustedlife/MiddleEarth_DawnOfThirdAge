@@ -4627,6 +4627,7 @@
         },
         {
           "selectionWeight": 5,
+          "ambition": "PossessGod",
           "parasitic": true,
           "preferredName": "The One Ring",
           "possessionTemplate": "PossessionRing",
@@ -6119,6 +6120,11 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -6333,6 +6339,11 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -6547,6 +6558,7 @@
       "minAge": 200,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -6756,6 +6768,7 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -6964,6 +6977,7 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -7180,6 +7194,11 @@
       "minAge": 200,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -7390,6 +7409,11 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -7598,6 +7622,11 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -7806,6 +7835,7 @@
       "minAge": 200,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -8016,6 +8046,7 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -8224,6 +8255,31 @@
       "minAge": 200,
       "difficulty": 25,
       "aquatic": false,
+      "utteranceChance": 0.2,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "hoom softly",
+          "give a slow, resonant hrum",
+          "creak and murmur in a deep, unhurried voice"
+        ],
+        "thirdPersonUtterances": [
+          "hooms softly",
+          "gives a slow, resonant hrum",
+          "creaks and murmurs in a deep, unhurried voice"
+        ],
+        "outOfSightUtterances": [
+          "a deep, slow hoom among the trees",
+          "a long, resonant hrum",
+          "the creak of something very old, speaking"
+        ],
+        "vocalizationSounds": [
+          "DRUMGRUNT",
+          "DEEPBUZZSOUND"
+        ]
+      },
+      "power": true,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "EM",
       "size": 13,
       "EatsPlants": true,
       "EatsMeat": false,
@@ -8433,6 +8489,7 @@
       "minAge": 200,
       "difficulty": 18,
       "aquatic": false,
+      "power": true,
       "size": 10,
       "EatsPlants": true,
       "EatsMeat": false,
@@ -8636,6 +8693,8 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "deity": true,
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -8849,6 +8908,8 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "deity": true,
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -9062,6 +9123,8 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "deity": true,
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -9275,6 +9338,28 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -9490,6 +9575,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -9704,6 +9811,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -9918,6 +10047,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -10132,6 +10283,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -10346,6 +10519,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -10560,6 +10755,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -10774,6 +10991,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -10988,6 +11227,28 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
+      "power": true,
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -11202,6 +11463,32 @@
       "minAge": 200,
       "difficulty": 55,
       "aquatic": false,
+      "ferocious": true,
+      "utteranceChance": 0.25,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "roar like a furnace in a cavern",
+          "crack your whip of flame",
+          "bellow in a voice like falling stone"
+        ],
+        "thirdPersonUtterances": [
+          "roars like a furnace in a cavern",
+          "cracks its whip of flame",
+          "bellows in a voice like falling stone"
+        ],
+        "outOfSightUtterances": [
+          "a roar like a furnace in the deep",
+          "the crack of a flaming whip",
+          "a bellow that shakes dust from the ceiling"
+        ],
+        "vocalizationSounds": [
+          "ROARSOUND",
+          "DRUMGRUNT"
+        ]
+      },
+      "power": true,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "BR",
       "size": 14,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -11413,6 +11700,7 @@
       "minAge": 96,
       "difficulty": 20,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 2.7,
       "EatsPlants": false,
@@ -11608,6 +11896,32 @@
       "minAge": 40,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "sapient": true,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a piercing cry",
+          "scream from high above",
+          "call out in a clear, ringing voice"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a piercing cry",
+          "screams from high above",
+          "calls out in a clear, ringing voice"
+        ],
+        "outOfSightUtterances": [
+          "a piercing cry from the sky",
+          "the ringing call of an eagle",
+          "a scream from high above"
+        ],
+        "vocalizationSounds": [
+          "OSPREYSOUND",
+          "SKWEESKWEE"
+        ]
+      },
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "EC",
       "breathesAir": true,
       "size": 4,
       "EatsPlants": false,
@@ -11813,6 +12127,8 @@
       "minAge": 48,
       "difficulty": 12,
       "aquatic": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "DD",
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -12018,6 +12334,8 @@
       "minAge": 48,
       "difficulty": 12,
       "aquatic": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "DD",
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -12427,6 +12745,7 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -12635,6 +12954,7 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -13044,6 +13364,7 @@
       "minAge": 200,
       "difficulty": 12,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -14261,6 +14582,27 @@
       "minAge": 4.8,
       "difficulty": 3,
       "aquatic": true,
+      "utteranceChance": 0.2,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "hiss",
+          "trumpet",
+          "honk"
+        ],
+        "thirdPersonUtterances": [
+          "hisses",
+          "trumpets",
+          "honks"
+        ],
+        "outOfSightUtterances": [
+          "a hiss",
+          "a trumpeting call",
+          "a honk across the water"
+        ],
+        "vocalizationSounds": [
+          "TRUMPETSOUND"
+        ]
+      },
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -14637,6 +14979,7 @@
       "minAge": 2.88,
       "difficulty": 3,
       "aquatic": true,
+      "DiveHunter": true,
       "breathesAir": true,
       "lung": 8,
       "maxLung": 8,
@@ -15273,6 +15616,7 @@
       "minAge": 6.4,
       "difficulty": 8,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 2.2,
       "EatsPlants": false,
@@ -16803,6 +17147,11 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -17220,6 +17569,7 @@
       "minAge": 200,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -17431,6 +17781,7 @@
       "minAge": 200,
       "difficulty": 20,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -17642,6 +17993,11 @@
       "minAge": 200,
       "difficulty": 40,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "canonicalTemperatureMeasurement": true,
+      "canonicalTemperatureMeasurementUnit": "°ID",
+      "temperatureZeroCelsius": 8,
+      "celsiusPerTemperatureUnit": 1.25,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -18266,6 +18622,8 @@
       "minAge": 48,
       "difficulty": 20,
       "aquatic": false,
+      "canonicalAreaMeasurement": true,
+      "canonicalAreaMeasurementUnit": "DD",
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -19884,6 +20242,7 @@
       "minAge": 200,
       "difficulty": 11,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -19949,6 +20308,7 @@
       "minAge": 200,
       "difficulty": 9,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -20007,6 +20367,7 @@
       "minAge": 200,
       "difficulty": 7,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1.8,
       "EatsPlants": true,
@@ -20126,6 +20487,28 @@
       "minAge": 200,
       "difficulty": 25,
       "aquatic": false,
+      "utteranceChance": 0.2,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "hoom softly",
+          "give a slow, resonant hrum",
+          "creak and murmur in a deep, unhurried voice"
+        ],
+        "thirdPersonUtterances": [
+          "hooms softly",
+          "gives a slow, resonant hrum",
+          "creaks and murmurs in a deep, unhurried voice"
+        ],
+        "outOfSightUtterances": [
+          "a deep, slow hoom among the trees",
+          "a long, resonant hrum",
+          "the creak of something very old, speaking"
+        ],
+        "vocalizationSounds": [
+          "DRUMGRUNT",
+          "DEEPBUZZSOUND"
+        ]
+      },
       "size": 13,
       "EatsPlants": true,
       "EatsMeat": false,
@@ -20358,6 +20741,7 @@
       "minAge": 48,
       "difficulty": 18,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 5,
       "EatsPlants": true,
@@ -20412,6 +20796,7 @@
       "minAge": 6.4,
       "difficulty": 8,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 2.2,
       "EatsPlants": false,
@@ -20494,6 +20879,7 @@
       "minAge": 96,
       "difficulty": 14,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 2.7,
       "EatsPlants": false,
@@ -20609,6 +20995,27 @@
       "minAge": 200,
       "difficulty": 32,
       "aquatic": false,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a long, wailing shriek",
+          "hiss in a dry, breathless whisper"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a long, wailing shriek",
+          "hisses in a dry, breathless whisper"
+        ],
+        "outOfSightUtterances": [
+          "a cold, wailing shriek",
+          "a dry, breathless whispering",
+          "a chill cry that silences the birds"
+        ],
+        "vocalizationSounds": [
+          "SPOOKWHISPER",
+          "FREAKYSOUND",
+          "WHISPERSOUND"
+        ]
+      },
       "size": 2,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -20670,6 +21077,29 @@
       "minAge": 200,
       "difficulty": 55,
       "aquatic": false,
+      "ferocious": true,
+      "utteranceChance": 0.25,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "roar like a furnace in a cavern",
+          "crack your whip of flame",
+          "bellow in a voice like falling stone"
+        ],
+        "thirdPersonUtterances": [
+          "roars like a furnace in a cavern",
+          "cracks its whip of flame",
+          "bellows in a voice like falling stone"
+        ],
+        "outOfSightUtterances": [
+          "a roar like a furnace in the deep",
+          "the crack of a flaming whip",
+          "a bellow that shakes dust from the ceiling"
+        ],
+        "vocalizationSounds": [
+          "ROARSOUND",
+          "DRUMGRUNT"
+        ]
+      },
       "size": 14,
       "EatsPlants": false,
       "EatsMeat": false,
@@ -20733,6 +21163,29 @@
       "minAge": 200,
       "difficulty": 45,
       "aquatic": false,
+      "ferocious": true,
+      "utteranceChance": 0.25,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "roar, shaking the ground",
+          "hiss a smoking breath",
+          "rumble deep in your throat"
+        ],
+        "thirdPersonUtterances": [
+          "roars, shaking the ground",
+          "hisses a smoking breath",
+          "rumbles deep in its throat"
+        ],
+        "outOfSightUtterances": [
+          "a roar that shakes the ground",
+          "a long hiss like a great bellows",
+          "a distant, rolling rumble"
+        ],
+        "vocalizationSounds": [
+          "ROARSOUND",
+          "DEEPBUZZSOUND"
+        ]
+      },
       "breathesAir": true,
       "size": 21,
       "EatsPlants": false,
@@ -20793,6 +21246,30 @@
       "minAge": 40,
       "difficulty": 19,
       "aquatic": false,
+      "hasSharpEyes": true,
+      "sapient": true,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "let out a piercing cry",
+          "scream from high above",
+          "call out in a clear, ringing voice"
+        ],
+        "thirdPersonUtterances": [
+          "lets out a piercing cry",
+          "screams from high above",
+          "calls out in a clear, ringing voice"
+        ],
+        "outOfSightUtterances": [
+          "a piercing cry from the sky",
+          "the ringing call of an eagle",
+          "a scream from high above"
+        ],
+        "vocalizationSounds": [
+          "OSPREYSOUND",
+          "SKWEESKWEE"
+        ]
+      },
       "breathesAir": true,
       "size": 4,
       "EatsPlants": false,
@@ -20852,6 +21329,7 @@
       "minAge": 6.4,
       "difficulty": 8,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 2.1,
       "EatsPlants": true,
@@ -20947,6 +21425,29 @@
       "minAge": 5.6000000000000005,
       "difficulty": 5,
       "aquatic": false,
+      "ferocious": true,
+      "utteranceChance": 0.4,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "howl",
+          "growl low",
+          "snarl"
+        ],
+        "thirdPersonUtterances": [
+          "howls",
+          "growls low",
+          "snarls"
+        ],
+        "outOfSightUtterances": [
+          "a long howl",
+          "a low growl",
+          "a snarl"
+        ],
+        "vocalizationSounds": [
+          "HOWLSOUND",
+          "BARKSOUND"
+        ]
+      },
       "breathesAir": true,
       "size": 1.5,
       "EatsPlants": false,
@@ -21000,6 +21501,7 @@
       "minAge": 4.48,
       "difficulty": 5,
       "aquatic": false,
+      "ferocious": true,
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -21049,6 +21551,24 @@
       "minAge": 5.6000000000000005,
       "difficulty": 4,
       "aquatic": false,
+      "utteranceChance": 0.2,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "whinny",
+          "snort",
+          "neigh loudly"
+        ],
+        "thirdPersonUtterances": [
+          "whinnies",
+          "snorts",
+          "neighs loudly"
+        ],
+        "outOfSightUtterances": [
+          "a whinny",
+          "a snort",
+          "a loud neigh"
+        ]
+      },
       "breathesAir": true,
       "size": 1.9,
       "EatsPlants": true,
@@ -21192,6 +21712,7 @@
       "minAge": 2.88,
       "difficulty": 3,
       "aquatic": true,
+      "DiveHunter": true,
       "breathesAir": true,
       "lung": 8,
       "maxLung": 8,
@@ -21341,6 +21862,7 @@
       "minAge": 3.36,
       "difficulty": 5,
       "aquatic": true,
+      "DiveHunter": true,
       "fish": true,
       "size": 1.2,
       "EatsPlants": false,
@@ -21741,6 +22263,8 @@
       "minAge": 7.2,
       "difficulty": 15,
       "aquatic": true,
+      "ferocious": true,
+      "DiveHunter": true,
       "fish": true,
       "size": 5,
       "EatsPlants": false,
@@ -21798,6 +22322,29 @@
       "minAge": 6.4,
       "difficulty": 4,
       "aquatic": true,
+      "DiveHunter": true,
+      "utteranceChance": 0.3,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "bark",
+          "honk",
+          "let out a low, moaning call"
+        ],
+        "thirdPersonUtterances": [
+          "barks",
+          "honks",
+          "lets out a low, moaning call"
+        ],
+        "outOfSightUtterances": [
+          "a bark from the water",
+          "a honk across the waves",
+          "a low, moaning call over the water"
+        ],
+        "vocalizationSounds": [
+          "BARKSOUND",
+          "DOGBARKSOUND"
+        ]
+      },
       "breathesAir": true,
       "lung": 12,
       "maxLung": 12,
@@ -22015,6 +22562,27 @@
       "minAge": 4.8,
       "difficulty": 3,
       "aquatic": true,
+      "utteranceChance": 0.2,
+      "vocalizations": {
+        "firstPersonUtterances": [
+          "hiss",
+          "trumpet",
+          "honk"
+        ],
+        "thirdPersonUtterances": [
+          "hisses",
+          "trumpets",
+          "honks"
+        ],
+        "outOfSightUtterances": [
+          "a hiss",
+          "a trumpeting call",
+          "a honk across the water"
+        ],
+        "vocalizationSounds": [
+          "TRUMPETSOUND"
+        ]
+      },
       "breathesAir": true,
       "size": 1.3,
       "EatsPlants": true,
@@ -22065,6 +22633,7 @@
       "minAge": 3.2,
       "difficulty": 2,
       "aquatic": false,
+      "hasSharpEyes": true,
       "breathesAir": true,
       "size": 1,
       "EatsPlants": false,
