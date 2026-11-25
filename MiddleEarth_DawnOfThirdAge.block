@@ -23402,7 +23402,7 @@
       "internalName": "athelas",
       "name": "Athelas",
       "description": "Kingsfoil, a healing herb of the western lands.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 6,
@@ -23414,8 +23414,8 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "canonicalTemperatureMeasurement": true,
       "canonicalTemperatureMeasurementUnit": "°KB",
@@ -23429,7 +23429,7 @@
       "internalName": "mallorn",
       "name": "Mallorn",
       "description": "A silver-barked tree of golden leaves, renowned in Lórien.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 4000,
@@ -23443,8 +23443,8 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "lifetimeExplorationAreaOrTerritory": 0.02,
       "canonicalAreaMeasurement": true,
@@ -23457,7 +23457,7 @@
       "internalName": "lebethron",
       "name": "Lebethron",
       "description": "Dark, strong timber valued by the Dúnedain.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 550,
@@ -23470,15 +23470,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "niphredil": {
       "internalName": "niphredil",
       "name": "Niphredil",
       "description": "Pale flowers of elven woodland.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 8,
@@ -23490,15 +23490,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "elanor": {
       "internalName": "elanor",
       "name": "Elanor",
       "description": "Small golden star-shaped flowers.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 8,
@@ -23510,15 +23510,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "simbelmyne": {
       "internalName": "simbelmyne",
       "name": "Simbelmynë",
       "description": "White flowers whose name means evermind.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 16,
@@ -23530,15 +23530,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "white_tree": {
       "internalName": "white_tree",
       "name": "White Tree Sapling",
       "description": "A precious descendant of Nimloth, guarded by the heirs of Elendil.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.08,
       "maxAge": 1800,
@@ -23552,8 +23552,8 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "bait": false
     },
@@ -23561,7 +23561,7 @@
       "internalName": "willow",
       "name": "River Willow",
       "description": "A willow whose roots drink deep from a riverbank.",
-      "habitat": "AMPHIBIOUS",
+      "habitat": "Amphibious",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 150,
@@ -23574,15 +23574,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "old_willow": {
       "internalName": "old_willow",
       "name": "Ancient Willow",
       "description": "An unusually malicious old willow with hungry roots.",
-      "habitat": "AMPHIBIOUS",
+      "habitat": "Amphibious",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 3000,
@@ -23599,8 +23599,8 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "bait": false
     },
@@ -23608,7 +23608,7 @@
       "internalName": "oak",
       "name": "Ancient Oak",
       "description": "A massive forest oak with roots stretching through dark soil.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 800,
@@ -23622,15 +23622,15 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "beech": {
       "internalName": "beech",
       "name": "Green Beech",
       "description": "A broadleaf tree of the Old Forest and northern valleys.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 500,
@@ -23644,15 +23644,15 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "pine": {
       "internalName": "pine",
       "name": "Mountain Pine",
       "description": "A resinous evergreen of harsh slopes and cold valleys.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 330,
@@ -23666,15 +23666,15 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "fir": {
       "internalName": "fir",
       "name": "Dark Fir",
       "description": "A needle-leaved tree growing in the deeper woods.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 350,
@@ -23687,15 +23687,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "birch": {
       "internalName": "birch",
       "name": "Silver Birch",
       "description": "A pale-barked tree along woodland edges.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 140,
@@ -23709,15 +23709,15 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "ash": {
       "internalName": "ash",
       "name": "Ash Tree",
       "description": "A tall ash whose branches sway over the riverbank.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 450,
@@ -23731,15 +23731,15 @@
         "/##\\",
         " || "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "heather": {
       "internalName": "heather",
       "name": "Purple Heather",
       "description": "Small purple flowers carpeting windswept moors.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 35,
@@ -23751,15 +23751,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "grass": {
       "internalName": "grass",
       "name": "Green Grass",
       "description": "Hardy grass growing in meadows and lowlands.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 12,
@@ -23771,15 +23771,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "clover": {
       "internalName": "clover",
       "name": "Wild Clover",
       "description": "A small meadow plant providing forage.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 5,
@@ -23791,15 +23791,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "berry": {
       "internalName": "berry",
       "name": "Wild Berries",
       "description": "Sweet woodland berries that attract hungry wildlife.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 18,
@@ -23811,15 +23811,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "mushroom": {
       "internalName": "mushroom",
       "name": "Forest Mushroom",
       "description": "An edible mushroom flourishing beneath fallen leaves.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 1,
@@ -23831,15 +23831,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "poison_mushroom": {
       "internalName": "poison_mushroom",
       "name": "Blackcap Mushroom",
       "description": "A treacherous toadstool that resembles edible forest fungi.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 1,
@@ -23851,8 +23851,8 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "GENERATOXIN",
+      "biome": "anyWaterBody",
+      "toxin": "generaToxin",
       "toxinDice": 25,
       "bait": false
     },
@@ -23860,7 +23860,7 @@
       "internalName": "black_nettle",
       "name": "Mordor Nettle",
       "description": "A bitter, stinging plant of ash-choked places.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 5,
@@ -23872,8 +23872,8 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "GENERATOXIN",
+      "biome": "anyWaterBody",
+      "toxin": "generaToxin",
       "toxinDice": 25,
       "canonicalTemperatureMeasurement": true,
       "canonicalTemperatureMeasurementUnit": "°AW",
@@ -23888,7 +23888,7 @@
       "internalName": "thorn",
       "name": "Black Thorn",
       "description": "A dense thorn bush defending itself with sharp branches.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 65,
@@ -23901,15 +23901,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "nightshade": {
       "internalName": "nightshade",
       "name": "Shadow Nightshade",
       "description": "An alluring but dangerous flowering herb.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 5,
@@ -23921,8 +23921,8 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "GENERATOXIN",
+      "biome": "anyWaterBody",
+      "toxin": "generaToxin",
       "toxinDice": 25,
       "bait": false
     },
@@ -23930,7 +23930,7 @@
       "internalName": "reed",
       "name": "River Reed",
       "description": "Tall reeds that shelter fish and nestling birds.",
-      "habitat": "AMPHIBIOUS",
+      "habitat": "Amphibious",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 12,
@@ -23942,15 +23942,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "rush": {
       "internalName": "rush",
       "name": "Marsh Rush",
       "description": "A tufted rush thriving on wet ground.",
-      "habitat": "AMPHIBIOUS",
+      "habitat": "Amphibious",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 9,
@@ -23962,15 +23962,15 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "water_lily": {
       "internalName": "water_lily",
       "name": "Water Lily",
       "description": "Floating leaves and pale flowers upon still water.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 25,
@@ -23981,15 +23981,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "waterweed": {
       "internalName": "waterweed",
       "name": "Waterweed",
       "description": "A flowing ribbon of submerged freshwater vegetation.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 5,
@@ -24000,15 +24000,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "algae": {
       "internalName": "algae",
       "name": "River Algae",
       "description": "Green growth coating rocks beneath running water.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 3,
@@ -24019,15 +24019,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "kelp": {
       "internalName": "kelp",
       "name": "Sea Kelp",
       "description": "Long brown fronds swaying under western waves.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 15,
@@ -24038,15 +24038,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "seagrass": {
       "internalName": "seagrass",
       "name": "Seagrass",
       "description": "Beds of underwater grass in sheltered marine shallows.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 25,
@@ -24057,15 +24057,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "coral": {
       "internalName": "coral",
       "name": "Ancient Coral",
       "description": "Branches of living coral in southern waters.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 350,
@@ -24078,15 +24078,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "seaweed": {
       "internalName": "seaweed",
       "name": "Saltweed",
       "description": "Edible marine fronds tossed by rough surf.",
-      "habitat": "AQUATIC",
+      "habitat": "Aquatic",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 8,
@@ -24097,15 +24097,15 @@
       "art": [
         "~*~"
       ],
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "fern": {
       "internalName": "fern",
       "name": "Green Fern",
       "description": "Unfurling fronds of moist woodland.",
-      "habitat": "TERRESTRIAL",
+      "habitat": "Terrestrial",
       "grows": true,
       "spreadRate": 0.2,
       "maxAge": 24,
@@ -24117,8 +24117,8 @@
         "\\|/",
         " | "
       ],
-      "biome": "ANYWATERBODY",
-      "toxin": "NON_TOXIC",
+      "biome": "anyWaterBody",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "fresh_phytoplankton": {
@@ -24135,9 +24135,9 @@
         "..",
         " ."
       ],
-      "habitat": "AQUATIC",
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
         "These photosynthetic drifters underpin much of the freshwater food web."
@@ -24157,9 +24157,9 @@
       "art": [
         ".o."
       ],
-      "habitat": "AQUATIC",
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "fresh_benthos": {
@@ -24176,9 +24176,9 @@
       "art": [
         "o~o"
       ],
-      "habitat": "AQUATIC",
-      "biome": "FRESHWATER",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Freshwater",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
         "Benthic invertebrates are particularly important food for bottom-feeding sturgeon and carp."
@@ -24197,9 +24197,9 @@
       "art": [
         ".:."
       ],
-      "habitat": "AQUATIC",
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
         "Marine phytoplankton support zooplankton that are eaten by herring and other fish."
@@ -24219,9 +24219,9 @@
       "art": [
         ".o."
       ],
-      "habitat": "AQUATIC",
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8,
       "extraFunFacts": [
         "Herring feed heavily upon the tiny drifting animals that fill the western seas."
@@ -24241,9 +24241,9 @@
       "art": [
         "<o>"
       ],
-      "habitat": "AQUATIC",
-      "biome": "OCEAN",
-      "toxin": "NON_TOXIC",
+      "habitat": "Aquatic",
+      "biome": "Ocean",
+      "toxin": "nonToxic",
       "toxinDice": 8
     },
     "riverbed_detritus": {
@@ -24260,8 +24260,8 @@
       "art": [
         "~.,~"
       ],
-      "habitat": "AMPHIBIOUS",
-      "biome": "FRESHWATER"
+      "habitat": "Amphibious",
+      "biome": "Freshwater"
     },
     "maggoty_bread": {
       "internalName": "maggoty_bread",
@@ -24278,8 +24278,8 @@
       "art": [
         "[~#~]"
       ],
-      "habitat": "AMPHIBIOUS",
-      "biome": "FRESHWATER",
+      "habitat": "Amphibious",
+      "biome": "Freshwater",
       "extraFunFacts": [
         "Orcs may complain about maggoty bread. Siltworms are considerably less fussy."
       ]
@@ -24301,8 +24301,8 @@
         " . * . ",
         "~*   *~"
       ],
-      "habitat": "AQUATIC",
-      "biome": "FRESHWATER",
+      "habitat": "Aquatic",
+      "biome": "Freshwater",
       "extraFunFacts": [
         "Pale faces are said to shimmer beneath the black water wherever the corpse-lights gather.",
         "Travellers who follow the lights often step into deep, clinging mire and are never seen again."
@@ -24323,8 +24323,8 @@
       "art": [
         "%~x~%"
       ],
-      "habitat": "AMPHIBIOUS",
-      "biome": "FRESHWATER",
+      "habitat": "Amphibious",
+      "biome": "Freshwater",
       "extraFunFacts": [
         "Worms and other scavengers feed upon the drowned remnants of warriors lost at Dagorlad.",
         "Their presence marks the old battlefield of Dagorlad."
